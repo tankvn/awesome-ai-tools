@@ -13,11 +13,10 @@ A curated list of awesome AI tools
   - [Text Generators](#text-generators)
     - [Prompt Generators](#prompt-generators)
     - [Writing Generators](#writing-generators)
+    - [Paraphrasing](#paraphrasing)
     - [Copywriting](#copywriting)
     - [Email Assistant](#email-assistant)
     - [General Writing](#general-writing)
-    - [Paraphraser](#paraphraser)
-    - [Prompts](#prompts)
     - [SEO](#seo)
     - [Social Media Assistant](#social-media-assistant)
     - [Story Teller](#story-teller)
@@ -1702,6 +1701,45 @@ A curated list of awesome AI tools
 - [ResumeRanker](https://www.futurepedia.io/tool/resumeranker) - Dedicated to optimizing job seekers' resumes, increasing their chances of securing desired positions. [Free Trial]
 - [Ginger](https://www.futurepedia.io/tool/ginger) - Enhance your writing with real-time grammar checks, creative sentence rephrasing, and multilingual support. [Freemium]
 
+### Paraphrasing
+
+- [Quillbot](https://www.futurepedia.io/tool/quillbot) - Revolutionize writing with AI-powered paraphrasing, summarizing, and grammar checking. [Freemium]
+- [Penelope AI](https://www.futurepedia.io/tool/penelope-ai) - Elevate writing with AI: rewriting, summarizing, PDF editing, user-friendly. [Free Trial]
+- [Netus AI](https://www.futurepedia.io/tool/netus-ai) - Revolutionize content creation with undetectable AI paraphrasing and multilingual support. [Free Trial]
+- [Linguix](https://www.futurepedia.io/tool/linguix) - Elevate writing with AI assistance, grammar checks, and multilingual support. [Freemium]
+- [Typeboss](https://www.futurepedia.io/tool/typeboss) - Revolutionize content creation with AI: write, edit, paraphrase, and optimize, effortlessly. [Paid]
+- [TextBuddy](https://www.futurepedia.io/tool/textbuddy) - Enhance writing clarity with AI-powered editing and multilingual support. [Freemium]
+- [Mojju](https://www.futurepedia.io/tool/mojju) - A versatile AI platform with specialized GPTs for productivity, creativity, and education. [Freemium]
+- [AISEO](https://www.futurepedia.io/tool/aiseo) - Supercharge your writing skills with AI-generated, SEO-optimized content. [Free Trial]
+- [Rephraser AI](https://www.futurepedia.io/tool/rephraser-ai) - Rephrase text using AI with multiple options for tone and style . [Free]
+- [Bearly](https://www.futurepedia.io/tool/bearly) - Create summaries, outlines, & reword for research articles. [Freemium]
+- [Rewriteit AI](https://www.futurepedia.io/tool/rewriteit-ai) - Rewrite with Confidence: Enhance Your Writing with AI Technology. [Free]
+- [StudyCrumb](https://www.futurepedia.io/tool/studycrumb) - This essay rephraser can change the wording of any content. [Free]
+- [Better Synonyms](https://www.futurepedia.io/tool/better-synonyms) - A convenient way to find better synonyms for words in a specific context. [Free]
+- [Paraphraser](https://www.futurepedia.io/tool/paraphraser) - Produce variations of your text in over 100 languages. [Free TrialFreemium]
+- [LanguageTool](https://www.futurepedia.io/tool/languagetool) - Corrects spelling, grammar, word choice & style in 30+ languages. [Freemium]
+- [WordAI](https://www.futurepedia.io/tool/wordai) - Automate content creation with AI to save time, money, and improve quality. [Free Trial]
+- [RiteBot ](https://www.futurepedia.io/tool/ritebot) - Experience Cutting-Edge AI Tools for Writing with RiteBot . [Free]
+- [Writer](https://www.futurepedia.io/tool/writer) - AI writing platform for teams to craft clear, consistent content. Try it free!. [Freemium]
+- [Rephrasely](https://www.futurepedia.io/tool/rephrasely) - Paraphrase tool with 20 modes to help clarify thinking & suit words to audience. [FreemiumFree Trial]
+- [Undetectable AI](https://www.futurepedia.io/tool/undetectable-ai) - We create truly undetectable AI content. [Free Trial]
+- [Bogar.AI](https://www.futurepedia.io/tool/bogarai) - Create Better Content 10X Faster. [Freemium]
+- [Franz AI](https://www.futurepedia.io/tool/franz-ai) - A Chrome extension to rewrite text using OpenAI API. [Free]
+- [Writely](https://www.futurepedia.io/tool/writely) - Making writing easier for everyone. [Free Trial]
+- [WordfixerBot](https://www.futurepedia.io/tool/wordfixerbot) - WordfixerBot is a multi-purpose text tool for editing, summarizing, and comparing. [Freemium]
+- [WriteAI.Tech](https://www.futurepedia.io/tool/writeaitech) - Create unique and engaging content that will increase conversions and drive sales, and generate stunning images that will increase engagement. [Free Trial]
+- [Pod Genie](https://www.futurepedia.io/tool/pod-genie) - Turn any RSS feed into your own podcast. [Paid]
+- [SpellCopy](https://www.futurepedia.io/tool/spellcopy) - Meet the SpellCopy AI, an AI-powered app that makes it easy to generate compelling text for all your marketing materials. With the SpellCopy, you can harness the power of AI to quickly and easily create engaging social media posts, email campaigns, and website content that will help you connect with your audience and drive results. Give it a try and see how AI can transform your marketing efforts!. [Freemium]
+- [Textify](https://www.futurepedia.io/tool/textify) - AI writing tools from a single point of access. [Freemium]
+- [GPTinf](https://www.futurepedia.io/tool/gptinf) - Bypass AI content detectors. [Free Trial]
+- [Stealth Writer](https://www.futurepedia.io/tool/stealth-writer) - Content created, undetectable by detection systems. [Paid]
+- [Regem AI Plus](https://www.futurepedia.io/tool/regem-ai-plus) - Regem AI Rephrase Tool is a Free and Powerful AI-based Rephrasing tool to rephrase the content in seconds. [Paid]
+- [Zero GPT](https://www.futurepedia.io/tool/zero-gpt) - Plagiarism detector for AI generated text. [Freemium]
+- [ContentChat](https://www.futurepedia.io/tool/contentchat) - Simplifies the process of extracting key insights from various content sources using AI-assisted chats. [Paid]
+- [Koala](https://www.futurepedia.io/tool/koala) - Elevate your writing with this AI-powered tool, offering real-time editing, SEO optimization, and creative content generation. [Freemium]
+- [Winston](https://www.futurepedia.io/tool/winston) - The most powerful AI content detection solution. [Freemium]
+- [Ginger](https://www.futurepedia.io/tool/ginger) - Enhance your writing with real-time grammar checks, creative sentence rephrasing, and multilingual support. [Freemium]
+
 ### Copywriting
 - [MarketingBlocks AI](https://marketingblocks.ai) - All-In-One AI Marketing Assistant that writes, creates & designs in minutes. [Freemium]
 - [Adcreative.ai](https://www.adcreative.ai) - Generate conversion focused ad and social media post creatives in a matter of seconds.
@@ -1780,10 +1818,6 @@ A curated list of awesome AI tools
 ### Email Assistant
 
 ### General Writing
-
-### Paraphraser
-
-### Prompts
 
 ### SEO
 
