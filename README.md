@@ -31,12 +31,6 @@ A curated list of awesome AI tools
     - [Photoshop](#photoshop)
     - [Logo Generator](#logo-generator)
     - [3D](#3d)
-  - [Code](#code)
-    - [Code Assistant](#code-assistant)
-    - [Developer Tools](#developer-tools)
-    - [Low-code/no-code](#low-codeno-code)
-    - [Spreadsheets](#spreadsheets-1)
-    - [SQL](#sql)
   - [Audio](#audio)
     - [Audio Editing](#audio-editing)
     - [Music](#music)
@@ -46,8 +40,6 @@ A curated list of awesome AI tools
     - [Personalized Videos](#personalized-videos)
     - [Video Editing](#video-editing)
     - [Video Generator](#video-generator)
-  - [3D](#3d-1)
-    - [3D](#3d-2)
   - [Business](#business)
     - [Customer Support](#customer-support)
     - [E-commerce](#e-commerce)
@@ -61,17 +53,11 @@ A curated list of awesome AI tools
     - [Real Estate](#real-estate)
     - [Sales](#sales)
     - [Startup Tools](#startup-tools)
-  - [Other](#other)
-    - [Experiments](#experiments)
-    - [Fun Tools](#fun-tools)
-    - [Gaming](#gaming)
-    - [Gift Ideas](#gift-ideas)
-    - [Healthcare](#healthcare)
-    - [Life Assistant](#life-assistant)
-    - [Memory](#memory)
-    - [Research](#research)
-    - [Resources](#resources)
-    - [Search Engine](#search-engine-1)
+  - [Code](#code)
+    - [Code Assistant](#code-assistant)
+    - [Low-code/no-code](#low-codeno-code)
+    - [SQL](#sql)
+    - [Github](#github)
 
 
 ## Productivity Tools
@@ -3714,17 +3700,7 @@ A curated list of awesome AI tools
 - [MagiScan](https://www.futurepedia.io/tool/magiscan) - Capture and convert real-world objects into 3D models effortlessly. [Free Trial]
 - [items](https://www.futurepedia.io/tool/items) - Revolutionize digital design with AI-generated, versatile, and free-to-use creative assets. [Freemium]
 
-## Code
 
-### Code Assistant
-
-### Developer Tools
-
-### Low-code/no-code
-
-### Spreadsheets
-
-### SQL
 
 ## Audio
 
@@ -3743,10 +3719,6 @@ A curated list of awesome AI tools
 ### Video Editing
 
 ### Video Generator
-
-## 3D
-
-### 3D
 
 ## Business
 
@@ -3774,27 +3746,182 @@ A curated list of awesome AI tools
 
 ### Startup Tools
 
-## Other
+## Code
 
-### Experiments
+### Code Assistant
 
-### Fun Tools
+- [Codeium](https://www.futurepedia.io/tool/codeium) - Elevate coding with AI-driven code completion, chat assistance, and seamless editor integration. [Free]
+- [MarsX](https://www.futurepedia.io/tool/marsai) - Unleash rapid app development with AI, NoCode, and MicroApps ecosystem. [Free]
+- [Safurai](https://www.futurepedia.io/tool/safurai) - Transform the way you use ChatGPT for coding. [Free]
+- [Replit](https://www.futurepedia.io/tool/replit) - Streamline coding, collaborate in real-time, deploy instantly from your browser. [Freemium]
+- [GitFluence](https://www.futurepedia.io/tool/gitfluence) - AI-powered instant Git command suggestions for streamlined development workflows. [Free]
+- [GPT-3 Playground](https://www.futurepedia.io/tool/gpt3-playground) - Unleash AI-driven text generation with unparalleled versatility and customization. [Free Trial]
+- [GitHub Copilot](https://www.futurepedia.io/tool/copilot) - AI-powered coding assistant offering real-time suggestions, learning from your style. [Free Trial]
+- [Rosebud](https://www.futurepedia.io/tool/rosebud) - Unleash AI to convert text into playable games, animate characters, and craft assets with ease. [Free]
+- [Cron AI](https://www.futurepedia.io/tool/cron-ai) - Transform plain text into precise cron expressions effortlessly; automate with ease. [Free]
+- [Tabnine](https://www.futurepedia.io/tool/tabnine) - Unlock rapid, secure coding with AI-driven personalized suggestions across IDEs. [FreemiumFree Trial]
+- [AI2sql](https://www.futurepedia.io/tool/ai2sql) - Enable non-engineers to write efficient SQL queries without knowing SQL. [Freemium]
+- [Lookup](https://www.futurepedia.io/tool/lookup) - Unify data searches with AI precision across multiple platforms. [Free Trial]
+- [Spellbox](https://www.futurepedia.io/tool/spellbox) - Transform prompts into code with AI, enhancing productivity and learning. [Paid]
+- [ChatNBX](https://www.futurepedia.io/tool/chatnbx) - Unleash AI-enhanced, seamless communication across devices; ideal for teams and customer support. [Freemium]
+- [AutoRegex](https://www.futurepedia.io/tool/autoregex) - AI-powered Regex generator & English translator. [Freemium]
+- [Helper](https://www.futurepedia.io/tool/helper) - Helper is an AI-powered tool that provides direct access to ChatGPT within your favorite apps, eliminating the need for context switching. [Free]
+- [Pgrammer](https://www.futurepedia.io/tool/pgrammer) - Revolutionize coding interview prep with AI-driven, personalized challenges and real-time feedback. [Free Trial]
+- [Taiga](https://www.futurepedia.io/tool/taiga) - Your AI coding mentor accessible via Slack. [Free]
+- [WiseData](https://www.futurepedia.io/tool/wisedata) - Transform and visualize data with AI-powered Python analytics. [Free]
+- [BlackBox AI](https://www.futurepedia.io/tool/blackbox-ai) - Revolutionize coding: AI generation, conversational code help, intuitive search. [Free Trial]
+- [WPTurbo](https://www.futurepedia.io/tool/wpturbo) - AI-driven WordPress code generation for developers, enhancing speed and customization. [Free Trial]
+- [Adept](https://www.futurepedia.io/tool/adept) -  A versatile AI for enhancing productivity through human-computer collaboration. [Contact for Pricing]
+- [Prisma Editor](https://www.futurepedia.io/tool/prisma-editor) - Revolutionize Prisma schema management with visualization, editing, and OpenAI integration. [Free]
+- [Sly.fish](https://www.futurepedia.io/tool/slyfish) - Protect, manage, and automate your digital privacy with AI. [Freemium]
+- [GPT Engineer](https://www.futurepedia.io/tool/gpt-engineer) - Transforms natural language into executable code; boosts development efficiency. [Free]
+- [TeamSmart AI](https://www.futurepedia.io/tool/teamsmart-ai) - Boost productivity with customizable AI assistants in a Chrome extension. [Paid]
+- [CogiX](https://www.futurepedia.io/tool/cogix) - Unleash creativity with AI-driven text, image, code generation, and multilingual chatbots. [Freemium]
+- [Sketch2App](https://www.futurepedia.io/tool/sketch2app) - Transform sketches to interactive app prototypes. [Free]
+- [BashSenpai](https://www.futurepedia.io/tool/bashsenpai) - Terminal assistant harnessing ChatGPT for context-aware commands. [Free Trial]
+- [Create](https://www.futurepedia.io/tool/create) - Transform ideas into apps: AI-driven development, intuitive design, cross-platform compatibility, community support. [Free]
+- [CodeWiz](https://www.futurepedia.io/tool/codewiz) - Empower kids with future tech skills through personalized coding and robotics education. [Freemium]
+- [SuperAGI](https://www.futurepedia.io/tool/superagi) - Infrastructure for building your next app with Autonomous Agents. [Free]
+- [Grok](https://www.futurepedia.io/tool/grok) - Experience innovative research and creative insights with Grok AI, a witty AI assistant known for its fun and engaging approach. [Paid]
+- [AI/ML API](https://www.futurepedia.io/tool/aiml-api) - Unlock AI capabilities easily with 100+ models, serverless, cost-effective, OpenAI compatible. [Contact for Pricing]
+- [Amazon CodeWhisperer](https://www.futurepedia.io/tool/amazon-codewhisperer) - Write code faster with ML-powered code recommendations. [Free]
+- [Code Snippets AI](https://www.futurepedia.io/tool/code-snippets-ai) - Revolutionize coding with AI-powered snippet management and contextual assistance. [Freemium]
+- [Imbue](https://www.futurepedia.io/tool/imbue) -  An innovative AI tool that redefines personal computing with advanced, real-world capable AI agents. [Free]
+- [Kinetix](https://www.futurepedia.io/tool/kinetix) - Create 3D animations for free. No code, no skills needed. Explore the metaverse. [Free]
+- [AI CLI](https://www.futurepedia.io/tool/ai-cli) - Open source GPT-3 CLI, improving response & cost. [Free]
+- [PionexGPT](https://www.futurepedia.io/tool/pionexgpt) - Pionex GPT – Create Your Own Strategy with AI. [Free]
+- [CodeGeeX](https://www.futurepedia.io/tool/codegeex) - CodeGeeX: 13B params, 20+ langs, 15+ for code generation & translation. [Free]
+- [CodeAssist](https://www.futurepedia.io/tool/codeassist) - Generate code for popular programming languages. [Free]
+- [Buildt](https://www.futurepedia.io/tool/buildt) - AI-powered search to find & modify code by describing what it does. [Free]
+- [AI Code Mentor](https://www.futurepedia.io/tool/ai-code-mentor) - Unlock Your Coding Potential with AI Code Mentor. [Free]
+- [Codeamigo](https://www.futurepedia.io/tool/codeamigo) -  Interactive coding tutorial tool using AI to help users learn how to code. [Free]
+- [Duino Code Generator](https://www.futurepedia.io/tool/duino-code-generator) - Automate Arduino coding with AI, freeing up time for tinkering. [Free]
+- [SourceAI](https://www.futurepedia.io/tool/sourceai) - AI-Powered Code Generator. [Paid]
+- [Sketch](https://www.futurepedia.io/tool/sketch) - Sketch is an AI code-writing assistant for pandas users that requires no setup. [Free]
+- [JIT.codes](https://www.futurepedia.io/tool/jitcodes) - Converts text to code in many languages. [Free]
+- [Google Colab Copilot](https://www.futurepedia.io/tool/google-colab-copilot) - AI Python coding assistant on Google Collab. [Free]
+- [Bito](https://www.futurepedia.io/tool/bito) - Use the same AI as ChatGPT, trained on billions of lines of code and docs. [Free]
+- [Auto Backend](https://www.futurepedia.io/tool/auto-backend) - Automatically create a backend for your app. [Free]
+- [AI HTML Generator - California Markup](https://www.futurepedia.io/tool/ai-html-generator-california-markup) - Generated HTML code for web development. [Free]
+- [Airtest](https://www.futurepedia.io/tool/airtest) - Generate Unit Tests; Supports Typescript, Python, Mocha, Jest. [Free]
+- [Hey, GitHub!](https://www.futurepedia.io/tool/hey-github) - Voice-to-code tool helps you code without typing, using GitHub Copilot. [Free Trial]
+- [CodeSquire](https://www.futurepedia.io/tool/codesquire) - AI-powered code assistant for data pros to get code completions & suggestions. [Free Trial]
+- [Deepnote](https://www.futurepedia.io/tool/deepnote) - Deepnote's AI Copilot, with its efficient and contextual code suggestions, is paving the way for a future of AI-powered data exploration in notebooks. [Freemium]
+- [CodiumAI](https://www.futurepedia.io/tool/codiumai) - Generate meaningful tests for busy devs. [Free]
+- [LlamaChat](https://www.futurepedia.io/tool/llamachat) - Multiple models for interactive chat experience. [Free]
+- [CodeConvert AI](https://www.futurepedia.io/tool/codeconvert-ai) - AI-powered code conversion across programming languages. [Free]
+- [Codacy](https://www.futurepedia.io/tool/codacy) - Automate Code Fixes in 40+ Languages with AI-Powered Coding Assistance. [Free]
+- [Microapp AI](https://www.futurepedia.io/tool/microapp-ai) - React + Tailwind CSS components generated with AI. [Free]
+- [Unakin](https://www.futurepedia.io/tool/unakin) - Helping game studios build more hits, with text-to-gameplay prototyping. [Free]
+- [Code Assist](https://www.futurepedia.io/tool/code-assist) - CodeAssist can directly read and write code from/into your editor. . [Free]
+- [AgileGPT](https://www.futurepedia.io/tool/agilegpt) - Transform your team dynamics to build high-performing teams. [Paid]
+- [Regex.ai](https://www.futurepedia.io/tool/regexai) - AI-powered regular expression generator. [Free]
+- [Kodezi ai](https://www.futurepedia.io/tool/kodezi-ai) - AI developer tool assistant that auto-corrects your code. [Free Trial]
+- [PSEUDO](https://www.futurepedia.io/tool/pseudo) - Transforming Code into Human-readable Pseudocode. [Free]
+- [Debugcode](https://www.futurepedia.io/tool/debugcode) -  Debug your code effortlessly with DebugCode.AI, a state-of-the-art AI-powered debugging tool . [Free]
+- [AI Code Converter](https://www.futurepedia.io/tool/ai-code-converter) - Generate Code or Natural Language To Another Language Code. [Free]
+- [ADLN](https://www.futurepedia.io/tool/adln) - AI-powered tools to accelerate business growth and productivity. [Freemium]
+- [What does this code do?](https://www.futurepedia.io/tool/what-does-this-code-do) - Rapidly grasp new code with a VS Code extension. [Free]
+- [Gitwit](https://www.futurepedia.io/tool/gitwit) - GitWit - AI-Powered Coding Accelerator for Software Developers. [Free]
+- [GPT95](https://www.futurepedia.io/tool/gpt95) - VSCode extension that uses ChatGPT. [Free Trial]
+- [Mutable](https://www.futurepedia.io/tool/mutable) - Build fast with AI for production-level quality. [Freemium]
+- [RegEx Generator](https://www.futurepedia.io/tool/regex-generator) - AI-Powered Regular Expression Generator using spoken language. [Free]
+- [FlutterFlow AI Gen](https://www.futurepedia.io/tool/flutterflow-ai-gen) - Your intelligent assistant for app creation in Flutter Flow. [Freemium]
+- [WhatTheDiff](https://www.futurepedia.io/tool/whatthediff) - Code review assistant saves time & provides pull request summaries. [Freemium]
+- [Spark Engine](https://www.futurepedia.io/tool/spark-engine) - Revolutionary generative coding engine transforming the coding landscape. [Free]
+- [GPT Web App Generator](https://www.futurepedia.io/tool/gpt-web-app-generator) - GPT Web App Generator combines the power of GPT with the Wasp full-stack framework to swiftly create versatile web applications. [Free]
+- [Zeus Notebook](https://www.futurepedia.io/tool/zeus-notebook) - Browser-based Python notebook with an AI code assistant named Zeus. [Free]
+- [Fix My Code](https://www.futurepedia.io/tool/fix-my-code) - Fix My Code is an AI-based tool offered by UserWay that aims to optimize code to meet WCAG 2.1 AA standards. . [Free]
+- [Parsagon](https://www.futurepedia.io/tool/parsagon) - Create browser automations with natural language. [Free]
+- [Stenography](https://www.futurepedia.io/tool/stenography) - Automated Documentation. [Paid]
+- [AskCodi](https://www.futurepedia.io/tool/askcodi) - Help developers write syntax, comments, and tests faster, easier, and better. [Freemium]
+- [Imaginary Programming](https://www.futurepedia.io/tool/imaginary-programming) - Code generation using TypeScript and GPT runtime. [Free]
+- [CodeMate AI](https://www.futurepedia.io/tool/codemate-ai) - Grammarly for Programmers. [Freemium]
+- [Zazzani AI](https://www.futurepedia.io/tool/zazzani-ai) - Speed up your workflow with top-tier software, written content, and art. [Contact for Pricing]
+- [Fig AI](https://www.futurepedia.io/tool/fig-ai) - Seamless terminal add-on for shells, IDEs & popular terminals. [Freemium]
+- [Constitute](https://www.futurepedia.io/tool/constitute) - Rapid programming help using chatbot. [Free]
+- [Raycast Al](https://www.futurepedia.io/tool/raycast-al) - Unlock the power of AI on your Mac. [Freemium]
+- [Ai Code Reviewer](https://www.futurepedia.io/tool/ai-code-reviewer) - Improve your code with AI Code Reviewer. [Free]
+- [LMQL](https://www.futurepedia.io/tool/lmql) - Natural language querying for large models. [Free]
+- [Xata](https://www.futurepedia.io/tool/xata) - A data platform for developers. [Freemium]
+- [Smol Developer](https://www.futurepedia.io/tool/smol-developer) - Smol Developer introduces an ingenious AI tool that acts as your very own personal developer. [Free]
+- [PaletteBrain](https://www.futurepedia.io/tool/palettebrain) -  Unleash ChatGPT across all your Mac applications. [Paid]
+- [GitPoet](https://www.futurepedia.io/tool/gitpoet) - GitPoet uses AI technology to suggest accurate and meaningful commit messages based on your git diff. [Free]
+- [CensysGPT](https://www.futurepedia.io/tool/censysgpt) -  Query-building tool for effective Censys searches and obtaining insights about internet hosts. [Free]
+- [Alibaba Cloud AI Coding Assistant](https://www.futurepedia.io/tool/alibaba-cloud-ai-coding-assistant) - An AI assistant which helps you code faster. [Free]
+- [Lightrail](https://www.futurepedia.io/tool/lightrail) - An AI command bar for developers. [Free]
+- [JPT](https://www.futurepedia.io/tool/jpt) - JPT is a Chrome extension that allows users to run Python code directly within ChatGPT instead of copying and pasting code back and forth. [Free]
+- [Coderabbit.ai](https://www.futurepedia.io/tool/coderabbitai) - Line-by-line code analysis and precise improvement suggestions that developers can easily incorporate into pull requests. [Freemium]
+- [Generate JSON](https://www.futurepedia.io/tool/generate-json) - Rapidly make dummy JSON for software testing. [Free]
+- [Continual](https://www.futurepedia.io/tool/continual) - Operational AI platform for modern data stack. [Free Trial]
+- [Mentat](https://www.futurepedia.io/tool/mentat) - Your AI-Powered Coding Assistant. [Free]
+- [LogicLoop AI SQL](https://www.futurepedia.io/tool/logicloop-ai-sql) - AI-powered SQL query generation, optimization, and debugging. [Contact for Pricing]
+- [Pantheon Robotics](https://www.futurepedia.io/tool/pantheon-robotics) - Innovative tool that enables users to effortlessly generate executable code for a generic robot, specifically designed based on a physical proof-of-concept by Pantheon Robotics. [Free]
+- [Codiga](https://www.futurepedia.io/tool/codiga) - Codiga is a powerful AI-powered static code analysis tool designed to enhance code quality and improve developer productivity. [Free]
+- [SDK Vercel](https://www.futurepedia.io/tool/sdk-vercel) - The AI Playground by Vercel is an online platform that allows users to build AI-powered applications using the latest AI language models. [Free]
+- [GGML](https://www.futurepedia.io/tool/ggml) - GGML is a tensor library for machine learning to enable large models and high performance on commodity hardware. [Free]
+- [Kamara](https://www.futurepedia.io/tool/kamara) - VS Code Extension that writes and edits your code with help of AI. [Freemium]
+- [Hackerman.AI](https://www.futurepedia.io/tool/hackermanai) - Offers interactive learning through code snippets with gaps, enabling hands-on experience and mastery. [Free Trial]
+- [CodeCompanion](https://www.futurepedia.io/tool/codecompanion) - Prototype faster, code smarter, enhance learning and scale your productivity with the power of AI. [Free]
+- [Whybug](https://www.futurepedia.io/tool/whybug) - Whybug Explain is a tool designed to assist developers in quickly identifying the root cause of errors in their code. . [Free]
+- [MediCodio](https://www.futurepedia.io/tool/medicodio) - Increase the Efficiency of your Medical Coding by Automating Workflows. [Contact for Pricing]
+- [DocumentationLab](https://www.futurepedia.io/tool/documentationlab) - Manage and document software development. [Free Trial]
+- [Glaive](https://www.futurepedia.io/tool/glaive) - Designed for developers and programmers, offering language models tailored to coding tasks. [Free]
+- [Quest](https://www.futurepedia.io/tool/quest) - React App Builder for Clean, Extendable Applications. [Free Trial]
+- [Exo](https://www.futurepedia.io/tool/exo) - Optimized code for efficient programming. [Freemium]
+- [Maverick](https://www.futurepedia.io/tool/maverick) - Automated code review tool that complements GitHub's Copilot by providing an additional layer of code review for GitHub pull requests. [Free]
+- [Refact AI ](https://www.futurepedia.io/tool/refact-ai) - Refact is a powerful self-hosted AI code assistant for JetBrains and VS Code . [Freemium]
+- [AI Dev Codes](https://www.futurepedia.io/tool/ai-dev-codes) - AIdev.codes is an AI-powered tool that allows users to create custom web pages by conversing with an AI. [Paid]
+- [DevGPT](https://www.futurepedia.io/tool/devgpt) - Provides ready-to-use, contextually relevant code to streamline coding processes and enhance productivity. [Freemium]
+- [TimeComplexity](https://www.futurepedia.io/tool/timecomplexity) - TimeComplexity.ai is an AI tool that analyzes the runtime complexity of code and returns the results. [Freemium]
+- [Code Genius](https://www.futurepedia.io/tool/code-genius) - Empowering Coders with Code Genius. [Free]
+- [ObfusCat](https://www.futurepedia.io/tool/obfuscat) - Generated private code for businesses. [Freemium]
+- [Boxy](https://www.futurepedia.io/tool/boxy) - Meet Boxy, Your New AI Coding Assistant. [Freemium]
+- [Op](https://www.futurepedia.io/tool/op) - Stop wrestling with python pandas and generate code by simply asking questions about your data. [Free Trial]
+- [Warp AI](https://www.futurepedia.io/tool/warp-ai) - The terminal for the 21st century. [Contact for Pricing]
+- [Code Converter](https://www.futurepedia.io/tool/code-converter) - Code Converter is an online tool that allows users to quickly convert code snippets from one programming language to another. . [Free Trial]
+- [Checksum](https://www.futurepedia.io/tool/checksum) - Generate and maintain end-to-end tests using AI. [Contact for Pricing]
+- [TLDR](https://www.futurepedia.io/tool/tldr) - TLDR is an AI-powered IDE plugin designed to explain code in plain English, allowing developers to quickly build the mental context of methods that are not instantly understood. [Freemium]
+- [BoltAI](https://www.futurepedia.io/tool/boltai) - Instant access to ChatGPT on any Mac app. No more context switching. [Paid]
+- [Refactory](https://www.futurepedia.io/tool/refactory) - AI-Powered Code Quality Improvement Tool. [Free]
+- [Reflect.run](https://www.futurepedia.io/tool/reflectrun) - Automated regression testing, simplified. [Contact for Pricing]
+- [AICommit](https://www.futurepedia.io/tool/aicommit) - AI-powered programming assistant for JetBrains IDEs!. [Free Trial]
+- [EnhanceAI](https://www.futurepedia.io/tool/enhanceai) - Autocompleted website inputs with suggestions. [Freemium]
+- [Codex](https://www.futurepedia.io/tool/codex) - Codex by Wolfia is an AI-powered tool designed to help developers quickly find information within their codebase. [Contact for Pricing]
+- [Parea AI](https://www.futurepedia.io/tool/parea-ai) - Advanced Language Model Optimization Platform. [Free Trial]
+- [Codecomplete.ai](https://www.futurepedia.io/tool/codecompleteai) - CodeComplete is developing an Enterprise-focused AI code assistant similar to Github Copilot. . [Contact for Pricing]
+- [Komandi](https://www.futurepedia.io/tool/komandi) - Efficient terminal command management and generation. [Free Trial]
+- [Photocode AI coding assistant](https://www.futurepedia.io/tool/photocode-ai-coding-assistant) - Photocode is an AI coding assistant that uses artificial intelligence to analyze, explain, and debug code. [Freemium]
+- [Figstack](https://www.futurepedia.io/tool/figstack) - Figstack is a tool suite that helps developers understand and document code more quickly and efficiently. [Free Trial]
+- [Suzan](https://www.futurepedia.io/tool/suzan) - Safe Ai for your team: focused on compliance and social collaboration. [Paid]
+- [Gitlab Code Suggestions](https://www.futurepedia.io/tool/gitlab-code-suggestions) - Provides intelligent suggestions for code, enhancing coding productivity and streamlining software development. [Freemium]
+- [How2](https://www.futurepedia.io/tool/how2) - How2 is an AI tool that provides code-completion for the Unix Terminal, suggesting shell commands using AI models. [Freemium]
+- [Merge](https://www.futurepedia.io/tool/merge) - Blueprint uses AI to change how we build integrations. . [Contact for Pricing]
+- [Makedraft](https://www.futurepedia.io/tool/makedraft) - Create HTML templates with AI. [Free]
+- [Devassistant.ai](https://www.futurepedia.io/tool/devassistantai) - Your AI Co-Programmer for Efficient Development. [Paid]
+- [Gradientj](https://www.futurepedia.io/tool/gradientj) - Designed for building and managing NLP applications with Large Language Models like GPT-4. [Contact for Pricing]
+- [I18ncore](https://www.futurepedia.io/tool/i18ncore) - I18ncore is an I18n management tool which allows you to quickly and easily edit, create and manage your applications content. [Paid]
+- [Whisprai](https://www.futurepedia.io/tool/whisprai) - Whispr AI is an AI-powered code review assistant that enhances coding efficiency and saves time. [Free Trial]
+- [Please Don't Code](https://www.futurepedia.io/tool/please-dont-code) - Boost your coding with our AI code generator. [Free Trial]
+- [Juno](https://www.futurepedia.io/tool/juno) - Designed for data science tasks, offering features to enhance code quality and efficiency. [Paid]
+- [Jam](https://www.futurepedia.io/tool/jam) - Your AI Debugging Assistant for Efficient Bug Fixing. [Freemium]
+- [Lintrule](https://www.futurepedia.io/tool/lintrule) - Supercharge Code Reviews and Policy Enforcement. [Paid]
+- [Metabob](https://www.futurepedia.io/tool/metabob) - Code Review and Software Security Enhancer. [Freemium]
+- [Bugasura](https://www.futurepedia.io/tool/bugasura) - Bug tracker designed to streamline the reporting, tracking, and closing of bugs for modern technology teams. [Freemium]
+- [RemixFast](https://www.futurepedia.io/tool/remixfast) - Simplifies the process by automatically generating code, allowing developers to focus on essential coding tasks. [Paid]
+- [PseudoEditor](https://www.futurepedia.io/tool/pseudoeditor) - Online pseudocode IDE/editor with syntax highlighting and compiler features. [Freemium]
+- [UpCodes](https://www.futurepedia.io/tool/upcodes) - AI-Powered Code Assistant for US Construction Regulations. [Free Trial]
+- [Aide](https://www.futurepedia.io/tool/aide-) - Unleash AI-powered coding completions, chat assistance, and privacy in VSCode. [Free Trial]
+- [MATLAB](https://www.futurepedia.io/tool/matlab) - Easiest and most productive software environment for engineers and scientists. [Freemium]
+- [Rely.io](https://www.futurepedia.io/tool/rely-io) - Empower engineering excellence with AI-driven service reliability and developer tools. [Free Trial]
+- [Prototyper](https://www.futurepedia.io/tool/prototyper) - Transform ideas into code effortlessly with AI-driven prototyping, collaboration, and versatile framework support. [Paid]
+- [Aspen](https://www.futurepedia.io/tool/aspenio) - AI-enhanced API testing and code generation, tailored for Apple OS. [Free]
 
-### Gaming
+### Low-code/no-code
 
-### Gift Ideas
+### SQL
 
-### Healthcare
-
-### Life Assistant
-
-### Memory
-
-### Research
-
-### Resources
-
-### Search Engine
+### Github
 
 -----
 Reference
