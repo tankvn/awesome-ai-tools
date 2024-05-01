@@ -3573,7 +3573,35 @@ A curated list of awesome AI tools
 
 ### Photoshop
 
-
+- [Magic Studio](https://www.futurepedia.io/tool/magic-studio) - Unleash AI to edit, upscale, and create images effortlessly. [Freemium]
+- [Scribble Diffusion](https://www.futurepedia.io/tool/scribble-diffusion) - Turn your sketch into a refined image using AI. [Free]
+- [Caspa AI](https://www.futurepedia.io/tool/caspa-ai) - Elevate eCommerce visuals effortlessly with Caspa, an AI-driven photography tool empowering businesses to create and edit lifelike product images. [Free Trial]
+- [getimg.ai](https://www.futurepedia.io/tool/getimgai) - AI-driven image generation, editing, and infinite outpainting, with real-time processing. [Freemium]
+- [Synthesys](https://www.futurepedia.io/tool/synthesys-x) - AI-driven image creation, Chrome extension, white label SAAS rights. [Freemium]
+- [EditApp AI](https://www.futurepedia.io/tool/editapp-ai) - Revolutionize your editing workflow with advanced AI-powered tools. Streamline photo editing, video editing, and graphic design tasks. [Freemium]
+- [Alter AI](https://www.futurepedia.io/tool/alter-ai) - Generate professional headshots from selfies. [Free Trial]
+- [Vyro AI](https://www.futurepedia.io/tool/vyro-ai) - Empowering Creativity with Tech Products. [Contact for Pricing]
+- [Image Maker](https://www.futurepedia.io/tool/image-maker) - Stable Diffusion Image Generator with 1000+ Artistic Styles. [Free]
+- [Generated Photos](https://www.futurepedia.io/tool/generated-photos) - AI-generated photos for creative works. App & API for sorted & tagged images. [Freemium]
+- [Object Remover](https://www.futurepedia.io/tool/object-remover) - Effortlessly removes unwanted objects from images while preserving the original content and enhancing overall image quality. [Free]
+- [QuickTools by Picsart](https://www.futurepedia.io/tool/quicktools-by-picsart) - Access a wide range of tools in one place with Picsart Quicktools. [Freemium]
+- [Phot.ai](https://www.futurepedia.io/tool/photai) - Next Gen AI Photo Editing & Visual Design Platform. [Freemium]
+- [BgRem](https://www.futurepedia.io/tool/bgrem) - AI-powered tools for creating and editing images and videos. [Free Trial]
+- [Getalpaca](https://www.futurepedia.io/tool/getalpaca) - Alpaca: AI-powered Photoshop plugin to enhance human creativity. [Contact for Pricing]
+- [Giotto](https://www.futurepedia.io/tool/giotto) - AI-powered artist assistant, offers image generation and editing capabilities, making it a valuable tool for artists and creatives. [Free]
+- [West Idol](https://www.futurepedia.io/tool/west-idol) - Transforms a single selfie into diverse professional photoshoots. [Paid]
+- [BG Remover](https://www.futurepedia.io/tool/bg-remover) - Remove image backgrounds automatically. [Freemium]
+- [Dopepics.io](https://www.futurepedia.io/tool/dopepicsio) - Make any image truly dope (and 8K quality) with our AI. [Paid]
+- [Bashable](https://www.futurepedia.io/tool/bashable) - Generates stunning and realistic images. [Paid]
+- [IMyFone](https://www.futurepedia.io/tool/imyfone) - AI photo background remover and changer, revolutionizes background editing. . [Paid]
+- [Background Generator](https://www.futurepedia.io/tool/background-generator) - Upgrade e-commerce product images effortlessly with Background Changer. [Free Trial]
+- [Scribble Diffusion](https://www.futurepedia.io/tool/scribble-diffusion) - Scribble Diffusion is a creative app that transforms your sketches and doodles into refined and unique images. . [Paid]
+- [PhotoProAI](https://www.futurepedia.io/tool/photoproai) - Transforming selfies into professional portraits in various styles, saving time and money on professional photography. [Paid]
+- [Vidnoz Headshot Generator](https://www.futurepedia.io/tool/vidnoz-headshot-generator) - Creates Professional Headshots in Minutes. [Paid]
+- [FaceApp](https://www.futurepedia.io/tool/faceapp) - FaceApp is a photo-editing application that offers a wide range of filters to edit portraits and transform faces, making it a popular and fun photo editing app with millions of downloads worldwide. [Freemium]
+- [Remove Background AI](https://www.futurepedia.io/tool/remove-background-ai) - Elevate Your Visual Content with Remove Background AI. [Paid]
+- [FaceVary](https://www.futurepedia.io/tool/facevary) - Free Online Face Changer. [Free Trial]
+- [Media AI Headshot ](https://www.futurepedia.io/tool/media-ai-headshot) - Get high-quality business headshots. [Paid]
 
 ### Logo Generator
 
