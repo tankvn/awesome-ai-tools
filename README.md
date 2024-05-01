@@ -1,7 +1,77 @@
 # Awesome AI Tools
 A curated list of awesome AI tools
 
-## AI Productivity Tools
+- [Awesome AI Tools](#awesome-ai-tools)
+  - [Productivity Tools](#productivity-tools)
+    - [Personal Assistant](#personal-assistant)
+    - [Research Assistant](#research-assistant)
+    - [Spreadsheets](#spreadsheets)
+    - [Translator](#translator)
+    - [Presentation](#presentation)
+    - [Email Assistants](#email-assistants)
+    - [Search Engine](#search-engine)
+  - [Text Generators](#text-generators)
+    - [Prompt Generators](#prompt-generators)
+    - [Copywriting](#copywriting)
+    - [Email Assistant](#email-assistant)
+    - [General Writing](#general-writing)
+    - [Paraphraser](#paraphraser)
+    - [Prompts](#prompts)
+    - [SEO](#seo)
+    - [Social Media Assistant](#social-media-assistant)
+    - [Story Teller](#story-teller)
+    - [Summarizer](#summarizer)
+  - [Image](#image)
+    - [Art](#art)
+    - [Avatars](#avatars)
+    - [Design Assistant](#design-assistant)
+    - [Image Editing](#image-editing)
+    - [Image Generator](#image-generator)
+    - [Logo Generator](#logo-generator)
+  - [Code](#code)
+    - [Code Assistant](#code-assistant)
+    - [Developer Tools](#developer-tools)
+    - [Low-code/no-code](#low-codeno-code)
+    - [Spreadsheets](#spreadsheets-1)
+    - [SQL](#sql)
+  - [Audio](#audio)
+    - [Audio Editing](#audio-editing)
+    - [Music](#music)
+    - [Text To Speech](#text-to-speech)
+    - [Transcriber](#transcriber)
+  - [Video](#video)
+    - [Personalized Videos](#personalized-videos)
+    - [Video Editing](#video-editing)
+    - [Video Generator](#video-generator)
+  - [3D](#3d)
+    - [3D](#3d-1)
+  - [Business](#business)
+    - [Customer Support](#customer-support)
+    - [E-commerce](#e-commerce)
+    - [Education Assistant](#education-assistant)
+    - [Fashion](#fashion)
+    - [Finance](#finance)
+    - [Human Resources](#human-resources)
+    - [Legal Assistant](#legal-assistant)
+    - [Presentations](#presentations)
+    - [Productivity](#productivity)
+    - [Real Estate](#real-estate)
+    - [Sales](#sales)
+    - [Startup Tools](#startup-tools)
+  - [Other](#other)
+    - [Experiments](#experiments)
+    - [Fun Tools](#fun-tools)
+    - [Gaming](#gaming)
+    - [Gift Ideas](#gift-ideas)
+    - [Healthcare](#healthcare)
+    - [Life Assistant](#life-assistant)
+    - [Memory](#memory)
+    - [Research](#research)
+    - [Resources](#resources)
+    - [Search Engine](#search-engine-1)
+
+
+## Productivity Tools
 
 ### Personal Assistant
 - [Vetted](https://www.futurepedia.io/tool/vetted) - Discover top-rated products effortlessly with AI-powered recommendations, price tracking, and trusted reviews. [Free]
@@ -1139,7 +1209,140 @@ A curated list of awesome AI tools
 - [Findr](https://www.futurepedia.io/tool/findr) - Internal search platform that lets you find any document, link, and information lightning fast using a unified search bar. [Freemium]
 - [Helloii](https://www.futurepedia.io/tool/helloii) - Elevate your online searches with AI-powered conversational queries. [Free]
 
-## Text
+## Text Generators
+
+### Prompt Generators
+
+- [PromptInterface.ai](https://www.futurepedia.io/tool/promptinterfaceai) - Unlock AI-driven productivity with customized, form-based prompt engineering. [Free Trial]
+- [MidJourney Prompt Helper](https://www.futurepedia.io/tool/midjourney-prompt-helper) - Unleash AI artistry with intuitive prompt crafting and optimization. [Free]
+- [Public Prompts](https://www.futurepedia.io/tool/public-prompts) - Unleash AI creativity with diverse, free, community-powered content prompts. [Free]
+- [Ordinary People Prompts](https://www.futurepedia.io/tool/ordinary-people-prompts) - Elevate AI interactions with curated, high-impact conversation prompts. [Free]
+- [Chromox](https://www.futurepedia.io/tool/chromox) - Transforming Ideas into Visual Stories | Chromox | AlkaidVision. [Free]
+- [PromptDrive.ai](https://www.futurepedia.io/tool/promptdriveai) - Your All-in-one Prompt Management Tool. [Free]
+- [PixAI](https://www.futurepedia.io/tool/pixaiart) - Unleash AI to create stunning anime art, effortlessly and without artistic skills. [Free]
+- [Geniea](https://www.futurepedia.io/tool/geniea) - Optimize AI content creation with precision prompt tailoring. [Free]
+- [Keywords Everwhere](https://www.futurepedia.io/tool/keywords-everwhere) - Unlock SEO insights across platforms with real-time keyword data. [Paid]
+- [Chat Prompt Genius](https://www.futurepedia.io/tool/chat-prompt-genius) - Revolutionize AI interactions with customizable, industry-spanning prompt generation. [Free]
+- [Horizon AI Template](https://www.futurepedia.io/tool/horizon-ai-template) - Create outstanding AI SaaS Apps & Prompts 10X faster. [Freemium]
+- [Prompt Refine](https://www.futurepedia.io/tool/prompt-refine) - Prompt Refine is an LLM playground designed to help you run better prompt experiments. [Free]
+- [PromptFolder](https://www.futurepedia.io/tool/promptfolder) - Centralize and streamline AI prompt management with organizational tools and a Chrome extension. [Free]
+- [Freeflo](https://www.futurepedia.io/tool/freeflo) - Essential AI image style prompts for Midjourney. [Free]
+- [YT Copycat](https://www.futurepedia.io/tool/yt-copycat) - Transform YouTube Content into Unique Creations. [Free Trial]
+- [MakerBox](https://www.futurepedia.io/tool/makerbox) - Unleash marketing prowess with AI-crafted prompts for solopreneurs. [Paid]
+- [Entry Point](https://www.futurepedia.io/tool/entry-point) - Enhance prompt quality, reduce latency, and ensure predictable outputs in a collaborative, user-friendly environment. [Freemium]
+- [PromptInterface.ai](https://www.futurepedia.io/tool/promptinterfaceai) - Unlock AI-driven productivity with customized, form-based prompt engineering. [Free Trial]
+- [PromptsIdeas](https://www.futurepedia.io/tool/promptsideas) - Unlock AI creativity: market, monetize, and master generative prompts. [Freemium]
+- [PromptROI](https://www.futurepedia.io/tool/promptroi) - Boost content creation efficiency, safeguard IP, and unlock new revenue streams with AI-driven prompts on a white-labeled platform. [Contact for Pricing]
+- [Straico](https://www.futurepedia.io/tool/straico) - Seamlessly integrates content and image generation, designed to boost creativity and productivity for individuals and businesses alike. [Freemium]
+- [Trickle: Prompts Warehouse](https://www.futurepedia.io/tool/trickle-ai-prompts-warehouse) - Unleash AI productivity with customizable prompts and collaborative sessions. [Freemium]
+- [Openart](https://www.futurepedia.io/tool/openart) - Explore 10M+ AI art & prompts from DALL·E 2, Midjourney, Stable Diffusion. [Free]
+- [PromptBase](https://www.futurepedia.io/tool/promptbase) - Find top prompts and save on API costs. [Freemium]
+- [PromptHero](https://www.futurepedia.io/tool/prompthero) - Search art images with AI models like DALL-E, Stable Diffusion, Midjourney. [Free]
+- [Krea](https://www.futurepedia.io/tool/krea) - Explore AI-generated images & create collections. [Free]
+- [Promptist](https://www.futurepedia.io/tool/promptist) - Optimizes user input for Stable Diffusion v1-4. [Free]
+- [Prompt Apps](https://www.futurepedia.io/tool/prompt-apps) - Ready-to-use generative AI apps from prompt. [Free]
+- [AI Templates](https://www.futurepedia.io/tool/ai-templates) -  Boost productivity for solopreneurs with production-ready prompts. [Free]
+- [PromptVibes](https://www.futurepedia.io/tool/promptvibes) - A Massive Collection of useful ChatGPT Prompts. [Free]
+- [Dallelist](https://www.futurepedia.io/tool/dallelist) - Generate prompts easily with DallE's images & styles. [Free]
+- [Just Prompts](https://www.futurepedia.io/tool/just-prompts) - Improve your prompts in seconds. [Free]
+- [Superpower ChatGPT](https://www.futurepedia.io/tool/superpower-chatgpt) - Use additional features with ChatGPT. [Free]
+- [Snack Prompt](https://www.futurepedia.io/tool/snack-prompt) - Discover, share, and integrate prompts with ChatGPT. [Free]
+- [ChatGPT Prompt Plus](https://www.futurepedia.io/tool/chatgpt-prompt-plus) - The Ultimate Prompt template Tool for ChatGPT. [Free]
+- [Pheeds Prompt Silo](https://www.futurepedia.io/tool/pheeds-prompt-silo) - AI art & ChatGPT prompts & tools for easy prompt crafting. [Free]
+- [IMI Prompt ](https://www.futurepedia.io/tool/imi-prompt) - Midjourney Prompt Builder. [Free]
+- [Promptmetheus](https://www.futurepedia.io/tool/promptmetheus) - ChatGPT prompt engineering toolkit. [Free]
+- [EasyPrompt](https://www.futurepedia.io/tool/easyprompt) - Innovative tool designed to help users interact more effectively. [Free]
+- [Prompt Journey](https://www.futurepedia.io/tool/prompt-journey) - Access 100+ expertly designed ChatGPT prompts for various industries. [Free]
+- [WNR.AI](https://www.futurepedia.io/tool/wnrai) - WNR is a place where people can use, share, and build super-prompts. You can create with GPT-4 for free, and see the community interact with your creations. . [Free]
+- [Promptly](https://www.futurepedia.io/tool/promptly) - Predefined prompts for AI writing software. [Free]
+- [MyGPT ](https://www.futurepedia.io/tool/mygpt) - ChatGPT with inbuilt prompt library. [Free]
+- [PromptStacks](https://www.futurepedia.io/tool/promptstacks) - Free, vetted prompts for large language models, plus a community to join. [Free]
+- [PromptDen](https://www.futurepedia.io/tool/promptden) - Online community for AI prompting enthusiasts to connect, collaborate, and share ideas. [Free]
+- [There's a Prompt for that](https://www.futurepedia.io/tool/theres-a-prompt-for-that) - Generate perfect prompts for popular AI tools with ease. [Free]
+- [Jrnylist](https://www.futurepedia.io/tool/jrnylist) - Browse dozens of Art & Illustration or Assets & UIs prompts, submit your own!. [Free]
+- [PrompBase](https://www.futurepedia.io/tool/prompbase) - Midjourney prompt Generator. [Free]
+- [PromptoMANIA](https://www.futurepedia.io/tool/promptomania) - Generate creative AI art prompts for stunning, detailed, and reproducible images. [Free]
+- [Aigur.dev](https://www.futurepedia.io/tool/aigurdev) - Library to compose generative AI pipelines. [Free]
+- [GPT Prompt Engineer](https://www.futurepedia.io/tool/gpt-prompt-engineer) - Automatically generate, test, and rank prompts for optimal performance in various tasks, revolutionizing the art of prompt engineering. [Free]
+- [PromptExtend](https://www.futurepedia.io/tool/promptextend) - Extend/Generate better AI Art Prompts. [Free]
+- [Ranknow.ai](https://www.futurepedia.io/tool/ranknowai) - Curated Prompt Templates for ChatGPT. [Free]
+- [PromptLayer](https://www.futurepedia.io/tool/promptlayer) - Middleware that tracks & manages prompt engineering. [Free]
+- [HeroGPT](https://www.futurepedia.io/tool/herogpt) - Generate, Save & Share dynamic ChatGPT, Midjourney prompts in unlimited Lists and Spaces. [Free]
+- [Clio](https://www.futurepedia.io/tool/clio) - Stable Diffusion Prompt helper, AI generated NFTs, and AI image studio. [Free]
+- [Vitalentum](https://www.futurepedia.io/tool/vitalentum) -  The ultimate content creation hub with free ChatGPT, AI-powered imagery, and a community platform for sharing creativity. [Freemium]
+- [Prompt Attack](https://www.futurepedia.io/tool/prompt-attack) - Prompt Marketplace to buy and sell AI prompts. [Free]
+- [ChatHub](https://www.futurepedia.io/tool/chathub) - All-in-one chatbot client. [Free]
+- [FutureDesk](https://www.futurepedia.io/tool/futuredesk) - FutureDesk is an advanced chatbot interface that revolutionizes the way users interact with ChatGPT. [Free]
+- [Promptify Editor](https://www.futurepedia.io/tool/promptify-editor) - Auto-prompts for creative ideas. [Free]
+- [MidJourney Prompts Journey](https://www.futurepedia.io/tool/midjourney-prompts-journey) - Midjourney Prompt Generator. [Free]
+- [What-A-Prompt](https://www.futurepedia.io/tool/what-a-prompt) - "What A Prompt" is a GPT3.5-based tool that generates creative and optimized prompts for enhanced ChatGPT results. Users can select from various prompt enhancer methods, including text enrichment and scientific validation reinforcement to match their needs. [Freemium]
+- [ChatX](https://www.futurepedia.io/tool/chatx) - A free prompt marketplace for everyone.  . [Free]
+- [Productivity Vibes](https://www.futurepedia.io/tool/productivity-vibes) - Boost productivity with 100s of ChatGPT prompts for home and work. [Free]
+- [GPT Macros](https://www.futurepedia.io/tool/gpt-macros) - Supercharge productivity with custom macros and variables using GPT Macros. [Freemium]
+- [SpellPrints](https://www.futurepedia.io/tool/spellprints) - Discover, Use, and Create AI Apps for Everyday Life and Work. [Freemium]
+- [BetterPrompt](https://www.futurepedia.io/tool/betterprompt) - Enhance your Midjourney prompts with AI. [Freemium]
+- [Name Generator](https://www.futurepedia.io/tool/name-generator) - Name Generator is a user-friendly tool that generates unique and attractive names based on your provided keywords. [Free]
+- [AI Prompt Randomizer](https://www.futurepedia.io/tool/ai-prompt-randomizer) - Break the monotony of ChatGPT prompts with a dash of randomness. [Free]
+- [ChatGPT Prompt Generator](https://www.futurepedia.io/tool/chatgpt-prompt-generator) - ChatGPT Prompt Generator is an AI tool that generates creative writing and role-playing prompts. [Free]
+- [Prompt Storm](https://www.futurepedia.io/tool/prompt-storm) - Improved ChatGPT with managed prompts. [Free]
+- [StealthGPT](https://www.futurepedia.io/tool/stealthgpt) - Use AI without fear of censorship or being detected. [Freemium]
+- [Prompt Hunt](https://www.futurepedia.io/tool/prompt-hunt) - Create pro images in seconds. [Freemium]
+- [Img2prompt](https://www.futurepedia.io/tool/img2prompt) - Generate text prompt for image, optimized for stable-diffusion (ViT-L/14). [Freemium]
+- [Prompt Perfect](https://www.futurepedia.io/tool/prompt-perfect) - Embrace AI with ease and accessibility with Prompt Perfect, an AI prompt design studio that brings high-quality AI solutions to everyone. [Free]
+- [AgileGPT](https://www.futurepedia.io/tool/agilegpt) - Transform your team dynamics to build high-performing teams. [Paid]
+- [FormWise.AI](https://www.futurepedia.io/tool/formwiseai) - Turn your favorite GPT prompts into AI tools for your end users. [Freemium]
+- [Sticker Prompt Generator](https://www.futurepedia.io/tool/sticker-prompt-generator) - Inspires quick sticker design for artists & designers. [Free]
+- [PromptChainer](https://www.futurepedia.io/tool/promptchainer) - Build AI-backed applications with Visual Flow Builder. [Free]
+- [Eye for AI](https://www.futurepedia.io/tool/eye-for-ai) - Save templates for quick image gen. from text/uploaded images. [Freemium]
+- [Prompthub](https://www.futurepedia.io/tool/prompthub) - Discover the Best Dutch ChatGPT Prompts . [Free]
+- [PromptBox](https://www.futurepedia.io/tool/promptbox) - Organize, edit, and save AI prompts across tools with right-click saving. [Freemium]
+- [Kombine.ai](https://www.futurepedia.io/tool/kombineai) - Create customized workflows from various AI components. [Free]
+- [Chat GPT Prompt Hub](https://www.futurepedia.io/tool/chat-gpt-prompt-hub) - Discover, curate and share ChatGPT prompts all in one place. [Free]
+- [Promptmakr](https://www.futurepedia.io/tool/promptmakr) - Promptmakr is a platform that enables Prompt Engineers to generate and share unlimited AI art prompts for free. . [Free]
+- [Steamship](https://www.futurepedia.io/tool/steamship) - Build and deploy Prompt APIs in seconds. [Freemium]
+- [Optimist](https://www.futurepedia.io/tool/optimist) - Build reliable prompts. [Free]
+- [PromptFlat](https://www.futurepedia.io/tool/promptflat) - Get high-quality prompts across 1000 categories. [Freemium]
+- [AIPRM](https://www.futurepedia.io/tool/aiprm) - Curated prompt templates for you to ChatGPT. [Freemium]
+- [Ultimate Blogging Companion](https://www.futurepedia.io/tool/ultimate-blogging-companion) - Boost Your Traffic and Conversions with Well-categorized Actionable Prompts!. [Freemium]
+- [Stable Diffussion Anime Prompter](https://www.futurepedia.io/tool/stable-diffussion-anime-prompter) - Unleash Your Creativity. [Free]
+- [Prompt Genie ](https://www.futurepedia.io/tool/prompt-genie) - AI tool for helping you write better ChatGPT prompts. [Paid]
+- [Prompt Space](https://www.futurepedia.io/tool/prompt-space) - AI Prompts Marketplace. [Paid]
+- [AIAM by Geeklab](https://www.futurepedia.io/tool/aiam-by-geeklab) - AI Prompt Engine: Fuel Your Writing with Creativity. [Contact for Pricing]
+- [Orquesta AI Prompts](https://www.futurepedia.io/tool/orquesta-ai-prompts) - Enterprise-ready no-code building block for product teams to infuse products with AI capabilities and prompt management tools. [Freemium]
+- [Perpend](https://www.futurepedia.io/tool/perpend) - A new UI wrapper to level up your GPT game. [Free]
+- [Templify.ai](https://www.futurepedia.io/tool/templifyai) - AI-powered content generator that helps create unique and engaging content to increase conversions and drive sales. [Freemium]
+- [LMQL](https://www.futurepedia.io/tool/lmql) - Natural language querying for large models. [Free]
+- [Zenprompts](https://www.futurepedia.io/tool/zenprompts) - Prompt engineering tool that empowers users to create, refine, and share prompts for OpenAI models. [Free]
+- [NotesAISync](https://www.futurepedia.io/tool/notesaisync) - Seamlessly integrates ChatGPT with Notion. [Free]
+- [Photoshot](https://www.futurepedia.io/tool/photoshot) - Photoshot is an AI avatar generator that enables users to create personalized avatars that reflect their unique style. [Paid]
+- [Reprompt](https://www.futurepedia.io/tool/reprompt) - Efficient AI prompt testing and optimization tool for developers. [Paid]
+- [EVE AI](https://www.futurepedia.io/tool/eve-ai) - Generate Production Quality Assets for your Creative Projects. [Paid]
+- [GPTHotline](https://www.futurepedia.io/tool/gpthotline) - Bring the  power of the model behind ChatGPT to WhatsApp. [Paid]
+- [Chatworm](https://www.futurepedia.io/tool/chatworm) - Customizable chatbot with prompt response times. [Free]
+- [MaskmyPrompt](https://www.futurepedia.io/tool/maskmyprompt) - Anonymize prompt before sending it to ChatGPT. [Free]
+- [Promptify](https://www.futurepedia.io/tool/promptify) - Unleash your creative potential using Promptify, the ultimate ChatGPT and AI-driven content generation and idea inspiration platform. . [Freemium]
+- [Promptitude.io](https://www.futurepedia.io/tool/promptitudeio) - Manage, test, and deploy all your prompts & providers in one place. [Freemium]
+- [GPT Prompt Tuner](https://www.futurepedia.io/tool/gpt-prompt-tuner) - Use AI to Generate ChatGPT prompt iterations and run conversations in parallel. [Free Trial]
+- [PowerbrainAI](https://www.futurepedia.io/tool/powerbrainai) - Advanced AI assistant for automating tasks and boosting productivity on iOS and Android. [Paid]
+- [Fastlane AI](https://www.futurepedia.io/tool/fastlane-ai) - Fastlane AI is a user-friendly tool that allows users to build powerful AI experiences without coding. [Free Trial]
+- [Enprompt360](https://www.futurepedia.io/tool/enprompt360) - Facilitates the creation of prompts for various tasks and topics. [Free Trial]
+- [PromptBot](https://www.futurepedia.io/tool/promptbot) - Generated chatbot prompts. [Freemium]
+- [DanAI](https://www.futurepedia.io/tool/danai) - AI Assistant for Local Language Support and Beyond. [Free]
+- [Frank AI](https://www.futurepedia.io/tool/frank-ai) - AI-Powered Search & Content Creation Engine for Seamless Brainstorming. [Freemium]
+- [Midjourney Prompt Generator](https://www.futurepedia.io/tool/midjourney-prompt-generator) - Prompt generation for art creation. [Paid]
+- [PromptTune](https://www.futurepedia.io/tool/prompttune) - Improve your prompts in seconds with the help of Artificial Intelligence. . [Free Trial]
+- [Recurai](https://www.futurepedia.io/tool/recurai) - Meet Your Generative AI Collaborator!. [Freemium]
+- [Journey Mixer](https://www.futurepedia.io/tool/journey-mixer) - A GUI for Midjourney prompt generation and remixing. [Freemium]
+- [Promptly Generated](https://www.futurepedia.io/tool/promptly-generated) - Simplifies prompt engineering and optimization, making AI more accessible, cost-effective, and efficient. [Freemium]
+- [Prompt.cafe](https://www.futurepedia.io/tool/promptcafe) - Prompt.Cafe is an AI Prompt Starter Pack library that provides users with a wide range of tools and resources to jump into the world of AI. [Paid]
+- [Catbird.ai](https://www.futurepedia.io/tool/catbirdai) - Generated diverse images with one prompt. [Paid]
+- [PromptxArt](https://www.futurepedia.io/tool/promptxart) - Creative prompts for art projects generation. [Freemium]
+- [Promptfoo](https://www.futurepedia.io/tool/promptfoo) - Designed for Language Model Mathematics (LLM) prompt testing and evaluation. [Free]
+- [LightGPT](https://www.futurepedia.io/tool/lightgpt) - Designed to generate text in response to prompts with specific instructions, following a standardized format. [Freemium]
+- [Palaxy](https://www.futurepedia.io/tool/palaxy) - Craft Effective Prompts with Efficiency. [Free Trial]
+- [PromptLeo](https://www.futurepedia.io/tool/promptleo) - Prompt Engineering Platform for Generative AI. [Freemium]
+- [OnePrompt](https://www.futurepedia.io/tool/oneprompt) - Easily switch chat prompts via the menu, save chat logs, and access plugins for iOS functions. [Paid]
+- [Dreamspace](https://www.futurepedia.io/tool/dreamspace) - Harness AI creativity: infinite canvas, interactive prompts, output comparison. [Free Trial]
 
 ### Copywriting
 - [MarketingBlocks AI](https://marketingblocks.ai) - All-In-One AI Marketing Assistant that writes, creates & designs in minutes. [Freemium]
