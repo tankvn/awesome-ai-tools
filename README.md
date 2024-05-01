@@ -3605,7 +3605,36 @@ A curated list of awesome AI tools
 
 ### Logo Generator
 
-
+- [Namelix](https://www.futurepedia.io/tool/namelix) - AI-driven, generates memorable, brandable business names efficiently. [Free]
+- [Looka](https://www.futurepedia.io/tool/looka) - AI-driven branding: logos, websites, and full identity kits. [Freemium]
+- [Namecheap Logo Maker](https://www.futurepedia.io/tool/namecheap-logo-maker) - AI-powered logo creation, high-res downloads, intuitive customization. [Free]
+- [Namy ai](https://www.futurepedia.io/tool/namy-ai) - AI-powered domain brainstorming with instant availability checks. [Free]
+- [Synthesys Studio](https://www.futurepedia.io/tool/synthesys-studio) - Synthesys develops algorithms for text-to-voiceover and videos for commercial use. [Paid]
+- [Tailor](https://www.futurepedia.io/tool/tailor) - Empower your brand's identity with AI-driven design and comprehensive branding tools. [Free]
+- [LogoAI](https://www.futurepedia.io/tool/logoai) - Revolutionize branding with AI: logos, identities, and content made simple. [Paid]
+- [IconlabAI](https://www.futurepedia.io/tool/iconlabai) - Unleash AI to swiftly craft unique, high-quality icons and logos with ease. [Paid]
+- [Zarla AI](https://www.futurepedia.io/tool/zarla-ai) - Create a Beautiful Website in Seconds. [Free Trial]
+- [Logopony](https://www.futurepedia.io/tool/logopony) - AI-driven, intuitive logo creation with full brand kit options. [Paid]
+- [LogoFast](https://www.futurepedia.io/tool/logofast) - Turbocharge Your Startup Launch with NextJS Boilerplate. [Free]
+- [AI Magicx](https://www.futurepedia.io/tool/ai-magicx) - Write better content faster with Magicx and 79+ tools, so you can focus on more important tasks. [Freemium]
+- [Hatchful](https://www.futurepedia.io/tool/hatchful) - A user-friendly, free logo maker offering quick and professional designs for businesses and individuals, no design skills required. [Free]
+- [Designs AI](https://www.futurepedia.io/tool/designs-ai) - Design with A.I. in 2 mins: logos, videos, banners, mockups. [Free Trial]
+- [Brandmark](https://www.futurepedia.io/tool/brandmark) - Design a professional logo for your business with AI-powered tools. [Freemium]
+- [DomainsGPT](https://www.futurepedia.io/tool/domainsgpt) - Generate brandable & memorable domain names using AI. [Freemium]
+- [Diffusion Logo Studio](https://www.futurepedia.io/tool/diffusion-logo-studio) - Revolutionize your logo design with Diffusion Logo Studio. [Paid]
+- [LogoCreatorAI](https://www.futurepedia.io/tool/logocreatorai) - Logos created with AI. [Paid]
+- [Ameela](https://www.futurepedia.io/tool/ameela) - Ameela is a free logo design maker for startups that claims to be inspired by AI. [Free]
+- [Kreateable](https://www.futurepedia.io/tool/kreateable) - Kreateable is an online graphic design tool which uses generative AI technology to create powerful designs. [Freemium]
+- [LogoliveryAI](https://www.futurepedia.io/tool/logoliveryai) - Finally, the Real Logo AI Generator. [Freemium]
+- [AppLogoCreater](https://www.futurepedia.io/tool/applogocreater) - Your personal logo designer powered by AI. [Paid]
+- [Logodiffusion](https://www.futurepedia.io/tool/logodiffusion) - AI-powered platform that enables users to design high-quality logos and graphic designs in seconds, eliminating the need for templates and offering advanced editing features. [Freemium]
+- [LogoStoreAI](https://www.futurepedia.io/tool/logostoreai) - Explore AI-Generated Logos for Your Brand. [Paid]
+- [IconWizardAI](https://www.futurepedia.io/tool/iconwizardai) - Effortlessly create personalized icons and logos for your businesses. [Paid]
+- [Logoscapes](https://www.futurepedia.io/tool/logoscapes) - Wallpaper creation for logos. [Paid]
+- [Tailor Brands](https://www.futurepedia.io/tool/tailor-brands) - Tailor Brands' AI Logo Maker is an automated design tool that allows users to create unique logos for their business or brand without the need for design skills. . [Free Trial]
+- [IMAGIX](https://www.futurepedia.io/tool/imagix) - Designed to fuel creativity in logo and illustration design. [Paid]
+- [Zoviz](https://www.futurepedia.io/tool/zoviz) - One-Click Branding, Create Logos & Brand kit Instantly. [Paid]
+- [DesignEvo](https://www.futurepedia.io/tool/designevo) - AI-powered online logo maker that simplifies the logo design process, turning your branding ideas into reality with ease and creativity. [Freemium]
 
 ### 3D
 
