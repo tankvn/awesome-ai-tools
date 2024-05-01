@@ -17,11 +17,20 @@ A curated list of awesome AI tools
     - [Storyteller](#storyteller)
     - [Copywriting](#copywriting)
     - [Summarizer](#summarizer)
-  - [Image](#image)
+  - [Image Tools](#image-tools)
     - [Design Generators](#design-generators)
     - [Image Generator](#image-generator)
     - [Image Editing](#image-editing)
     - [Text To Image](#text-to-image)
+  - [Art Generators](#art-generators)
+    - [Cartoon Generators](#cartoon-generators)
+    - [Portrait Generators](#portrait-generators)
+    - [Image To Image](#image-to-image)
+    - [Drawing](#drawing)
+    - [Avatars](#avatars)
+    - [Photoshop](#photoshop)
+    - [Logo Generator](#logo-generator)
+    - [3D](#3d)
   - [Code](#code)
     - [Code Assistant](#code-assistant)
     - [Developer Tools](#developer-tools)
@@ -37,8 +46,8 @@ A curated list of awesome AI tools
     - [Personalized Videos](#personalized-videos)
     - [Video Editing](#video-editing)
     - [Video Generator](#video-generator)
-  - [3D](#3d)
-    - [3D](#3d-1)
+  - [3D](#3d-1)
+    - [3D](#3d-2)
   - [Business](#business)
     - [Customer Support](#customer-support)
     - [E-commerce](#e-commerce)
@@ -2344,7 +2353,7 @@ A curated list of awesome AI tools
 - [UserWise](https://www.futurepedia.io/tool/userwise) - Streamline customer feedback with AI-driven analysis and actionable insights. [Freemium]
 - [Jellypod](https://www.futurepedia.io/tool/jellypod) - Transform newsletters into personalized, AI-summarized daily podcasts. [Paid]
 
-## Image
+## Image Tools
 
 ### Design Generators
 
@@ -3282,6 +3291,65 @@ A curated list of awesome AI tools
 - [Imaginator](https://www.futurepedia.io/tool/imaginator) - Imaginator is an AI-powered tool that allows users to transform text into realistic and detailed images. [Paid]
 - [ZMO](https://www.futurepedia.io/tool/zmo) - Seamlessly turn text and images into diverse, AI-driven visual masterpieces. [Freemium]
 - [PoseTracker API](https://www.futurepedia.io/tool/posetracker-api) - Revolutionize motion tracking with real-time pose estimation and pre-trained fitness exercises, simplifying integration for developers. [Freemium]
+
+## Art Generators
+
+### Cartoon Generators
+
+- [Craiyon](https://www.futurepedia.io/tool/craiyon) - Unleash your creativity with an AI that turns words into visual art instantly. [Free]
+- [Lumiere 3D](https://www.futurepedia.io/tool/lumiere-3d) - Generate immersive 3D videos for e-commerce and marketing effortlessly. [Paid]
+- [PixAI](https://www.futurepedia.io/tool/pixaiart) - Unleash AI to create stunning anime art, effortlessly and without artistic skills. [Free]
+- [Thinkdiffusion](https://www.futurepedia.io/tool/thinkdiffusion) - Thinkdiffusion is an accessible and user-friendly tool that provides access to powerful AI image generation capabilities directly from your browser, with no coding or setup required. [Paid]
+- [Synthesys](https://www.futurepedia.io/tool/synthesys-x) - AI-driven image creation, Chrome extension, white label SAAS rights. [Freemium]
+- [Alethea](https://www.futurepedia.io/tool/alethea) - Create, customize, and own AI characters with blockchain-enhanced generative AI. [Free]
+- [SeaArt](https://www.futurepedia.io/tool/seaart) - Unleash creativity with AI: art generation, diverse styles, enterprise-ready. [Free Trial]
+- [Dreamlike.art](https://www.futurepedia.io/tool/dreamlikeart) - AI-powered tools to create & modify art quickly & easily. [Free]
+- [Animated Drawings ](https://www.futurepedia.io/tool/animated-drawings) - Bring children's drawings to life with Animated Drawings . [Free]
+- [Imagetocartoon](https://www.futurepedia.io/tool/imagetocartoon) - Imagetocartoon is an avatar maker that uses artificial intelligence to convert your photos into cartoon versions. The app has a simple interface that makes it easy to apply the cartoon effect to your images. It also offers a wide range of cartoon effects, including traditional, watercolour, sketch, and more. This means you can choose the style that best suits your image and personal preference. [Free]
+- [Aitubo](https://www.futurepedia.io/tool/aitubo) - High-quality images for game design and creativity. [Free]
+- [Artificial Art](https://www.futurepedia.io/tool/artificial-art) - Versatile image generation with user-defined styles. [Free]
+- [ComicifyAI](https://www.futurepedia.io/tool/comicifyai) - Turn Text into Captivating Comics with ComicifyAI. [Free]
+- [Karlo](https://www.futurepedia.io/tool/karlo) - Karlo, developed by Kakao Brain, is an AI image generation tool that empowers users to create diverse and impressive images based on their input descriptions. [Free]
+- [Picture it](https://www.futurepedia.io/tool/picture-it) - Picture it is an AI Art Editor that empowers users to create and iterate on AI-generated art. [Freemium]
+- [Dumb Meme Generator](https://www.futurepedia.io/tool/dumb-meme-generator) - Unleash Humor with Dumb Meme Generator. [Free]
+- [Zazow](https://www.futurepedia.io/tool/zazow) - Zazow is a comprehensive tool for creating digital generative art. [Free Trial]
+- [123RF](https://www.futurepedia.io/tool/123rf) - Transforms text prompts into unique and customizable images for various applications. [Free Trial]
+- [Playbook AI](https://www.futurepedia.io/tool/playbook-ai) - AI-Powered Creative File Management and Design Tool. [Freemium]
+- [TokkingHeads](https://www.futurepedia.io/tool/tokkingheads) - TokkingHeads is a powerful animation tool that brings portraits to life with just a few clicks. [Paid]
+- [AlterEgoAI](https://www.futurepedia.io/tool/alteregoai) - AlterEgoAI is an AI-powered image generation tool that allows users to create custom images of themselves or others in a wide range of styles. [Paid]
+- [IMGCreator](https://www.futurepedia.io/tool/imgcreator) - Generated custom images. [Paid]
+- [Blimeycreate](https://www.futurepedia.io/tool/blimeycreate) - Blimey is an AI image generator that empowers users to create high-quality images, illustrations, art, graphics, covers, and comics with ease. [Paid]
+- [NeuralBlender](https://www.futurepedia.io/tool/neuralblender) - NeuralBlender is a cutting-edge platform that utilizes Artificial Intelligence technology to create stunning artwork from text input. [Paid]
+- [Stablecog](https://www.futurepedia.io/tool/stablecog) - Stablecog is an open-source AI image generator that leverages the power of Stable Diffusion to produce high-quality visuals. [Paid]
+- [PhotoFairy](https://www.futurepedia.io/tool/photofairy) - Redefining Photo Editing and Design. [Freemium]
+- [ProfilePro](https://www.futurepedia.io/tool/profilepro) - Elevate your online identity with AI-crafted avatars, backgrounds, and compelling copy. [Freemium]
+
+### Portrait Generators
+
+
+
+### Image To Image
+
+
+
+### Drawing
+
+
+
+### Avatars
+
+
+
+### Photoshop
+
+
+
+### Logo Generator
+
+
+
+### 3D
+
 
 ## Code
 
