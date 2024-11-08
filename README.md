@@ -3374,6 +3374,7 @@ A curated list of awesome AI tools
 - [Ascendant Art](https://www.futurepedia.io/tool/ascendant-art) - Utilizes artificial intelligence to enable users to craft personalized avatar images. [Paid]
 - [Photify AI](https://www.futurepedia.io/tool/photify-ai) - AI-powered photo transformations: new hairstyles, genders, and virtual outfits in a snap. [Free]
 - [ProfilePro](https://www.futurepedia.io/tool/profilepro) - Elevate your online identity with AI-crafted avatars, backgrounds, and compelling copy. [Freemium]
+- [AI Boost](https://boost.pictures/) - All-in-one service for creating and editing images with AI: upscale images, swap faces, generate new visuals and avatars, try on outfits, reshape body contours, change backgrounds, retouch faces, and even test out tattoos. [Freemium]
 
 ### Image To Image
 
