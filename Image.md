@@ -666,6 +666,7 @@
 - [ProfilePro](https://www.futurepedia.io/tool/profilepro) - Elevate your online identity with AI-crafted avatars, backgrounds, and compelling copy. [Freemium]
 - [ChilloutAI](https://www.futurepedia.io/tool/chilloutai) - Use Midjourney API to create pictures in browser for free. [Free Trial]
 - [PoseTracker API](https://www.futurepedia.io/tool/posetracker-api) - Revolutionize motion tracking with real-time pose estimation and pre-trained fitness exercises, simplifying integration for developers. [Freemium]
+- [AI Image Generator](https://www.aiimagegenerator.org) - Free AI-powered image generator for text-to-image generation. [Free]
 
 ### Image Editing
 
