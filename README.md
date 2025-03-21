@@ -6738,6 +6738,7 @@ Royalty-Free Music: https://mubert.com/render/pricing?via=beatnc
 
 - [MarsCode](https://marscode.com) - Revolutionize coding: real-time assistance, error detection, code optimization.. [Free Trial]
 - [GitHub Copilot](https://github.com) - AI-powered coding assistant offering real-time suggestions, learning from your style.. [Free Trial]
+- [poorcoder](https://github.com/vgrichina/poorcoder) - Lightweight Bash scripts that enhance your terminal coding workflow with web-based AI assistants like Claude or Grok.. [Free]
 - [Tabnine](https://www.tabnine.com) - Unlock rapid, secure coding with AI-driven personalized suggestions across IDEs.. [FreemiumFree Trial]
 - [CodiumAI](https://www.codium.ai) - Revolutionize coding with AI-driven, meaningful test generation and IDE/Git integration.. [Freemium]
 - [Alfred AI](https://treblle.com) - Streamlines API management, boosts developer productivity, enhances security.. [Freemium]
