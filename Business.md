@@ -1436,6 +1436,7 @@
 - [OmniSets](https://www.omnisets.com) - Unlock personalized and AI-driven flashcard creation for efficient and effective learning.. [Free]
 - [Teachguin](https://teachguin.ai) - AI assistant for lesson planning, diverse feedback widgets, and standard features like screen sharing and whiteboarding. [Free]
 - [Reiki](https://reiki.web3go.xyz) - AI-driven tool for real-time energy healing and personalized plans.. [Contact for Pricing]
+- [AI Japanese Tutor](https://www.aijapanesetutor.org) - Free AI voice chat bot for Japanese conversation practice in a variety of role-play scenarios. Learn JLPT vocabulary, grammar and Japanese verb conjugations with our speech recognition-based exercises. [Free]
 
 ### E-commerce
 
