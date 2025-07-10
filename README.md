@@ -74,6 +74,7 @@ A curated list of awesome AI tools
     - [AI Detection](https://github.com/tankvn/awesome-ai-tools/blob/main/README.md#ai-detection)
     - [Fun Tools](https://github.com/tankvn/awesome-ai-tools/blob/main/README.md#fun-tools)
     - [Gaming](https://github.com/tankvn/awesome-ai-tools/blob/main/README.md#gaming)
+    - [Keyword Analyser Agent](https://serplux.com/premium/agent/keyword-analyser)
 
 
 ## Productivity Tools
@@ -357,6 +358,7 @@ A curated list of awesome AI tools
 - [Poised](https://www.poised.com) - Enhance your speaking with real-time feedback and personalized coaching.. [Paid]
 - [Screentime](https://screentime.monitup.com) - Optimize screen time, boost productivity with AI insights.. [Free Trial]
 - [Alice](https://www.heyalice.app) - Boost productivity with AI-powered privacy, customization, and app integration.. [Paid]
+- [Serplux](https://serplux.com/) - Supercharge your SEO and content workflows with Serplux's AI-powered agents.. [Free Trial]
 
 ### Research Assistant
 
@@ -423,7 +425,8 @@ A curated list of awesome AI tools
 - [Casetext](https://casetext.com) - Revolutionizes legal work with AI: research, document review, contract analysis, timeline creation.. [Free Trial]
 - [Block Survey](https://blocksurvey.io) - End-to-end encrypted forms & surveys. [Active deal]
 - [Travelnaut](https://travelnaut.com) - Unleash AI to tailor and simplify your travel planning journey.. [Free]
-- [SuperAGI Cloud](https://superagi.com) - Open-source infrastructure designed for creating autonomous agents, offering developers the capability to efficiently build and deploy these agents for diverse applications.. [Free]
+- [SuperAGI Cloud](https://superagi.com) - Open-source infrastructure designed for creating autonomous agents, offering developers the capability to efficiently build and deploy these agents for diverse
+- applications.. [Free]
 - [PDF.ai](https://pdf.ai) - Transform PDF interactions with AI: chat, extract data, summarize, secure handling.. [Free Trial]
 - [Trendspider](https://trendspider.com) - AI Powered Trading Tool. [Paid]
 - [Glean](https://www.glean.com) -  An AI-driven search tool that swiftly personalizes and streamlines access to company data.. [Free Trial]
@@ -692,6 +695,8 @@ A curated list of awesome AI tools
 - [Siml.ai](https://www.siml.ai) - Revolutionize physics simulations: AI-driven, web-based, real-time visualization, cost-efficient.. [Freemium]
 - [GeoSpy](https://geospy.ai) - AI-powered geospatial intelligence tool for advanced geographic data analysis.. [Freemium]
 - [GummySearch](https://gummysearch.com) - Unlock Reddit's potential for market insights with AI-driven research.. [Freemium]
+- [Serplux](https://serplux.com/) - Supercharge your SEO and content workflows with Serplux's AI-powered agents.. [Free Trial]
+- 
 
 ### Spreadsheets
 
