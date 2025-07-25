@@ -1798,6 +1798,7 @@ A curated list of awesome AI tools
 - [Let's Enhance](https://letsenhance.io) - Transform images to 4K quality, enhance, upscale, and correct with AI.. [Freemium]
 - [TattoosAI](https://www.tattoosai.com) - Transform ideas into unique tattoos with AI, offering endless styles and personalization.. [Freemium]
 - [Quickads](https://www.quickads.ai) - AI-powered, multi-platform ad creation in seconds—cost-effective and user-friendly.. [Free Trial]
+- [Styly.io](https://www.styly.io/) – Revolutionize real estate and interior design with cutting-edge AI home design, AI room design, and AI room generator tools for virtual staging and renovations. [Free Trial]
 - [GPT Stylist](https://refiredesign.com) - Revolutionize design with AI-driven, brand-aligned color palettes for Figma and FigJam.. [Paid]
 - [Diagram](https://diagram.com) - Transform Figma designs with AI-driven automation and creativity.. [Free Trial]
 - [dotBRAND](https://dotbrand.design) - Promising to revolutionize client interactions and streamline project management processes for increased productivity and profitability. [Free]
@@ -6187,6 +6188,7 @@ Royalty-Free Music: https://mubert.com/render/pricing?via=beatnc
 - [Ai4spaces](https://www.ai4spaces.com) - AI-powered platform for transforming architectural and interior design visions.. [Free Trial]
 - [EasyListing](https://easylisting.info) - Generate high-converting and SEO-optimized real estate listing descriptions quickly and effortlessly.. [Paid]
 - [Zoyo](https://www.zoyo.ai) - AI Powered Real Estate Tools. [Freemium]
+- [Styly.io](https://www.styly.io/) – Revolutionize real estate and interior design with cutting-edge AI home design, AI room design, and AI room generator tools for virtual staging and renovations. [Free Trial]
 - [Dream House](https://dream-house.clarkdinnison.com) - Transform your home with innovative design and craftsmanship.. [Free]
 
 
