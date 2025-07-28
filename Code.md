@@ -48,6 +48,7 @@
 - [Kusho](https://kusho.ai) - Revolutionizes API testing with AI-generated suites, enhancing developer efficiency and software reliability.. [Contact for Pricing]
 - [Shipixen](https://shipixen.com) - AI-driven tool for instant custom Next.js codebases and deployment.. [Paid]
 - [Temporal Technologies](https://temporal.io) - Ensures resilient, fault-tolerant applications with durable execution.. [Paid]
+- [Berrry](https://berrry.app) - Transform Twitter posts and Reddit content into functional web applications using AI code generation.. [Freemium]
 - [Codegen](https://www.codegen.com) - AI-driven coding, auto ticket resolution, seamless platform integration.. [Contact for Pricing]
 - [Moderne](https://www.moderne.io) - Transform codebases swiftly with AI-driven refactoring and security.. [Contact for Pricing]
 - [Sourcegraph](https://sourcegraph.com) - Revolutionize code management with AI-assisted searches and insights.. [Freemium]
