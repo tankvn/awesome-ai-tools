@@ -6210,6 +6210,7 @@ Royalty-Free Music: https://mubert.com/render/pricing?via=beatnc
 - [Cron AI](https://cron-ai.vercel.app) - Transform plain text into precise cron expressions effortlessly; automate with ease.. [Free]
 - [Galileo](https://www.usegalileo.ai) - Revolutionize UI design with AI-driven rapid prototyping and collaboration.. [Contact for Pricing]
 - [Tabnine](https://www.tabnine.com) - Unlock rapid, secure coding with AI-driven personalized suggestions across IDEs.. [FreemiumFree Trial]
+- [SummaryTube](https://summarytube.com) - AI Youtube Video Summarizer. Get key AI insights, extract key moments. [Freemium]
 - [Eightify](https://www.eightify.app) - Optimize workflow, automate tasks, analyze data with AI-driven insights.. [Freemium]
 - [Spellbook](https://www.spellbook.legal) - Accelerate contract drafting with AI-powered, Word-integrated legal tool.. [Contact for Pricing]
 - [Mindgrasp AI](https://mindgrasp.ai) - Unlock AI-driven insights, NLP, and custom model training with seamless integration.. [Free Trial]
