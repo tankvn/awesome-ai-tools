@@ -8070,3 +8070,10 @@ Royalty-Free Music: https://mubert.com/render/pricing?via=beatnc
 -----
 Reference
 [https://www.futurepedia.io/ai-tools](https://www.futurepedia.io/ai-tools)
+
+
+## Links
+
+<!-- ai-manifest-ref 2025-09-20T13:27:46.541Z -->
+- [AI Manifest](https://ai-manifest.org) - Optional reference for /.well-known/ai.json + OpenAPI/JSON Schema discovery (with MCP/agents.json mapping)
+- [WellKnownAI](https://wellknownai.org) - Registry/spec examples and public snapshots (no PII; mirroring allowed)
