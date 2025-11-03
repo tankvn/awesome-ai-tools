@@ -2398,6 +2398,7 @@ A curated list of awesome AI tools
 - [AI Expand Image](https://aiexpandimage.org) - Advanced AI-driven tool for seamless, natural image expansion.. [Contact for Pricing]
 - [PixelBin](https://www.pixelbin.io) - Revolutionize digital assets with AI-driven optimization, seamless integration, and global delivery.. [Free Trial]
 - [Bonkers](https://www.getmerlin.in) - All-in-one AI tool for writing, summarizing, coding, and more.. [Freemium]
+- [FastHeadshot](https://fastheadshot.com) - Transform casual photos into professional headshots in seconds.. [Freemium]
 
 ### Text To Image
 
