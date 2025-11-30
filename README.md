@@ -4089,6 +4089,7 @@ Royalty-Free Music: https://mubert.com/render/pricing?via=beatnc
 - [Magic ToDo](https://goblin.tools) - AI-powered task management with intuitive breakdown and secure sync.. [Free]
 - [Allcancode](https://www.allcancode.com) - Instantly estimate product idea costs and timelines with AI-driven insights.. [Paid]
 - [Cloudgov](https://cloudgov.ai) - AI-powered platform for optimizing and reducing cloud expenses.. [Free Trial]
+- [bananaz.ai](https://www.bananaz.ai) - AI-copilot for mechanical engineers that understands CAD data, detects geometric changes and automates DFM, GD&T, tolerance analysis, and design inspections.. [Contact for Pricing]
 
 ### Social Media
 
