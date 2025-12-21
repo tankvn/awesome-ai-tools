@@ -2219,6 +2219,7 @@ A curated list of awesome AI tools
 - [Snowpixel](https://snowpixel.app) - AI-powered tool for transforming text into images, videos, music, and 3D objects.. [Paid]
 - [FluxAI Pro](https://fluxai.pro) - AI-powered tool for stunning, high-resolution image generation.. [Free Trial]
 - [Sketch To](https://www.sketchto.com/) - Instantly convert your photos into art and bring your sketches to life with our powerful ..[Free Trial]
+- [Imgezy](https://www.imgezy.com/) - The Ultimate AI Photo Editor for Effortless Creativity ..[Free Trial]
 
 ### Image Editing
 
