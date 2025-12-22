@@ -692,6 +692,7 @@ A curated list of awesome AI tools
 - [Siml.ai](https://www.siml.ai) - Revolutionize physics simulations: AI-driven, web-based, real-time visualization, cost-efficient.. [Freemium]
 - [GeoSpy](https://geospy.ai) - AI-powered geospatial intelligence tool for advanced geographic data analysis.. [Freemium]
 - [GummySearch](https://gummysearch.com) - Unlock Reddit's potential for market insights with AI-driven research.. [Freemium]
+- [Desearch](https://desearch.ai) – Decentralized AI search for real time X Twitter and Web data. [Freemium]
 
 ### Spreadsheets
 
