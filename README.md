@@ -693,6 +693,7 @@ A curated list of awesome AI tools
 - [GeoSpy](https://geospy.ai) - AI-powered geospatial intelligence tool for advanced geographic data analysis.. [Freemium]
 - [GummySearch](https://gummysearch.com) - Unlock Reddit's potential for market insights with AI-driven research.. [Freemium]
 - [Desearch](https://desearch.ai) – Decentralized AI search for real time X Twitter and Web data. [Freemium]
+- [Rizzy Agent](https://rizzyagent.ai) – Unlock X Twitter lead generation and outreach with an AI powered agent. [Freemium]
 
 ### Spreadsheets
 
