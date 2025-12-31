@@ -474,6 +474,7 @@
 - [Snapcraft](https://snapcraft.in) - AI-driven virtual photo studio, revolutionizes product photography. [Free Trial]
 - [Snowpixel](https://snowpixel.app) - AI-powered tool for transforming text into images, videos, music, and 3D objects.. [Paid]
 - [FluxAI Pro](https://fluxai.pro) - AI-powered tool for stunning, high-resolution image generation.. [Free Trial]
+- [Image2Prompts](https://image2prompts.com) - Free image-to-prompt generator optimized for Nano Banana.. [Freemium]
 
 ### Image Editing
 
