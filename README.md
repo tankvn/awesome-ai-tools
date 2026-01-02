@@ -4004,6 +4004,7 @@ Royalty-Free Music: https://mubert.com/render/pricing?via=beatnc
 - [Zoho Sheet](https://www.zoho.com) - Create, analyze, and collaborate on spreadsheets seamlessly online.. [Contact for Pricing]
 - [Nullify AI](https://nullify.ai) - AI-driven tool for seamless, efficient vulnerability management and prioritization.. [Paid]
 - [SYNQ](https://www.sync.ai) - Streamline communications, enrich data, and enhance productivity with SYNQ.. [Contact for Pricing]
+- [Vulert](https://vulert.com) - Vulert secures software by detecting vulnerabilities in open-source dependencies—without accessing your code. It supports Js, PHP, Java, Python, and more.. [Free Trial]
 - [Airtable AI](https://www.airtable.com) - Transform operations with AI-driven workflow automation and data management.. [Free Trial]
 - [Syncly](https://syncly.app) - Transform customer experiences with AI-driven feedback analysis, dynamic sentiment monitoring, and seamless integration.. [Contact for Pricing]
 - [Asseti](https://www.asseti.co) - AI-driven platform for optimizing and managing business assets.. [Contact for Pricing]
