@@ -360,6 +360,7 @@ A curated list of awesome AI tools
 
 ### Research Assistant
 
+- [Price Per Token](https://pricepertoken.com) - Compare LLM API pricing across 300+ models from OpenAI, Anthropic, Google, and 30+ providers. [Free]
 - [Gnomi App](https://www.gnomi.com) - Unlock global perspectives, customize content, and engage with a diverse community in real-time.. [Free]
 - [Consensus](https://consensus.app) - Unlock expert knowledge: AI-powered, ad-free research from 200M+ scientific papers.. [Freemium]
 - [Julius AI](https://julius.ai) - Unleash AI-driven data analysis with real-time insights and automated processing.. [Paid]
