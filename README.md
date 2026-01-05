@@ -2223,6 +2223,7 @@ A curated list of awesome AI tools
 - [Sketch To](https://www.sketchto.com/) - Instantly convert your photos into art and bring your sketches to life with our powerful ..[Free Trial]
 - [Imgezy](https://www.imgezy.com/) - The Ultimate AI Photo Editor for Effortless Creativity ..[Free Trial]
 - [MakeBanner.ai](https://makebanner.ai) - The #1 AI Banner Generator. Professional Visuals, Zero Design Skills ..[Free Trial]
+- [Image2Prompts](https://image2prompts.com) - Free image-to-prompt generator optimized for Nano Banana.. [Freemium]
 
 ### Image Editing
 
