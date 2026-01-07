@@ -2278,6 +2278,7 @@ A curated list of awesome AI tools
 - [RoomGPT](https://www.roomgpt.io) - Transform any room with AI-driven design from just one photo.. [Free Trial]
 - [Stylar](https://www.stylar.ai) - Revolutionize design with AI-powered editing, intuitive controls, and high-res outputs.. [Free]
 - [BetterPic](https://www.betterpic.io) - Transform photos into 4K AI-generated professional headshots fast.. [Paid]
+- [Moire Removal](https://moireremoval.com) - AI-powered moiré pattern removal for screen photos, scanned prints, and projector captures.. [Freemium]
 - [PicSo](https://picso.ai) - Transform text into diverse art styles effortlessly with AI on any device.. [Freemium]
 - [AirBrush AI Headshots](https://campaign.airbrush.io) - AIHeadshots is an AI-powered platform that generates professional corporate headshots online in minutes, eliminating the need for a physical photo shoot. . [Paid]
 - [AI SuitUp](https://www.aisuitup.com) - Generates high-quality and personalized headshots for professional purposes, such as LinkedIn profiles and business profiles.. [Paid]
