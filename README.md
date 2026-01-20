@@ -2408,6 +2408,7 @@ A curated list of awesome AI tools
 - [PixelBin](https://www.pixelbin.io) - Revolutionize digital assets with AI-driven optimization, seamless integration, and global delivery.. [Free Trial]
 - [Bonkers](https://www.getmerlin.in) - All-in-one AI tool for writing, summarizing, coding, and more.. [Freemium]
 - [FastHeadshot](https://fastheadshot.com) - Transform casual photos into professional headshots in seconds.. [Freemium]
+- [ECFotos](https://ecfotos.com) - Complete AI photo suite for e-commerce. Edit 1 or batch 100+. Background removal, shadow, translator, eraser & more. Amazon/Shopify ready. Try 10 free, no card.. [Freemium]
 
 ### Text To Image
 
