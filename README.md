@@ -10,6 +10,7 @@ A curated list of awesome AI tools
     - [Presentations](https://github.com/tankvn/awesome-ai-tools/blob/main/README.md#presentations)
     - [Email Assistants](https://github.com/tankvn/awesome-ai-tools/blob/main/README.md#email-assistants)
     - [Search Engine](https://github.com/tankvn/awesome-ai-tools/blob/main/README.md#search-engine)
+    - [TakeAI](https://takeai.org)
   - [Text Generators](https://github.com/tankvn/awesome-ai-tools/blob/main/README.md#text-generators)
     - [Prompt Generators](https://github.com/tankvn/awesome-ai-tools/blob/main/README.md#prompt-generators)
     - [Writing Generators](https://github.com/tankvn/awesome-ai-tools/blob/main/README.md#writing-generators)
