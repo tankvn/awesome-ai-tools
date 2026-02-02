@@ -4726,6 +4726,7 @@ Royalty-Free Music: https://mubert.com/render/pricing?via=beatnc
 - [OmniSets](https://www.omnisets.com) - Unlock personalized and AI-driven flashcard creation for efficient and effective learning.. [Free]
 - [Teachguin](https://teachguin.ai) - AI assistant for lesson planning, diverse feedback widgets, and standard features like screen sharing and whiteboarding. [Free]
 - [Reiki](https://reiki.web3go.xyz) - AI-driven tool for real-time energy healing and personalized plans.. [Contact for Pricing]
+- [Aniko](https://aniko.ai) – Gamified SAT prep with AI tutoring, practice tests, 20000+ quesiton bank, personalized study plans, and built-in Desmos calculator. [Free Trial]
 
 ### E-commerce
 
