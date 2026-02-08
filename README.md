@@ -5074,6 +5074,7 @@ Royalty-Free Music: https://mubert.com/render/pricing?via=beatnc
 - [Abun](https://abun.com) - Revolutionizing content creation and SEO with AI automation, targeting organic traffic growth across diverse industries.. [Freemium]
 - [Tag Parrot](https://tagparrot.com) - Effortlessly automate and accelerate Google indexing for better SEO.. [Paid]
 - [TypeflowAI](https://typeflowai.com) - Create AI tools quickly for SEO and lead generation.. [Paid]
+- [RankingRider](https://www.rankingrider.com) - AI-powered bulk SEO optimization for Shopify products via CSV. [Freemium]  
 
 ### Customer Support
 
