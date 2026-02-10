@@ -494,6 +494,7 @@
 - [Bluewhite](https://www.bluewhite.co) - Transform farming with autonomous, scalable, sustainable technology.. [Contact for Pricing]
 - [Tierra Biosciences](https://tierrabiosciences.com) - AI-driven platform for rapid, custom protein synthesis.. [Contact for Pricing]
 - [PackPack](https://packpack.ai) - AI-enhanced bookmark manager for seamless, organized content access.. [Freemium]
+- [Prism AI](https://github.com/precious112/prism-ai-deep-research) - Visual Research Agent that generates dynamic 2D/3D visualizations and knowledge graphs from search data. [ Open Source ]
 - [Thema](https://www.thema.ai) - Transform strategic intelligence with real-time, actionable insights.. [Contact for Pricing]
 - [Libretto](https://getlibretto.com) - Refine, test, and optimize AI prompts efficiently.. [Contact for Pricing]
 - [Brand24](https://brand24.com) - Monitor, analyze, and engage with your brand's online presence effortlessly.. [Free Trial]
