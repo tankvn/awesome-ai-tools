@@ -2899,6 +2899,8 @@ A curated list of awesome AI tools
 - [Skyglass](https://www.skyglass.com) - AI-driven VFX tool for immersive video production on iPhone.. [Paid]
 - [Faceless Video](https://faceless.video) - Convert text to high-quality, faceless videos with voiceovers and stock footage.. [Paid]
 - [D-ID](https://www.d-id.com) - Revolutionize content with AI-crafted digital humans and personalized videos, ensuring privacy and realism.. [Free Trial]
+- [HeyVid](https://heyvid.ai) - Free AI video & image generator with text-to-video, image-to-video, and AI art capabilities. [Free]
+
 
 ### Text To Video
 
