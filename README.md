@@ -7,6 +7,7 @@ A curated list of awesome AI tools
     - [Research Assistant](https://github.com/tankvn/awesome-ai-tools/blob/main/README.md#research-assistant)
     - [Spreadsheets](https://github.com/tankvn/awesome-ai-tools/blob/main/README.md#spreadsheets)
     - [Translator](https://github.com/tankvn/awesome-ai-tools/blob/main/README.md#translator)
+    - 
     - [Presentations](https://github.com/tankvn/awesome-ai-tools/blob/main/README.md#presentations)
     - [Email Assistants](https://github.com/tankvn/awesome-ai-tools/blob/main/README.md#email-assistants)
     - [Search Engine](https://github.com/tankvn/awesome-ai-tools/blob/main/README.md#search-engine)
@@ -1755,6 +1756,8 @@ A curated list of awesome AI tools
 
 ### Design Generators
 
+
+- [free paystub generator](https://stubcreator.com/pay-stub-generator/) - Self-employed individual gets easy and quick pay stubs with our paystub creator.. [Free Trial]
 - [QR Code AI](https://qrcode-ai.com) - Elevate engagement with artistic, insightful QR codes.. [Free Trial]
 - [Adobe Firefly](https://www.adobe.com) - Transform text into vibrant images and designs, boosting creativity effortlessly.. [Paid]
 - [Jasper Art](https://www.jasper.ai) - Transform text into stunning, royalty-free images instantly.. [Paid]
