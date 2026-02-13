@@ -5587,6 +5587,7 @@ Royalty-Free Music: https://mubert.com/render/pricing?via=beatnc
 - [Leapsome](https://www.leapsome.com) - Streamline HR, enhance performance, engage employees effortlessly.. [Contact for Pricing]
 - [Brainner](https://www.brainner.ai) - Accelerate resume screening with AI for faster hiring.. [Paid]
 - [ResumeRanker](https://resumeranker.io) - Dedicated to optimizing job seekers' resumes, increasing their chances of securing desired positions.. [Free Trial]
+- [Brighten](https://hellobrighten.com) - AI-powered employee recognition and onboarding platform for SMBs with peer kudos, milestone tracking, and automated checklists.. [Freemium]
 
 ### Sales
 
