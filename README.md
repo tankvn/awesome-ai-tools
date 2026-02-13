@@ -5907,6 +5907,7 @@ Royalty-Free Music: https://mubert.com/render/pricing?via=beatnc
 - [Agree](https://agree.com) - Streamline contract management with AI-driven creation and collaboration.. [Contact for Pricing]
 - [Extract](https://www.koncile.ai) - AI-powered OCR tool transforming document management into insights.. [Contact for Pricing]
 - [Lawformer](https://lawformer.com) - Streamline legal document drafting and management with AI.. [Freemium]
+- [VisaCanvas](https://visacanvas.com) - AI-powered EB1A and NIW visa eligibility assessment against USCIS criteria.. [Free]
 
 ### Teachers
 
