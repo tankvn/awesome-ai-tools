@@ -1627,6 +1627,7 @@
 - [PriceGPT](https://www.price-gpt.com) - Optimize pricing with AI-driven, real-time market insights.. [Free]
 - [CartBuddyGPT](https://cartbuddygpt.com) - AI-powered shopping assistant with visualization tools.. [Contact for Pricing]
 - [SellMate](https://www.sellmate.ai) - Enhance e-commerce with AI: cross-list, optimize, analyze, succeed.. [Contact for Pricing]
+- [Adapt or Die](https://adaptordie.io) - Independent editorial covering agentic commerce, AI agents in ecommerce, and digital transformation. Sharp analysis, no AI slop. [Free]
 
 ### SEO
 
