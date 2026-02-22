@@ -511,6 +511,7 @@ A curated list of awesome AI tools
 - [Text2SQL](https://www.text2sql.ai) - Transform natural language into optimized SQL queries effortlessly.. [Free Trial]
 - [Multiverse Computing](https://multiversecomputing.com) - Revolutionize AI and optimization with quantum-inspired algorithms.. [Contact for Pricing]
 - [Bioptimus](https://www.bioptimus.com) - AI-driven tool accelerating biological research with predictive analytics.. [Contact for Pricing]
+- [Signal AI Digest](https://humanintel.github.io/signal-digest-landing/) - AI-curated daily news digest delivered to Telegram. Monitors 25+ sources (Reuters, Bloomberg, TechCrunch, CoinTelegraph, etc.), matches stories to your personal topics, and sends summarized stories with source citations every morning. [Freemium]
 - [Book Summaries](https://books.audioread.com) - Unlock book insights quickly: summaries, quotes, critical analysis.. [Free]
 - [Archive Intel](https://archiveintel.com) - AI-driven archiving, search, and secure data management.. [Paid]
 - [LanceDB](https://lancedb.com) - Revolutionize AI data management with multimodal, real-time processing.. [Contact for Pricing]
@@ -1584,6 +1585,7 @@ A curated list of awesome AI tools
 
 ### Summarizer
 
+- [Signal AI Digest](https://humanintel.github.io/signal-digest-landing/) - AI-curated daily news digest delivered to Telegram. Monitors 25+ sources (Reuters, Bloomberg, TechCrunch, CoinTelegraph, etc.), matches stories to your personal topics, and sends summarized stories with source citations every morning. [Freemium]
 - [Book Summaries](https://books.audioread.com) - Unlock book insights quickly: summaries, quotes, critical analysis.. [Free]
 - [Jasper](https://jasper.ai) - An AI-driven platform for efficient, high-quality content creation and marketing strategy enhancement.. [Free Trial]
 - [Hypotenuse](https://hypotenuse.ai) - Elevate content creation with AI; SEO-optimized, brand-unique, scalable.. [Free Trial]
@@ -7210,6 +7212,7 @@ Royalty-Free Music: https://mubert.com/render/pricing?via=beatnc
 
 ### Students
 
+- [Signal AI Digest](https://humanintel.github.io/signal-digest-landing/) - AI-curated daily news digest delivered to Telegram. Monitors 25+ sources (Reuters, Bloomberg, TechCrunch, CoinTelegraph, etc.), matches stories to your personal topics, and sends summarized stories with source citations every morning. [Freemium]
 - [Book Summaries](https://books.audioread.com) - Unlock book insights quickly: summaries, quotes, critical analysis.. [Free]
 - [Studyable](https://studyable.app) - Revolutionize learning: AI summaries, custom flashcards, progress tracking, collaborative tools.. [Freemium]
 - [Smodin](https://smodin.io) - Elevate writing, research, and homework with AI, multilingual support, and plagiarism detection.. [Freemium]
@@ -7911,6 +7914,7 @@ Royalty-Free Music: https://mubert.com/render/pricing?via=beatnc
 
 ### Fun Tools
 
+- [Signal AI Digest](https://humanintel.github.io/signal-digest-landing/) - AI-curated daily news digest delivered to Telegram. Monitors 25+ sources (Reuters, Bloomberg, TechCrunch, CoinTelegraph, etc.), matches stories to your personal topics, and sends summarized stories with source citations every morning. [Freemium]
 - [Book Summaries](https://books.audioread.com) - Unlock book insights quickly: summaries, quotes, critical analysis.. [Free]
 - [Character AI](https://beta.character.ai) -  An AI platform for engaging in natural, open-ended conversations and creative tasks.. [Freemium]
 - [Grok](https://grok.x.ai) - Experience innovative research and creative insights with Grok AI, a witty AI assistant known for its fun and engaging approach.. [Paid]
