@@ -6921,6 +6921,7 @@ Royalty-Free Music: https://mubert.com/render/pricing?via=beatnc
 - [Superflex](https://www.superflex.ai) - Accelerate UI component creation with AI-driven code generation.. [Freemium]
 - [Dryrun Security](https://www.dryrun.security) - AI-powered security context for seamless code reviews. [Contact for Pricing]
 - [Aspen.io](https://getaspen.io) - AI-enhanced API testing and code generation, tailored for Apple OS.. [Free]
+- [WFGY ProblemMap](https://github.com/onestardao/WFGY/blob/main/ProblemMap/README.md) - MIT-licensed checklist of 16 common RAG / LLM pipeline failure modes, used as a practical debugging guide.. [Free]
 
 ### Low-code/no-code
 
