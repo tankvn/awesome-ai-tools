@@ -2021,6 +2021,7 @@ A curated list of awesome AI tools
 - [Playground AI](https://playgroundai.com) - Unleash creativity with AI-driven image creation and intuitive editing.. [Freemium]
 - [NightCafe Studio](https://creator.nightcafe.studio) - Unleash AI-driven art creation, no skills required, endless styles.. [Freemium]
 - [MidJourney Prompt Helper](https://prompt.noonshot.com) - Unleash AI artistry with intuitive prompt crafting and optimization.. [Free]
+- [AI Image Lab](https://aiimagelab.art) - Free AI image generator with curated prompt library across 8 categories. 4K output.. [Free]
 - [Magic Studio](https://magicstudio.com) - Unleash AI to edit, upscale, and create images effortlessly.. [Freemium]
 - [Fy! Studio](https://www.iamfy.co) - Unlock AI-driven visual creation: simple, versatile, and highly customizable.. [Free]
 - [Craiyon](https://www.craiyon.com) - Unleash your creativity with an AI that turns words into visual art instantly.. [Free]
