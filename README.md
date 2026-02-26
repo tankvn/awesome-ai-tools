@@ -1586,6 +1586,7 @@ A curated list of awesome AI tools
 ### Summarizer
 
 - [Book Summaries](https://books.audioread.com) - Unlock book insights quickly: summaries, quotes, critical analysis.. [Free]
+- [Signal AI Digest](https://humanintel.github.io/signal-digest-landing/) - AI-curated daily news digest delivered to Telegram. Monitors 25+ sources (Reuters, Bloomberg, TechCrunch, CoinTelegraph, etc.), matches stories to your topics, and delivers AI-summarized news with source citations every morning. [Freemium]
 - [Jasper](https://jasper.ai) - An AI-driven platform for efficient, high-quality content creation and marketing strategy enhancement.. [Free Trial]
 - [Hypotenuse](https://hypotenuse.ai) - Elevate content creation with AI; SEO-optimized, brand-unique, scalable.. [Free Trial]
 - [Writesonic](https://writesonic.com) - Boost productivity with AI: content, visuals, insights, and real-time data.. [Freemium]
