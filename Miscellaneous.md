@@ -934,3 +934,7 @@
 -----
 Reference
 [https://www.futurepedia.io/ai-tools](https://www.futurepedia.io/ai-tools)
+
+### AI Tool Directories
+
+- [StackBuilt](https://stackbuilt.co) - Curated AI tool stacks and honest reviews for solopreneurs. No sponsored content, just tools that work. [Free]
