@@ -1924,6 +1924,7 @@ A curated list of awesome AI tools
 - [AIPage.dev](https://www.aipage.dev) - AIPage.dev automates web design and content creation using AI.. [Free]
 - [Webullar](https://www.webullar.com) - Webullar is a website generator that allows users to create full-featured websites in just 30 seconds with a simple one-sentence description of their business.. [Free Trial]
 - [ColorMagic](https://colormagic.app) - Creation of color palettes from keywords.. [Free]
+- [EnigmaEasel](https://enigmaeasel.com) - AI color palette generator that creates accessible, production-ready color schemes and design systems from simple prompts.. [Free]
 - [Luw.ai](https://luw.ai) - Design assistant with personalized task help.. [Freemium]
 - [Xinva](https://xinva.ai) - AI-powered tool for creating high-quality, customized visual designs.. [Active deal]
 - [ReRender AI](https://rerenderai.com) - Fast, photorealistic rendering for architectural projects in various design styles.. [Freemium]
