@@ -543,6 +543,7 @@
 - [Aiga](https://www.aiga.agency) - Unlock unparalleled efficiency and cost savings with customizable AI agents tailored to optimize your business operations.. [Paid]
 - [Attri](https://attri.ai) - Revolutionizes customer service with autonomous AI, boosting efficiency and productivity.. [Contact for Pricing]
 - [Marvin](https://www.askmarvin.ai) - Empower AI development: NLP, image, audio, video tools.. [Free]
+- [Agent Gateway](https://agent-gateway-kappa.vercel.app) - Unified API gateway with 40+ services for AI agents — screenshots, DNS, crypto prices, code execution, web scraping, PDF generation, and more.. [Freemium]
 
 
 -----
