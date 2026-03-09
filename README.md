@@ -81,6 +81,7 @@ A curated list of awesome AI tools
 
 ### Personal Assistant
 - [Undetectable ChatGPT Chrome Extension](https://chromewebstore.google.com) - Invisible ChatGPT integration for seamless, discreet browsing.. [Free]
+- [OpenClaw](https://openclawapp.netlify.app/) - Self-hosted AI assistant operating locally with multi-channel support for business automation. [£97 course](https://openclawapp.netlify.app/course/).. [Paid]
 - [Monica](https://monica.im) - Personal Al assistant for effortless chatting and copywriting.. [Freemium]
 - [You](https://you.com) - Transforms searches into personalized, private experiences with AI-driven results.. [Freemium]
 - [Jigso](https://www.jigso.io) - Optimize tasks, automate alerts, and retrieve data seamlessly.. [Freemium]
