@@ -5397,7 +5397,6 @@ A curated list of awesome AI tools
 - [Sprig](https://sprig.com) - AI-powered insights for optimizing user engagement and feedback.. [Freemium]
 - [CX Genie](https://www.cxgenie.ai) - AI-driven platform automating customer support with 24/7 chatbots.. [Freemium]
 - [Crayon Data](https://maya.ai) - Transform data, enhance customer experiences, optimize operations.. [Paid]
-- [CallCow](https://www.callcow.ai) - AI voice agents that answer calls, qualify leads, and book appointments automatically.. [Paid]
 
 ### Human Resources
 
