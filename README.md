@@ -3747,6 +3747,7 @@ Royalty-Free Music: https://mubert.com/render/pricing?via=beatnc
 ### Finance
 
 - [MarketAlerts.ai](https://www.marketalerts.com) - AI-powered tool delivers real-time market alerts and insights.. [Contact for Pricing]
+- [Chartscout](https://chartscout.io) - Ai powered Real-Time Detection. Scans 1,000+ pairs across 4 exchanges 24/7. Detects patterns instantly and alerts you in under 20 seconds.
 - [Vic.ai](https://www.vic.ai) - Revolutionize accounting with AI-driven invoice automation and insights.. [Contact for Pricing]
 - [Booke AI](https://booke.ai) - Revolutionizes bookkeeping with AI-driven automation and accuracy.. [Free Trial]
 - [Anaplan](https://www.anaplan.com) - Revolutionize planning: Connect, model, and forecast across all business areas.. [Contact for Pricing]
