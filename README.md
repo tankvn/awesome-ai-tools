@@ -4947,6 +4947,7 @@ Royalty-Free Music: https://mubert.com/render/pricing?via=beatnc
 - [Limecube](https://www.limecube.co) - Unleash AI-powered, intuitive web design with SEO optimization and no coding needed.. [Free Trial]
 - [Gizzmo](https://gizzmo.ai) - Gizzmo WP plugin creates Amazon affiliate articles in just two clicks.. [Free Trial]
 - [Machined](https://machined.ai) - Create researched, cited and interlinked content on any topic.. [Free Trial]
+- [GEOScore](https://geoscoreai.com) - AI search visibility scanner that checks how websites perform in AI search engines (ChatGPT, Perplexity, Gemini). Free scan with 11 technical checks.. [Freemium]
 - [Keywords Everwhere](https://keywordseverywhere.com) - Unlock SEO insights across platforms with real-time keyword data.. [Paid]
 - [Copyleaks](https://copyleaks.com) - Detects plagiarism, ensures content authenticity, supports multiple formats.. [Freemium]
 - [Eloise](https://Eloise.ai) - Unlock multilingual, SEO-optimized content creation with AI efficiency.. [Active deal]
