@@ -475,6 +475,7 @@
 - [Snowpixel](https://snowpixel.app) - AI-powered tool for transforming text into images, videos, music, and 3D objects.. [Paid]
 - [FluxAI Pro](https://fluxai.pro) - AI-powered tool for stunning, high-resolution image generation.. [Free Trial]
 - [Image2Prompts](https://image2prompts.com) - Free image-to-prompt generator optimized for Nano Banana.. [Freemium]
+- [ImagesArt.ai](https://imagesart.ai/) - Generate and edit AI images with multiple models, prompt tools, and style presets.. [Free Trial]
 
 ### Image Editing
 
@@ -696,6 +697,7 @@
 - [SoulGen AI](https://soulgen-ai.com) - Free AI Image Generator to Create Art from Text. [Paid]
 - [Imagine with Meta AI](https://imagine.meta.com) - AI-powered tool for creating stunning, high-quality visual content.. [Free]
 - [GenType](https://labs.google) - Effortlessly generate high-quality, contextually relevant text with AI.. [Free]
+- [Flux2Klein](https://flux2klein.io/) - Turn prompts into Yves Klein-inspired visuals with a focused AI image generator.. [Free Trial]
 
 
 -----
