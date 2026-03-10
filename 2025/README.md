@@ -2396,6 +2396,7 @@ A curated list of awesome AI tools
 - [AI Expand Image](https://aiexpandimage.org) - Advanced AI-driven tool for seamless, natural image expansion.. [Contact for Pricing]
 - [PixelBin](https://www.pixelbin.io) - Revolutionize digital assets with AI-driven optimization, seamless integration, and global delivery.. [Free Trial]
 - [Bonkers](https://www.getmerlin.in) - All-in-one AI tool for writing, summarizing, coding, and more.. [Freemium]
+- [ImagesArt.ai](https://imagesart.ai/) - Generate and edit AI images with multiple models, prompt tools, and style presets.. [Free Trial]
 
 ### Text To Image
 
@@ -2437,6 +2438,7 @@ A curated list of awesome AI tools
 - [SoulGen AI](https://soulgen-ai.com) - Free AI Image Generator to Create Art from Text. [Paid]
 - [Imagine with Meta AI](https://imagine.meta.com) - AI-powered tool for creating stunning, high-quality visual content.. [Free]
 - [GenType](https://labs.google) - Effortlessly generate high-quality, contextually relevant text with AI.. [Free]
+- [Flux2Klein](https://flux2klein.io/) - Turn prompts into Yves Klein-inspired visuals with a focused AI image generator.. [Free Trial]
 
 
 ## Art Generators
@@ -2637,6 +2639,7 @@ A curated list of awesome AI tools
 - [Blimeycreate](https://blimeycreate.com) - Blimey is an AI image generator that empowers users to create high-quality images, illustrations, art, graphics, covers, and comics with ease. [Paid]
 - [Unity](https://unity.com) - Craft interactive, dynamic 3D content for AR, VR, mobile, desktop, and web platforms.. [Contact for Pricing]
 - [3DAiLY](https://3daily.ai) - Unleash AI-driven 3D model creation with artist refinement for game-ready characters and a collaborative marketplace.. [Freemium]
+- [AI Figure Generator](https://aifiguregenerator.co/) - Turn photos into collectible 3D action figures and figurines with styled packaging mockups.. [Paid]
 
 
 ## Video
@@ -2884,6 +2887,7 @@ A curated list of awesome AI tools
 - [Epipheo](https://www.epipheo.ai) - Revolutionize video creation: AI-driven, efficient, customizable.. [Free Trial]
 - [Skyglass](https://www.skyglass.com) - AI-driven VFX tool for immersive video production on iPhone.. [Paid]
 - [Faceless Video](https://faceless.video) - Convert text to high-quality, faceless videos with voiceovers and stock footage.. [Paid]
+- [FacelessVideos](https://facelessvideos.app/) - Generate faceless short videos with scripts, voiceovers, stock footage, and captions.. [Free Trial]
 - [D-ID](https://www.d-id.com) - Revolutionize content with AI-crafted digital humans and personalized videos, ensuring privacy and realism.. [Free Trial]
 
 ### Text To Video
@@ -3284,6 +3288,7 @@ A curated list of awesome AI tools
 - [PLAUD NOTE](https://www.plaud.ai) - Revolutionize note-taking with AI-powered transcription, summarization, and crystal-clear recording.. [Paid]
 - [AudioNotes](https://audionotes.app) - Transform speech or text into organized, searchable notes effortlessly.. [Free Trial]
 - [Wudpecker](https://wudpecker.io) - AI-enhanced tool for personalized, multilingual, and detailed meeting notes.. [Free]
+- [TikTok Transcript](https://tiktoktranscript.org/) - Transcribe TikTok videos instantly with timestamps and no signup required.. [Free]
 
 
 ## Business
@@ -6726,6 +6731,7 @@ A curated list of awesome AI tools
 - [Aiga](https://www.aiga.agency) - Unlock unparalleled efficiency and cost savings with customizable AI agents tailored to optimize your business operations.. [Paid]
 - [Attri](https://attri.ai) - Revolutionizes customer service with autonomous AI, boosting efficiency and productivity.. [Contact for Pricing]
 - [Marvin](https://www.askmarvin.ai) - Empower AI development: NLP, image, audio, video tools.. [Free]
+- [1ClickClaw](https://1clickclaw.app/) - Self-host OpenClaw to build and deploy AI agents with a one-click setup flow.. [Paid]
 
 
 ## Code

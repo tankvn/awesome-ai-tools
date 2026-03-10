@@ -250,6 +250,7 @@
 - [Epipheo](https://www.epipheo.ai) - Revolutionize video creation: AI-driven, efficient, customizable.. [Free Trial]
 - [Skyglass](https://www.skyglass.com) - AI-driven VFX tool for immersive video production on iPhone.. [Paid]
 - [Faceless Video](https://faceless.video) - Convert text to high-quality, faceless videos with voiceovers and stock footage.. [Paid]
+- [FacelessVideos](https://facelessvideos.app/) - Generate faceless short videos with scripts, voiceovers, stock footage, and captions.. [Free Trial]
 - [D-ID](https://www.d-id.com) - Revolutionize content with AI-crafted digital humans and personalized videos, ensuring privacy and realism.. [Free Trial]
 
 ### Text To Video
