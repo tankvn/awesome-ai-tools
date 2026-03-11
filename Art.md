@@ -203,6 +203,7 @@
 - [Blimeycreate](https://blimeycreate.com) - Blimey is an AI image generator that empowers users to create high-quality images, illustrations, art, graphics, covers, and comics with ease. [Paid]
 - [Unity](https://unity.com) - Craft interactive, dynamic 3D content for AR, VR, mobile, desktop, and web platforms.. [Contact for Pricing]
 - [3DAiLY](https://3daily.ai) - Unleash AI-driven 3D model creation with artist refinement for game-ready characters and a collaborative marketplace.. [Freemium]
+- [AI Figure Generator](https://aifiguregenerator.co/) - Turn photos into collectible 3D action figures and figurines with styled packaging mockups.. [Paid]
 
 
 -----

@@ -543,6 +543,7 @@
 - [Aiga](https://www.aiga.agency) - Unlock unparalleled efficiency and cost savings with customizable AI agents tailored to optimize your business operations.. [Paid]
 - [Attri](https://attri.ai) - Revolutionizes customer service with autonomous AI, boosting efficiency and productivity.. [Contact for Pricing]
 - [Marvin](https://www.askmarvin.ai) - Empower AI development: NLP, image, audio, video tools.. [Free]
+- [1ClickClaw](https://1clickclaw.app/) - Self-host OpenClaw to build and deploy AI agents with a one-click setup flow.. [Paid]
 
 
 -----
