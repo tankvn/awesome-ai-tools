@@ -503,6 +503,7 @@
 - [Venngage](https://venngage.com) - Create personalized, visually stunning designs effortlessly online.. [Free]
 - [Vectorizer.ai](https://vectorizer.ai) - Transform raster images to high-quality vectors effortlessly with AI precision.. [Paid]
 - [Photo Editor AI](https://photoeditor.ai) - Remove unwanted objects, people, blemishes, or text from their images in seconds.. [Free]
+- [Pilio Watermark Remover](https://pilio.ai/zh/remove-watermark) - Remove watermarks from images and PDFs with AI; includes [Image Watermark Remover](https://pilio.ai/zh/image-watermark-remover), [Gemini Watermark Remover](https://pilio.ai/zh/gemini-watermark-remover), and an open-source [GitHub](https://github.com/GargantuaX/gemini-watermark-remover) implementation.. [Freemium]
 - [Image Candy](https://imgcandy.com) - Versatile online image editing, conversion, and compression tool.. [Free]
 - [Paintit](https://paintit.ai) - Revolutionize your space with AI-driven interior design visualization.. [Free]
 - [Final Touch](https://final-tou.ch) - Revolutionize product visuals with AI-driven scene generation and no-code editing.. [Free]
