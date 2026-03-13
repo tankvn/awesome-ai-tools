@@ -4727,6 +4727,7 @@ A curated list of awesome AI tools
 - [CopyMonkey](https://copymonkey.ai) - Optimize Amazon listings with AI-driven, keyword-rich content generation.. [Free Trial]
 - [eCommerce Prompt Generator](https://www.ecommerceprompts.com) - Revolutionize eCommerce content creation with tailored, engaging copy instantly.. [Free]
 - [Photo Editor AI](https://photoeditor.ai) - Remove unwanted objects, people, blemishes, or text from their images in seconds.. [Free]
+- [Pilio Watermark Remover](https://pilio.ai/zh/remove-watermark) - Remove watermarks from images and PDFs with AI; includes [Image Watermark Remover](https://pilio.ai/zh/image-watermark-remover), [Gemini Watermark Remover](https://pilio.ai/zh/gemini-watermark-remover), and an open-source [GitHub](https://github.com/GargantuaX/gemini-watermark-remover) implementation.. [Freemium]
 - [Image Candy](https://imgcandy.com) - Versatile online image editing, conversion, and compression tool.. [Free]
 - [Final Touch](https://final-tou.ch) - Revolutionize product visuals with AI-driven scene generation and no-code editing.. [Free]
 - [One AI](https://www.oneai.com) - Boost website engagement and sales with adaptive AI-driven interactions.. [Freemium]
