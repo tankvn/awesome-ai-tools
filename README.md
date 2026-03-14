@@ -7697,6 +7697,7 @@ Royalty-Free Music: https://mubert.com/render/pricing?via=beatnc
 - [Window.ai](https://windowai.io) - Seamlessly integrate diverse AI models into your browser, enhancing privacy and productivity.. [Free]
 - [Prompta](https://www.prompta.dev) - Revolutionize ChatGPT interaction: offline search, cross-device sync, keyboard-centric, API key flexibility.. [Free]
 - [Build Chatbot](https://buildchatbot.ai) - AI Chatbot For Businesses and Individuals. [Free Trial]
+- [helloandy.net](https://helloandy.net) - Free AI tools suite with 16-mode chatbot, AI text humanizer, CLAUDE.md writer, and more. No login required. [Free]
 - [DocGPT](https://thedocgpt.com) - Transform PDFs into interactive, AI-driven conversational tools for instant information retrieval.. [Freemium]
 - [GPT-trainer](https://gpt-trainer.com) - Revolutionize customer service with AI-driven 24/7 support automation.. [Freemium]
 - [ChatWP](https://wpdocs.chat) - Direct WordPress answers and custom AI chatbot integration from official docs.. [Contact for Pricing]
