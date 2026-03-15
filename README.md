@@ -6766,6 +6766,7 @@ Royalty-Free Music: https://mubert.com/render/pricing?via=beatnc
 - [Attri](https://attri.ai) - Revolutionizes customer service with autonomous AI, boosting efficiency and productivity.. [Contact for Pricing]
 - [Marvin](https://www.askmarvin.ai) - Empower AI development: NLP, image, audio, video tools.. [Free]
 - [1ClickClaw](https://1clickclaw.app/) - Self-host OpenClaw to build and deploy AI agents with a one-click setup flow.. [Paid]
+- [WritBase](https://github.com/Writbase/writbase) - Agent-first task management control plane with MCP integration, multi-agent permissions, and full provenance.. [Free]
 
 
 ## Code
