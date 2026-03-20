@@ -5432,6 +5432,7 @@ Royalty-Free Music: https://mubert.com/render/pricing?via=beatnc
 - [CX Genie](https://www.cxgenie.ai) - AI-driven platform automating customer support with 24/7 chatbots.. [Freemium]
 - [Crayon Data](https://maya.ai) - Transform data, enhance customer experiences, optimize operations.. [Paid]
 - [CallCow](https://www.callcow.ai) - AI voice agents that answer calls, qualify leads, and book appointments automatically.. [Paid]
+- [AnveVoice](https://anvevoice.app) - AI voice agent for websites — trains on your content, navigates pages, fills forms, books appointments in 50+ languages with <700ms latency.. [Freemium]
 
 ### Human Resources
 
