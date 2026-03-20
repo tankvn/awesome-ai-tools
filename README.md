@@ -3312,6 +3312,7 @@ Royalty-Free Music: https://mubert.com/render/pricing?via=beatnc
 - [AudioNotes](https://audionotes.app) - Transform speech or text into organized, searchable notes effortlessly.. [Free Trial]
 - [Wudpecker](https://wudpecker.io) - AI-enhanced tool for personalized, multilingual, and detailed meeting notes.. [Free]
 - [TikTok Transcript](https://tiktoktranscript.org/) - Transcribe TikTok videos instantly with timestamps and no signup required.. [Free]
+- [Vocova](https://vocova.app) - AI transcription supporting 100+ languages with URL import, speaker diarization, and bilingual export. [Freemium]
 
 
 ## Business
