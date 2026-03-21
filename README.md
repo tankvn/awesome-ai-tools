@@ -3753,6 +3753,7 @@ Royalty-Free Music: https://mubert.com/render/pricing?via=beatnc
 - [DoNotPay](https://donotpay.com) - AI-driven legal tool fighting fees, protecting privacy, saving money.. [Paid]
 - [Uptrends.ai](https://app.uptrends.ai) - The first AI stock market news monitoring platform made for DIY investors. Uptrends.ai analyzes chatter to help you find the trends & events that matter.. [Active deal]
 - [hoopsAI](https://www.hoopsai.com) - Unlock personalized, AI-driven trading insights across multiple assets.. [Free]
+- [KeepRule](https://keeprule.com) - AI-powered investment principles platform curating wisdom from 26+ legendary investors (Buffett, Munger, Dalio, Lynch, Marks) with AI scenario analysis for systematic decision-making. [Free]
 - [BigShort](https://bigshort.com) - Comprehensive stock market analytics and trading platform designed to help traders navigate the complexities of the market.. [Paid]
 - [Coinfeeds](https://www.coinfeeds.ai) - AI-driven platform for crypto insights and personalized news.. [Contact for Pricing]
 - [Nanonets](https://nanonets.com) - Transform business processes with AI-driven data extraction and automation.. [Paid]
