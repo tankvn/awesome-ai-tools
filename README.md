@@ -80,6 +80,7 @@ A curated list of awesome AI tools
 ## Productivity Tools
 
 ### Personal Assistant
+- [OpenClaw](https://openclawapp.netlify.app) - Self-hosted AI agent runtime for non-technical entrepreneurs. Run AI agents 24/7 for £2-15/month instead of £200+/month. Control via Telegram/phone. No coding required. [Paid]
 - [Undetectable ChatGPT Chrome Extension](https://chromewebstore.google.com) - Invisible ChatGPT integration for seamless, discreet browsing.. [Free]
 - [Monica](https://monica.im) - Personal Al assistant for effortless chatting and copywriting.. [Freemium]
 - [You](https://you.com) - Transforms searches into personalized, private experiences with AI-driven results.. [Freemium]
