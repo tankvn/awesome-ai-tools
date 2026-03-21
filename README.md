@@ -7137,6 +7137,7 @@ Royalty-Free Music: https://mubert.com/render/pricing?via=beatnc
 - [Odyssey App](https://www.odysseyapp.io) - Explore AI workflows effortlessly.. [Free]
 - [ZenMulti](https://www.zenmulti.cc) - Unlock global markets effortlessly with a lightning-fast, no-code localization tool compatible with JSON and Properties files.. [Paid]
 - [Imagica](https://www.imagica.ai) - Create AI apps easily without coding, rapidly deploying across industries.. [Freemium]
+- [Suriya](https://suriya.ai) - AI-powered app builder for Thai SMEs. Create loyalty apps, booking systems, and customer management tools in 5 minutes, no coding required.. [Freemium]
 
 ### SQL
 
