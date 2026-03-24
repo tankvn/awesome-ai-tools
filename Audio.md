@@ -169,6 +169,7 @@
 - [HarmonAI](https://www.harmonai.org) - Unleash music creativity with AI-powered, open-source production tools.. [Free]
 - [Drayk It](https://drayk.it) - Unleash AI to craft Drake-style hip-hop tracks effortlessly.. [Free]
 - [Vocal Remover](https://vocalremover.org) - Transform music tracks: isolate vocals, create instrumentals, AI-powered, batch processing.. [Free]
+- [voicetoinstrument.com](https://voicetoinstrument.com) - Convert voice to instrument tracks using AI for music production and audio content creation.. [Freemium]
 - [Natural Language Playlist](https://www.naturallanguageplaylist.com) - AI-generated playlists from descriptive language, integrates with Spotify.. [Free]
 - [Endel](https://endel.io) - Personalized soundscapes for focus, relaxation, and sleep, scientifically crafted.. [Free Trial]
 - [Beatoven.ai](https://www.beatoven.ai) - Transform text into unique, royalty-free music tailored to your content's mood.. [Freemium]
