@@ -2909,7 +2909,7 @@ A curated list of awesome AI tools
 - [FacelessVideos](https://facelessvideos.app/) - Generate faceless short videos with scripts, voiceovers, stock footage, and captions.. [Free Trial]
 - [D-ID](https://www.d-id.com) - Revolutionize content with AI-crafted digital humans and personalized videos, ensuring privacy and realism.. [Free Trial]
 - [AI Fruit](https://aifruit.app) - Create Viral AI Fruit Videos in Seconds.. [Free Trial]
-- [PVID](http://pvid.app/) - Free AI video generator aggregating Kling 3.0, Sora 2, Veo 3.1 for image-to-video, text-to-video, and video-to-video.. [Free]
+- [PVID](http://pvid.app/) - Free AI video generator aggregating Kling 3.0, Sora 2, Veo 3.1 for image-to-video, text-to-video, and video-to-video. [Free]
 
 ### Text To Video
 
