@@ -1214,6 +1214,7 @@ A curated list of awesome AI tools
 - [ProWritingAid](https://prowritingaid.com) - AI-powered editor enhances clarity, style, and error detection across platforms.. [Freemium]
 - [Generor](https://generor.com) - Revolutionize content creation with diverse, intuitive AI generators.. [Freemium]
 - [Wordtune](https://www.wordtune.com) - AI-powered tool enhancing writing with paraphrasing, grammar checking, and content creation.. [Freemium]
+- [WordAgent](https://github.com/visresearch/WordAgent) - Copilot-style writing assistant for WPS and Microsoft Word add-ins with agent workflows.. [Free]
 - [AI Chatbot](https://apps.apple.com) - Unleash creativity with AI: write, edit, translate, and more.. [Freemium]
 - [Texta](https://appsumo.8odi.net) - Unleash AI to rapidly generate, optimize, and scale content creation.. [Active deal]
 - [Resumatic](https://resumatic.ai) - AI-powered resume builder optimizing for ATS and feedback.. [Freemium]
