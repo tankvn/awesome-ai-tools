@@ -3119,6 +3119,7 @@ A curated list of awesome AI tools
 - [Uberduck](https://uberduck.ai) - Unleash AI-powered singing, rapping, and custom voice creation.. [Free]
 - [HarmonAI](https://www.harmonai.org) - Unleash music creativity with AI-powered, open-source production tools.. [Free]
 - [Drayk It](https://drayk.it) - Unleash AI to craft Drake-style hip-hop tracks effortlessly.. [Free]
+- [voicetoinstrument.com](https://voicetoinstrument.com) - Convert voice to instrumental tracks using AI.. [Free/Paid]
 - [Vocal Remover](https://vocalremover.org) - Transform music tracks: isolate vocals, create instrumentals, AI-powered, batch processing.. [Free]
 - [Natural Language Playlist](https://www.naturallanguageplaylist.com) - AI-generated playlists from descriptive language, integrates with Spotify.. [Free]
 - [Endel](https://endel.io) - Personalized soundscapes for focus, relaxation, and sleep, scientifically crafted.. [Free Trial]
