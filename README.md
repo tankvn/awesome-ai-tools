@@ -787,6 +787,7 @@ A curated list of awesome AI tools
 - [Lingosync](https://lingosync.ai) - Translate and voice-over videos in 40+ languages swiftly.. [Free]
 - [MachineTranslation](https://www.machinetranslation.com) - Machine translation aggregator and analysis based on GPT. [Free]
 - [Translingo](https://translingo.cc) - AI-driven tool offering seamless, real-time event translations.. [Freemium]
+- [LocalePack](https://localepack.app) - AI-powered locale file translator for browser extensions (messages.json), Next.js, i18next, and vue-i18n. 52 languages, placeholders and nested structure preserved. [Paid]
 - [Pipio](https://www.pipio.ai) - Revolutionize video dubbing with AI-powered multilingual translation and lip-syncing.. [Paid]
 - [izTalk](https://iztalk.ai) - Seamless real-time translation and speech recognition for global communication.. [Free]
 
