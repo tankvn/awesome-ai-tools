@@ -2698,6 +2698,7 @@ A curated list of awesome AI tools
 - [CapCut](https://apps.apple.com) - All-in-one video editor offering easy-to-use functions.. [Freemium]
 - [Wondershare Filmora](https://filmora.wondershare.com) - Easy-to-use video editing software for creators of all levels.. [Free Trial]
 - [Munch](https://www.getmunch.com) - Maximize video impact with AI-driven, trend-optimized social media clips.. [Active deal]
+- [ClipSpeedAI](https://clipspeed.ai) - AI-powered video clipping that automatically finds the best moments from long-form videos for streamers, YouTubers, and podcasters.. [Free Trial]
 - [Descript](https://www.descript.com) - Revolutionize content creation with intuitive editing, AI-driven tools, and seamless collaboration.. [Freemium]
 - [Papercup](https://www.papercup.com) - Revolutionize video localization with AI-powered, human-refined dubbing solutions.. [Contact for Pricing]
 - [Runway](https://runwayml.com) - AI-driven platform for high-fidelity, controllable video creation.. [Freemium]
