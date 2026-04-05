@@ -867,6 +867,7 @@
 - [NetworkAI](https://www.wonsulting.com) - Revolutionize networking and job search with AI-driven efficiency and support.. [Free Trial]
 - [Tripplanner](https://tripplanner.ai) - Optimizes travel with AI-driven, personalized itinerary planning.. [Free]
 - [Taja AI](https://taja.ai) - Boost YouTube reach with AI-driven metadata optimization and analytics.. [Free Trial]
+- [SocialBu](https://socialbu.com) - AI-powered social media management platform for scheduling, publishing, and automating content across X, Instagram, LinkedIn, Facebook, TikTok, and more.. [Paid]
 - [SynthMind AI](https://synthmind.app) - AI-powered tool for targeted social media growth automation.. [Free Trial]
 - [AutoResponder.ai](https://www.autoresponder.ai) - Send automatic replies to your favorite messengers with the help of AI.. [Freemium]
 - [Travel Plan AI](https://www.travelplan-ai.com) - Streamline travel planning with AI-generated, customizable itineraries.. [Free]
