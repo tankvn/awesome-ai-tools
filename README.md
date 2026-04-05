@@ -3380,6 +3380,7 @@ Royalty-Free Music: https://mubert.com/render/pricing?via=beatnc
 
 ### Marketing
 
+- [CreatorSkills](https://creatorskills.co) - Ready-to-use AI skill systems for content creators to generate thumbnails, scripts, analytics, and repurposed content across Claude, ChatGPT, Claude Code, and Cursor. [Paid]
 - [EasyGen](https://www.easygen.io) - The Linkedin Post Generator That Works . [Free Trial]
 - [HubSpot](https://www.hubspot.com) - Unify marketing, sales, CRM; AI-driven insights—boost efficiency.. [Free Trial]
 - [Hootsuite](https://hootsuite.com) - Streamline, schedule, analyze, and engage on social media.. [Free Trial]
