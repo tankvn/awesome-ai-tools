@@ -2954,6 +2954,7 @@ A curated list of awesome AI tools
 - [Trupeer](https://www.trupeer.ai) - AI-powered tool transforming screen recordings into polished videos.. [Freemium]
 - [Lesson22](https://www.lesson22.ai) - Transforms articles into engaging videos for diverse learners.. [Freemium]
 - [Animate AI](https://animateai.pro) - Create animated video series swiftly with AI-driven tools.. [Freemium]
+- [Seedance AI](https://seedancegen.com) - Multi-model AI video generation platform with text-to-video and image-to-video, supporting Seedance 2.0, Veo 3.1, Grok, and Wan models. [Freemium]
 
 
 ## Audio
