@@ -5795,6 +5795,8 @@ Royalty-Free Music: https://mubert.com/render/pricing?via=beatnc
 - [Saleshandy](https://www.saleshandy.com) - Streamline cold emailing and lead generation with automation and personalization.. [Paid]
 - [SampleAd](https://www.samplead.co) - Revolutionize sales with AI-driven automation and personalized messaging.. [Contact for Pricing]
 - [Flike](https://www.flike.app) - Boost sales engagement with AI-driven, personalized, CRM-integrated messaging.. [Contact for Pricing]
+- [Overloop CLI](https://github.com/sortlist/overloop-cli) - AI-powered outbound engine. Source 450M+ contacts, launch email + LinkedIn campaigns, manage conversations. JSON output, agent-native. `npm i -g overloop-cli`. [Free Trial]
+- [Signals CLI](https://github.com/sortlist/signals-cli) - Intent signal monitoring. Track LinkedIn engagers, keyword posters, job changers, funding events. JSON output for agent pipelines. `npm i -g signals-sortlist-cli`. [Free Trial]
 
 ### Stock Trading
 
