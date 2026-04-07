@@ -2696,6 +2696,7 @@ A curated list of awesome AI tools
 
 ### Video Editing
 
+- [Video Background Remover](https://videobackgroundremover.org) - Remove video backgrounds without a green screen, using a dedicated upload to queue to export flow.. [Freemium]
 - [Vid.AI](https://vid.ai) - AI-driven tool simplifies video creation and editing.. [Paid]
 - [Adobe Premiere Pro](https://www.adobe.com) - Transform videos with AI, edit, mix audio, and color grade.. [Paid]
 - [CapCut](https://apps.apple.com) - All-in-one video editor offering easy-to-use functions.. [Freemium]
