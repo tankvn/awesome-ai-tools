@@ -6768,6 +6768,7 @@ Royalty-Free Music: https://mubert.com/render/pricing?via=beatnc
 - [Attri](https://attri.ai) - Revolutionizes customer service with autonomous AI, boosting efficiency and productivity.. [Contact for Pricing]
 - [Marvin](https://www.askmarvin.ai) - Empower AI development: NLP, image, audio, video tools.. [Free]
 - [1ClickClaw](https://1clickclaw.app/) - Self-host OpenClaw to build and deploy AI agents with a one-click setup flow.. [Paid]
+- [RemoteOpenClaw](https://remoteopenclaw.com) - Open marketplace for AI skills and personas built on OpenClaw.. [Free]
 
 
 ## Code
