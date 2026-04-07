@@ -8036,6 +8036,7 @@ Royalty-Free Music: https://mubert.com/render/pricing?via=beatnc
 
 ### Gaming
 
+- [GetCharGen](https://getchargen.com/dnd-character-generator) - Generate a D&D character portrait, class concept, stats, and backstory in one flow.. [Freemium]
 - [Talefy](https://talefy.ai) - Interactive, illustrated storytelling across genres with community engagement.. [Paid]
 - [Inworld](https://www.inworld.ai) - Elevate game development with dynamic NPCs, immersive worlds, and AI-driven content creation.. [Freemium]
 - [Charisma](https://charisma.ai) - Revolutionize storytelling with interactive, emotionally intelligent virtual characters.. [Contact for Pricing]
