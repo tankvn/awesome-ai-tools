@@ -2047,6 +2047,7 @@ A curated list of awesome AI tools
 - [Stable Horde](https://stablehorde.net) - Harness AI for efficient, community-driven image and text generation.. [Free]
 - [Avatar AI](https://avatarai.me) - Generate unique digital identities. [Paid]
 - [Headshot Pro](https://www.headshotpro.com) - Transform selfies into professional headshots with AI, swiftly and affordably.. [Paid]
+- [HeadshotCraft](https://headshotcraft.com) - Turn one selfie into 50+ studio-quality AI headshots for LinkedIn, resumes, and team pages.. [Freemium]
 - [Ipic.ai](https://www.ipic.ai) - AI-powered image enhancement for professionals and hobbyists alike.. [Free]
 - [Top VS Best](https://topvsbest.com) - Empower image creation with AI, offering speed, quality, and ease.. [Free]
 - [Dezgo](https://dezgo.com) - Transform text into stunning images or videos with AI-driven creativity.. [Free]
@@ -2488,6 +2489,7 @@ A curated list of awesome AI tools
 - [Never](https://www.never.tech) - Unlock Your Imagination with Never's Hyper-Realistic AI Images.. [Freemium]
 - [Avatar AI](https://avatarai.me) - Generate unique digital identities. [Paid]
 - [Headshot Pro](https://www.headshotpro.com) - Transform selfies into professional headshots with AI, swiftly and affordably.. [Paid]
+- [HeadshotCraft](https://headshotcraft.com) - Turn one selfie into 50+ studio-quality AI headshots for LinkedIn, resumes, and team pages.. [Freemium]
 - [Face26](https://face26.com) - Revitalize photos with AI: enhance, unblur, colorize, animate, and restore effortlessly.. [Freemium]
 - [SeaArt AI](https://www.seaart.ai) - Unleash creativity with AI: art generation, diverse styles, enterprise-ready.. [Free Trial]
 - [Alethea](https://alethea.ai) - Create, customize, and own AI characters with blockchain-enhanced generative AI.. [Free]
@@ -2694,6 +2696,7 @@ A curated list of awesome AI tools
 
 ### Video Editing
 
+- [Video Background Remover](https://videobackgroundremover.org) - Remove video backgrounds without a green screen, using a dedicated upload to queue to export flow.. [Freemium]
 - [Vid.AI](https://vid.ai) - AI-driven tool simplifies video creation and editing.. [Paid]
 - [Adobe Premiere Pro](https://www.adobe.com) - Transform videos with AI, edit, mix audio, and color grade.. [Paid]
 - [CapCut](https://apps.apple.com) - All-in-one video editor offering easy-to-use functions.. [Freemium]
@@ -8034,6 +8037,7 @@ Royalty-Free Music: https://mubert.com/render/pricing?via=beatnc
 
 ### Gaming
 
+- [GetCharGen](https://getchargen.com/dnd-character-generator) - Generate a D&D character portrait, class concept, stats, and backstory in one flow.. [Freemium]
 - [Talefy](https://talefy.ai) - Interactive, illustrated storytelling across genres with community engagement.. [Paid]
 - [Inworld](https://www.inworld.ai) - Elevate game development with dynamic NPCs, immersive worlds, and AI-driven content creation.. [Freemium]
 - [Charisma](https://charisma.ai) - Revolutionize storytelling with interactive, emotionally intelligent virtual characters.. [Contact for Pricing]
