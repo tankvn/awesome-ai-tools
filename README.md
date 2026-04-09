@@ -80,6 +80,7 @@ A curated list of awesome AI tools
 ## Productivity Tools
 
 ### Personal Assistant
+- [Verbatune](https://verbatune.com) - AI agent that monitors social platforms for buying signals and turns high-intent leads into booked meetings. [Paid]
 - [Undetectable ChatGPT Chrome Extension](https://chromewebstore.google.com) - Invisible ChatGPT integration for seamless, discreet browsing.. [Free]
 - [Monica](https://monica.im) - Personal Al assistant for effortless chatting and copywriting.. [Freemium]
 - [You](https://you.com) - Transforms searches into personalized, private experiences with AI-driven results.. [Freemium]
