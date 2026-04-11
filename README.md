@@ -4960,6 +4960,7 @@ Royalty-Free Music: https://mubert.com/render/pricing?via=beatnc
 - [Gizzmo](https://gizzmo.ai) - Gizzmo WP plugin creates Amazon affiliate articles in just two clicks.. [Free Trial]
 - [Machined](https://machined.ai) - Create researched, cited and interlinked content on any topic.. [Free Trial]
 - [GEOScore](https://geoscoreai.com) - AI search visibility scanner that checks how websites perform in AI search engines (ChatGPT, Perplexity, Gemini). Free scan with 11 technical checks.. [Freemium]
+- [toprank](https://github.com/nowork-studio/toprank) - Open-source Claude Code plugin with 9 SEO and Google Ads skills. Connects Google Search Console, PageSpeed Insights, and Google Ads API to audit traffic, rewrite meta tags, generate JSON-LD schema, and ship fixes to WordPress/Strapi/Contentful/Ghost.. [Free]
 - [Keywords Everwhere](https://keywordseverywhere.com) - Unlock SEO insights across platforms with real-time keyword data.. [Paid]
 - [Copyleaks](https://copyleaks.com) - Detects plagiarism, ensures content authenticity, supports multiple formats.. [Freemium]
 - [Eloise](https://Eloise.ai) - Unlock multilingual, SEO-optimized content creation with AI efficiency.. [Active deal]
