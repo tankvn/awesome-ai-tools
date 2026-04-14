@@ -489,6 +489,7 @@
 - [Magic Studio](https://magicstudio.com) - Unleash AI to edit, upscale, and create images effortlessly.. [Freemium]
 - [Scribble Diffusion](https://scribblediffusion.com) - Turn doodles into digital masterpieces with AI-powered Scribble Diffusion.. [Free]
 - [Imagecolorizer](https://imagecolorizer.com) - Revitalize old photos with AI-driven colorization and restoration effortlessly.. [Free]
+- [ArtImageHub](https://artimagehub.com/old-photo-restoration) - AI-powered old photo restoration. Fixes scratches, fading, blur, and water damage on old family photos. One-time $4.99, no subscription. [Paid]
 - [Pixelicious](https://www.pixelicious.xyz) - Transform images into pixel art effortlessly online; background removal included.. [Free]
 - [Pixela AI](https://pixela.ai) - Enhance and analyze images with AI-driven precision and scalability.. [Free]
 - [InteriorAI](https://interiorai.com) - Revolutionize interior design with AI: instant photorealistic renders and virtual staging.. [Free Trial]
