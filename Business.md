@@ -629,6 +629,7 @@
 - [SparkReceipt](https://sparkreceipt.com) - Streamline receipts, automate accounting, boost efficiency.. [Freemium]
 - [Invxst](https://www.invxstai.com) - AI-driven insights turn complex financial data into actionable summaries.. [Freemium]
 - [Finpilot](https://www.finpilot.ai) - Automate data collection, analysis, and reporting with AI-driven precision.. [Contact for Pricing]
+- [PolyMind](https://polyminds.netlify.app/) - Real-time Polymarket trading alerts with multi-AI analysis (Groq, Claude, Gemini). Track whale bets, volume spikes, coordinated wallets, and 12 signal types.. [Freemium]
 
 ### Project Management
 
