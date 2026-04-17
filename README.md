@@ -698,6 +698,7 @@ A curated list of awesome AI tools
 - [GummySearch](https://gummysearch.com) - Unlock Reddit's potential for market insights with AI-driven research.. [Freemium]
 - [Desearch](https://desearch.ai) – Decentralized AI search for real time X Twitter and Web data. [Freemium]
 - [Rizzy Agent](https://rizzyagent.ai) – Unlock X Twitter lead generation and outreach with an AI powered agent. [Freemium]
+- [8bitconcepts](https://8bitconcepts.com) - Enterprise AI research papers with weekly RSS updates on LLMs, agents, and infrastructure. [Free]
 
 ### Spreadsheets
 
@@ -1024,6 +1025,7 @@ A curated list of awesome AI tools
 - [PimEyes](https://pimeyes.com) - Explore digital footprints with AI-driven facial recognition search.. [Paid]
 - [Findr](https://www.usefindr.com) - Internal search platform that lets you find any document, link, and information lightning fast using a unified search bar.. [Freemium]
 - [Helloii](https://chromewebstore.google.com) - Elevate your online searches with AI-powered conversational queries.. [Free]
+- [Not Human Search](https://nothumansearch.ai) - Agent-first search engine indexing APIs, MCP servers, and llms.txt sites for AI consumption. [Free]
 
 
 ## Text Generators
@@ -5606,6 +5608,7 @@ Royalty-Free Music: https://mubert.com/render/pricing?via=beatnc
 - [Brainner](https://www.brainner.ai) - Accelerate resume screening with AI for faster hiring.. [Paid]
 - [ResumeRanker](https://resumeranker.io) - Dedicated to optimizing job seekers' resumes, increasing their chances of securing desired positions.. [Free Trial]
 - [Brighten](https://hellobrighten.com) - AI-powered employee recognition and onboarding platform for SMBs with peer kudos, milestone tracking, and automated checklists.. [Freemium]
+- [AI Dev Jobs](https://aidevboard.com) - Curated AI and ML engineering jobs aggregated from 480+ companies with REST API and MCP server access. [Free]
 
 ### Sales
 
