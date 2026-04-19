@@ -8117,3 +8117,6 @@ Reference
 <!-- ai-manifest-ref 2025-09-20T13:27:46.541Z -->
 - [AI Manifest](https://ai-manifest.org) - Optional reference for /.well-known/ai.json + OpenAPI/JSON Schema discovery (with MCP/agents.json mapping)
 - [WellKnownAI](https://wellknownai.org) - Registry/spec examples and public snapshots (no PII; mirroring allowed)
+
+- [theihtisham/agent-shadow-brain](https://github.com/theihtisham/agent-shadow-brain): Self-evolving AI coding intelligence with infinite memory (TurboQuant), genetic algorithm self-evolution, predictive bug detection, PageRank knowledge graphs, swarm intelligence, and adversarial defense. TypeScript/Node.js. MIT licensed.
+- [theihtisham/omni-skills-forge](https://github.com/theihtisham/omni-skills-forge): 50,000+ curated AI agent skills for Claude Code, Cursor, Copilot, Windsurf, Cline. Visual dashboard, one-click install, skill doctor, auto-update. TypeScript/Node.js. MIT licensed.
