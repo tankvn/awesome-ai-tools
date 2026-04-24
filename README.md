@@ -4482,6 +4482,7 @@ Royalty-Free Music: https://mubert.com/render/pricing?via=beatnc
 - [PDF Candy](https://pdfcandy.com) - Transform, edit, merge, secure PDFs online with ease and speed.. [Paid]
 - [Convai](https://www.convai.com) - Elevate virtual worlds with AI-driven, interactive, and knowledgeable characters.. [Freemium]
 - [Think In Italian AI Language Tutor](https://www.thinkinitalian.com) - Revolutionizes Italian learning with AI-driven, personalized real-world conversation practice.. [Free Trial]
+- [Elispeak](https://app.elispeak.com/?freemium=true) - AI English speaking coach with real voice conversations on everyday, work, travel, and IELTS/TOEFL topics.. [Freemium]
 - [WellSaid Labs](https://wellsaidlabs.com) - Transform text into lifelike, customizable spoken audio.. [Free Trial]
 - [Sudowrite](https://www.sudowrite.com) - Revolutionize writing with AI: creativity, editing, inspiration, quality enhancement.. [Free Trial]
 - [Snackz AI](https://www.snackz.ai) - Unlock book insights in minutes: AI-driven, user-requested summaries in text/audio.. [Free]
