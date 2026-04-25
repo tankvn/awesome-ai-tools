@@ -1118,6 +1118,7 @@ A curated list of awesome AI tools
 - [LongShot](https://longShot.ai) - Boost content creation with AI: factual, SEO-optimized, and customizable.. [Freemium]
 - [Textero AI Essay Writer](https://www.textero.ai) - Your reliable AI academic assistant for tasks of any scale. From idea generation and research assistance to text editing and paper summarizing, Textero.ai will make your academic journey less stressful. . [Freemium]
 - [Google Gemini](https://bard.google.com) - Harness multimodal AI for innovation, efficiency, and scalability with Google's advanced, developer-friendly platform.. [Freemium]
+- [unslop](https://github.com/MohamedAbdallah-14/unslop) - CLI that removes AI writing patterns (sycophantic openers, filler vocabulary, em-dash overuse) from text before publication. Code blocks and URLs pass through unchanged. `npm install -g unslop`. [Free]
 - [Copymatic](https://copymatic.ai) - Unleash AI to craft, optimize, and enhance diverse, SEO-friendly content effortlessly.. [Free Trial]
 - [GPT-3 Playground](https://platform.openai.com) - Unleash AI-driven text generation with unparalleled versatility and customization.. [Free Trial]
 - [PerfectEssayWriter](https://www.perfectessaywriter.ai) - AI-driven essay creation: fast, free, original, user-friendly.. [Freemium]
@@ -2234,6 +2235,7 @@ A curated list of awesome AI tools
 - [MakeBanner.ai](https://makebanner.ai) - The #1 AI Banner Generator. Professional Visuals, Zero Design Skills ..[Free Trial]
 - [Image2Prompts](https://image2prompts.com) - Free image-to-prompt generator optimized for Nano Banana.. [Freemium]
 - [Foundation Men](https://foundationmen.com) - AI-Powered Grooming Image Tools for the Modern Man ..[Free Trial]
+- [prompt-to-asset](https://github.com/MohamedAbdallah-14/prompt-to-asset) - MCP server routing image generation prompts across 30+ models (Flux, DALL-E, Stable Diffusion, Ideogram, etc.). Zero API key needed for first run via free tiers. `npm install -g prompt-to-asset`. [Free]
 
 ### Image Editing
 
@@ -6789,6 +6791,7 @@ Royalty-Free Music: https://mubert.com/render/pricing?via=beatnc
 - [Replit](https://replit.com) - Streamline coding, collaborate in real-time, deploy instantly from your browser.. [Freemium]
 - [GitFluence](https://www.gitfluence.com) - AI-powered instant Git command suggestions for streamlined development workflows.. [Free]
 - [Google Gemini](https://bard.google.com) - Harness multimodal AI for innovation, efficiency, and scalability with Google's advanced, developer-friendly platform.. [Freemium]
+- [unslop](https://github.com/MohamedAbdallah-14/unslop) - CLI that removes AI writing patterns (sycophantic openers, filler vocabulary, em-dash overuse) from text before publication. Code blocks and URLs pass through unchanged. `npm install -g unslop`. [Free]
 - [GPT-3 Playground](https://platform.openai.com) - Unleash AI-driven text generation with unparalleled versatility and customization.. [Free Trial]
 - [Rosebud](https://www.rosebud.ai) - Unleash AI to convert text into playable games, animate characters, and craft assets with ease.. [Free]
 - [Cron AI](https://cron-ai.vercel.app) - Transform plain text into precise cron expressions effortlessly; automate with ease.. [Free]
@@ -7485,6 +7488,7 @@ Royalty-Free Music: https://mubert.com/render/pricing?via=beatnc
 - [Ordinary People Prompts](https://www.ordinarypeopleprompts.com) - Elevate AI interactions with curated, high-impact conversation prompts.. [Free]
 - [Taskade](https://www.taskade.com) - Unify team productivity with AI-driven task management and collaboration.. [Freemium]
 - [Google Gemini](https://bard.google.com) - Harness multimodal AI for innovation, efficiency, and scalability with Google's advanced, developer-friendly platform.. [Freemium]
+- [unslop](https://github.com/MohamedAbdallah-14/unslop) - CLI that removes AI writing patterns (sycophantic openers, filler vocabulary, em-dash overuse) from text before publication. Code blocks and URLs pass through unchanged. `npm install -g unslop`. [Free]
 - [Chatbase](https://www.chatbase.co) - Build an AI chatbot trained on your data.. [Paid]
 - [Superflows](https://www.superflows.ai) - Enhance your software with an AI copilot for instant user assistance.. [Freemium]
 - [Chatsimple](https://www.chatsimple.ai) - AI chatbot for 24/7 lead generation and conversion. [Active deal]
