@@ -6483,6 +6483,7 @@ Royalty-Free Music: https://mubert.com/render/pricing?via=beatnc
 
 ### AI Agents
 
+- [AI Hotlist](https://aihot.bt199.com/) - Chinese AI tools, models, agents and AI news hotlist, refreshed every 6 hours. [Free]
 - [Rapport](https://www.rapport.cloud) - Create emotionally intelligent, multilingual, customizable AI characters.. [Free Trial]
 - [AutoGPT](https://github.com) - An experimental open-source attempt to make GPT-4 fully autonomous.. [Free]
 - [AgentVerse](https://agentverse.ai) - Explore, create, manage AI agents effortlessly; enhance efficiency, cut costs.. [Contact for Pricing]
