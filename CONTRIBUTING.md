@@ -39,6 +39,7 @@ Before you submit, please ensure:
 - ❌ Entire frameworks or tools with no documentation.
 - ❌ Using a free domain name, but it's not open source.
 - ❌ Low-effort or mass submissions may be declined.
+- ❌ Only AI models and AI tools
 
 ## Directory Structure
 ```
