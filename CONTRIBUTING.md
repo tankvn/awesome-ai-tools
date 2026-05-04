@@ -20,6 +20,7 @@ We welcome additions that improve and grow our curated collections of high-quali
    - ✅ Keep descriptions short and informative.
    - ✅ Ensure links are correct and not broken.
    - ✅ Avoid duplicates and low-quality resources.
+   - ✅ Over 128 stars ⭐️ on Github
 4. **Submit a Pull Request** with a clear explanation of what you’re adding or changing.
 
 ## Pull Request Checklist
@@ -40,6 +41,7 @@ Before you submit, please ensure:
 - ❌ Using a free domain name, but it's not open source.
 - ❌ Low-effort or mass submissions may be declined.
 - ❌ Only AI models and AI tools
+- ❌ Less than 128 stars ⭐️ on Github
 
 ## Directory Structure
 ```
