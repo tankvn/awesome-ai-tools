@@ -6771,6 +6771,7 @@ Royalty-Free Music: https://mubert.com/render/pricing?via=beatnc
 - [Attri](https://attri.ai) - Revolutionizes customer service with autonomous AI, boosting efficiency and productivity.. [Contact for Pricing]
 - [Marvin](https://www.askmarvin.ai) - Empower AI development: NLP, image, audio, video tools.. [Free]
 - [1ClickClaw](https://1clickclaw.app/) - Self-host OpenClaw to build and deploy AI agents with a one-click setup flow.. [Paid]
+- [KubeStellar Console](https://console.kubestellar.io) - AI-powered multi-cluster Kubernetes management with natural language operations, MCP server (kc-agent), and CNCF project integrations for edge and cloud clusters. [Free]
 
 
 ## Code
