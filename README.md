@@ -7492,6 +7492,7 @@ Royalty-Free Music: https://mubert.com/render/pricing?via=beatnc
 - [Character AI](https://beta.character.ai) -  An AI platform for engaging in natural, open-ended conversations and creative tasks.. [Freemium]
 - [Sibyl AI](https://sibyls.ai) - Unlock spiritual insights and guidance through AI's enlightened neural network.. [Free Trial]
 - [Replika](https://replika.com) - AI companion for personalized chat, emotional support, and self-growth.. [Freemium]
+- [Kissable](https://kissable.app) - AI companion with persistent memory, together photos, video generation, community scenario catalog, emotional voice, and unlimited messages.. [Free Trial]
 - [One AI](https://www.oneai.com) - Boost website engagement and sales with adaptive AI-driven interactions.. [Freemium]
 - [PromptDrive.ai](https://promptdrive.ai) - Your All-in-one Prompt Management Tool. [Free]
 - [TalkPal](http://talkpal.ai) - Master languages with AI: immersive learning, instant feedback, multi-platform.. [Free]
