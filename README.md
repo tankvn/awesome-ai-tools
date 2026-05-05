@@ -3754,6 +3754,7 @@ Royalty-Free Music: https://mubert.com/render/pricing?via=beatnc
 - [Ad Intel](https://usemadmen.ai) - Unlock competitor ad insights, optimize strategy, boost ROAS.. [Freemium]
 - [Adsby](https://adsby.co) - Maximize ad impact with AI-driven creation, optimization, and keyword suggestions.. [Free Trial]
 - [LeadFox](https://getleadfox.com) - Auto-reply to LinkedIn comments & capture leads while you sleep.. [Paid]
+- [AdDogs](https://www.addogs.ai) - AI ad creative generator that clones any winning ad design, swaps in your product photo, and applies your brand colors and logo in seconds.. [Freemium]
 
 ### Finance
 
