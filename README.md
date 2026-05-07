@@ -2308,6 +2308,7 @@ A curated list of awesome AI tools
 - [Creativio AI](https://creativio.io) - Revolutionize product photography with AI: enhance, edit, and monetize images effortlessly.. [Paid]
 - [MimicPC](https://www.mimicpc.com) - Unlock AI tools instantly, browser-based, no installs needed.. [Freemium]
 - [Imagen AI](https://imagen-ai.com) - Revolutionize content with AI-driven image, video enhancement.. [Free Trial]
+- [igly.ai](https://igly.ai) - Free AI image editor with 12+ tools for e-commerce — background removal, inpainting, upscaling, virtual try-on.. [Free]
 - [DataSpan](https://www.dataspan.ai) - Generative AI platform for efficient, low-data computer vision models.. [Contact for Pricing]
 - [GEES](https://gees.com) - Unleash creativity: AI-powered design, effortless collaboration, infinite possibilities.. [Freemium]
 - [QOVES](https://qoves.com) - AI-driven facial aesthetics enhancement through personalized analysis and expert guidance.. [Paid]
