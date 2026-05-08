@@ -701,6 +701,7 @@ A curated list of awesome AI tools
 
 ### Spreadsheets
 
+- [AI for Database](https://aifordatabase.com) - Talk to any database in plain English; no-code natural language querying, self-refreshing dashboards, and AI-powered action workflows.. [Freemium]
 - [Gigasheet](https://www.gigasheet.com) - Transform big data with spreadsheet ease; no-code, AI-enhanced analysis.. [Freemium]
 - [Rows AI](https://rows.com) - Transform spreadsheets into AI-powered data analysis tools, simplifying complex insights.. [Freemium]
 - [Zoho Sheet](https://www.zoho.com) - Create, analyze, and collaborate on spreadsheets seamlessly online.. [Contact for Pricing]
