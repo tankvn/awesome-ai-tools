@@ -1478,6 +1478,7 @@ A curated list of awesome AI tools
 - [Scalenut](https://www.scalenut.com) - Streamline SEO and content creation with AI-driven optimization tools.. [Free Trial]
 - [Sudowrite](https://www.sudowrite.com) - Revolutionize writing with AI: creativity, editing, inspiration, quality enhancement.. [Free Trial]
 - [Copysmith](https://copysmith.ai) - AI Copywriting Software for eCommerce teams & agencies.. [Free Trial]
+- [Side Hustle Content Engine 副业内容引擎](https://tender-bees-camp.loca.lt) - Free AI copy generator for Chinese e-commerce platforms. DeepSeek-powered. Generates optimized copy for 闲鱼, 小红书, WeChat Moments, and Official Accounts.. [Free]
 - [Trolly.ai](https://trolly.ai) - Unleash productivity with AI-driven automation and insightful analytics.. [Free Trial]
 - [Voilà](https://www.getvoila.ai) - AI enhances productivity with cross-platform tools for writing.. [Freemium]
 - [Buffer](https://buffer.com) - Streamline social media management, analyze engagement, automate scheduling.. [Freemium]
