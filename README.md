@@ -6487,6 +6487,7 @@ Royalty-Free Music: https://mubert.com/render/pricing?via=beatnc
 - [Relay.app](https://www.relay.app) - AI-powered workflows with human oversight.. [Freemium]
 
 ### AI Agents
+- [Ano.chat](https://ano.chat) - Team chat with Claude Code built in. Automate workflows directly from your team's conversations. [Free Trial]
 
 - [Rapport](https://www.rapport.cloud) - Create emotionally intelligent, multilingual, customizable AI characters.. [Free Trial]
 - [AutoGPT](https://github.com) - An experimental open-source attempt to make GPT-4 fully autonomous.. [Free]
