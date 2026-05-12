@@ -479,6 +479,7 @@
 
 ### Image Editing
 
+- [ClearCrowds](https://clearcrowds.com) - AI photo cleanup editor for removing crowds, objects, clutter, and other distractions with presets and natural-language prompts. [Freemium]
 - [Pizi](https://pizi.app) - Transform photos into SEO-optimized product listings in seconds.. [Paid]
 - [Adobe Photoshop](https://www.adobe.com) - Master image editing, AI, 3D design, and more.. [Paid]
 - [Luminar AI](https://skylum.com) - Revolutionize photo editing with AI-driven, user-friendly tools.. [Paid]
