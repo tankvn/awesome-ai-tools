@@ -109,6 +109,7 @@
 - [LookBook AI](https://lookbookai.io) - Personalize sustainable fashion with an AI stylist and virtual try-on.. [Paid]
 - [TattoosAI](https://www.tattoosai.com) - Transform ideas into unique tattoos with AI, offering endless styles and personalization.. [Freemium]
 - [HairstyleAI](https://www.hairstyleai.com) - Explore and visualize new hairstyles virtually with AI-powered precision and privacy.. [Paid]
+- [Aurcue](https://www.aurcue.com) - AI personal style assistant for color analysis, outfit ideas, hairstyle direction, glasses suggestions, and seasonal styling from one photo. [Freemium]
 - [Cala](https://ca.la) - Revolutionize fashion with AI design, global manufacturing, and seamless logistics.. [Freemium]
 - [SnapDress](https://snapdress.image2image.art) - Transform your portrait photos with custom outfit ideas using SnapDress.. [Free]
 - [QOVES](https://qoves.com) - AI-driven facial aesthetics enhancement through personalized analysis and expert guidance.. [Paid]
