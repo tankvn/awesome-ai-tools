@@ -15,6 +15,7 @@
 - [Book AI Writer](https://www.bookaiwriter.com) - Revolutionizes storytelling with AI writing and automatic cover design.. [Paid]
 - [Looka](https://looka.grsm.io) - AI-driven branding: logos, websites, and full identity kits.. [Active deal]
 - [REimagine Home](https://www.reimaginehome.ai) - Generative AI to redesign any room in seconds. [Free]
+- [LandscapioAI](https://www.landscapioai.com/) - AI landscape design generator for garden photos, outdoor layouts, planting ideas, and cost estimates. [Freemium]
 - [Playground AI](https://playgroundai.com) - Unleash creativity with AI-driven image creation and intuitive editing.. [Freemium]
 - [NightCafe Studio](https://creator.nightcafe.studio) - Unleash AI-driven art creation, no skills required, endless styles.. [Freemium]
 - [MidJourney Prompt Helper](https://prompt.noonshot.com) - Unleash AI artistry with intuitive prompt crafting and optimization.. [Free]
