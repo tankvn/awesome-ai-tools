@@ -6782,6 +6782,7 @@ Royalty-Free Music: https://mubert.com/render/pricing?via=beatnc
 
 ### Code Assistant
 
+- [AI Models Catalog](https://github.com/i-need-token/ai-models) - Structured YAML catalog of 4,587+ AI models across 95 providers with pricing, context windows, and capabilities. Interactive comparison tool, npm package, and GitHub Action.. [Free]
 - [MarsCode](https://marscode.com) - Revolutionize coding: real-time assistance, error detection, code optimization.. [Free Trial]
 - [GitHub Copilot](https://github.com) - AI-powered coding assistant offering real-time suggestions, learning from your style.. [Free Trial]
 - [poorcoder](https://github.com/vgrichina/poorcoder) - Lightweight Bash scripts that enhance your terminal coding workflow with web-based AI assistants like Claude or Grok.. [Free]
@@ -6947,6 +6948,7 @@ Royalty-Free Music: https://mubert.com/render/pricing?via=beatnc
 
 ### Low-code/no-code
 
+- [AI Models Catalog](https://github.com/i-need-token/ai-models) - Structured YAML catalog of 4,587+ AI models across 95 providers with pricing, context windows, and capabilities. Interactive comparison tool, npm package, and GitHub Action.. [Free]
 - [MarsCode](https://marscode.com) - Revolutionize coding: real-time assistance, error detection, code optimization.. [Free Trial]
 - [DataRobot](https://www.datarobot.com) - DataRobot brings all your generative and predictive workflows together into one powerful platform.. [Contact for Pricing]
 - [Amazon Sage Maker](https://aws.amazon.com) - Build, train, and deploy machine learning (ML) models for any use case with fully managed infrastructure, tools, and workflows.. [Freemium]
