@@ -2247,6 +2247,7 @@ A curated list of awesome AI tools
 - [Magic Studio](https://magicstudio.com) - Unleash AI to edit, upscale, and create images effortlessly.. [Freemium]
 - [Scribble Diffusion](https://scribblediffusion.com) - Turn doodles into digital masterpieces with AI-powered Scribble Diffusion.. [Free]
 - [Imagecolorizer](https://imagecolorizer.com) - Revitalize old photos with AI-driven colorization and restoration effortlessly.. [Free]
+- [PhotoRestore.ai](https://photorestore.ai) - AI-powered restoration of old and damaged photos — repairs scratches, fading, tears, and colorizes B&W images.. [Free Trial]
 - [Pixelicious](https://www.pixelicious.xyz) - Transform images into pixel art effortlessly online; background removal included.. [Free]
 - [Pixela AI](https://pixela.ai) - Enhance and analyze images with AI-driven precision and scalability.. [Free]
 - [InteriorAI](https://interiorai.com) - Revolutionize interior design with AI: instant photorealistic renders and virtual staging.. [Free Trial]
