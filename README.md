@@ -950,6 +950,7 @@ A curated list of awesome AI tools
 
 ### Search Engine
 
+- [AIToolIndex](https://aitoolindex.io/) - Searchable AI tool directory for comparing tools by category, pricing, alternatives, and workflow fit. [Free]
 - [Komo Search](https://komo.ai) - Revolutionize search with AI: intuitive, efficient, customizable, secure.. [Freemium]
 - [Microsoft Bing](https://www.bing.com) - AI-enhanced precision searches with personalized, multimedia-rich results.. [Free]
 - [You](https://you.com) - Transforms searches into personalized, private experiences with AI-driven results.. [Freemium]
