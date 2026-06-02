@@ -362,6 +362,7 @@ A curated list of awesome AI tools
 ### Research Assistant
 
 - [Price Per Token](https://pricepertoken.com) - Compare LLM API pricing across 300+ models from OpenAI, Anthropic, Google, and 30+ providers. [Free]
+- [CoderPlan](https://coderplan.ai) - Unified LLM API gateway for China/APAC. OpenAI-compatible, 50+ models (Claude/GPT/Gemini/DeepSeek), pay-as-you-go pricing. [Freemium]
 - [Gnomi App](https://www.gnomi.com) - Unlock global perspectives, customize content, and engage with a diverse community in real-time.. [Free]
 - [Consensus](https://consensus.app) - Unlock expert knowledge: AI-powered, ad-free research from 200M+ scientific papers.. [Freemium]
 - [BGPT MCP](https://bgpt.pro) - Search scientific papers built from full-text experimental data via hosted MCP server. 50 free searches, no API key needed. [Free]
