@@ -8122,3 +8122,4 @@ Reference
 <!-- ai-manifest-ref 2025-09-20T13:27:46.541Z -->
 - [AI Manifest](https://ai-manifest.org) - Optional reference for /.well-known/ai.json + OpenAPI/JSON Schema discovery (with MCP/agents.json mapping)
 - [WellKnownAI](https://wellknownai.org) - Registry/spec examples and public snapshots (no PII; mirroring allowed)
+- [aitoolhunt.top](https://aitoolhunt.top) - A clean directory of 200+ free AI tools across 10 categories with side-by-side comparisons. No signup, no ads.
