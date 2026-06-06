@@ -512,6 +512,7 @@
 - [Edit At Scale](https://edit-at-scale.cloudinary.com) - AI-driven bulk image editing for quality and efficiency at scale.. [Free]
 - [getimg.ai](https://getimg.ai) - AI-driven image generation, editing, and infinite outpainting, with real-time processing.. [Freemium]
 - [Face26](https://face26.com) - Revitalize photos with AI: enhance, unblur, colorize, animate, and restore effortlessly.. [Freemium]
+- [igly.ai](https://igly.ai) - AI image editor for background removal, inpainting, upscaling, and generative fill. [Freemium]
 - [Synthesys](https://synthesys.io) - AI-driven image creation, Chrome extension, white label SAAS rights.. [Freemium]
 - [CAPTURELAB](https://capturelab.gg) - CAPTURELAB auto-detects your best gaming moments with AI!. [Freemium]
 - [Wondershare VirtuLook](https://virtulook.wondershare.com) - Designed to enhance product visuals by seamlessly fitting products into saleable backgrounds.. [Free Trial]
