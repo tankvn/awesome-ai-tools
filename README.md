@@ -4362,6 +4362,7 @@ Royalty-Free Music: https://mubert.com/render/pricing?via=beatnc
 - [Aspect Social](https://www.aspectapp.xyz) - AI-enhanced social media management: automate, optimize, and engage efficiently.. [Freemium]
 - [Agora](https://www.agora.io) - Real-time voice and video integration for apps.. [Contact for Pricing]
 - [Synthlife](https://synthlife.co) - Revolutionize virtual influencer creation, growth, and monetization effortlessly.. [Paid]
+- [CreatorSkills](https://creatorskills.co) - Marketplace of 30+ downloadable AI skills for content creators — YouTube scripting, sponsorship analysis, content repurposing, and audience growth. Compatible with Claude, ChatGPT, and 20+ AI platforms. [Paid]
 
 ### Education
 
