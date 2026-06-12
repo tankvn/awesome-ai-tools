@@ -2258,6 +2258,7 @@ A curated list of awesome AI tools
 - [Cleanup.pictures](https://cleanup.pictures) - AI-powered digital eraser for pristine image refinement, no installations needed.. [Freemium]
 - [Erase.bg](https://www.erase.bg) - Instant AI-driven background removal and image editing for any project.. [Freemium]
 - [Photo AI](https://photoai.io) - Unleash AI-powered photo generation and personalized character creation.. [Freemium]
+- [FreePNGConvert](https://freepngconvert.com) - Free browser-based WebP to PNG converter. No server upload, all processing locally.. [Free]
 - [Venngage](https://venngage.com) - Create personalized, visually stunning designs effortlessly online.. [Free]
 - [Vectorizer.ai](https://vectorizer.ai) - Transform raster images to high-quality vectors effortlessly with AI precision.. [Paid]
 - [Photo Editor AI](https://photoeditor.ai) - Remove unwanted objects, people, blemishes, or text from their images in seconds.. [Free]
