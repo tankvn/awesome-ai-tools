@@ -2851,6 +2851,7 @@
 - [Socap.ai](https://www.socap.ai) - AI-driven networking copilot enhancing connections and fundraising.. [Contact for Pricing]
 - [Prototyper](https://www.getaprototype.com) - Transform ideas into code effortlessly with AI-driven prototyping, collaboration, and versatile framework support.. [Paid]
 - [15-minute Business Plans](https://www.15minutebusinessplans.com) - AI-driven strategy crafting in minutes for entrepreneurs on the go.. [Paid]
+- [The Agentic AI Index](https://theagenticaiindex.com) - Directory of AI tools and local AI consultants for small businesses, organized by trade and profession, with each tool's price and best-fit listed.. [Free]
 
 ### Real Estate
 
