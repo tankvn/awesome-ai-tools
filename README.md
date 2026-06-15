@@ -2234,6 +2234,7 @@ A curated list of awesome AI tools
 - [MakeBanner.ai](https://makebanner.ai) - The #1 AI Banner Generator. Professional Visuals, Zero Design Skills ..[Free Trial]
 - [Image2Prompts](https://image2prompts.com) - Free image-to-prompt generator optimized for Nano Banana.. [Freemium]
 - [Foundation Men](https://foundationmen.com) - AI-Powered Grooming Image Tools for the Modern Man ..[Free Trial]
+- [Seedream AI Studio](https://seedream4.video) - Multi-model AI image generation (Seedream 5.0/4.5/4.0, ByteDance) with one-click image-to-video animation via Kling 2.1. Free tier available. [Freemium]
 
 ### Image Editing
 
@@ -2916,6 +2917,7 @@ A curated list of awesome AI tools
 - [FacelessVideos](https://facelessvideos.app/) - Generate faceless short videos with scripts, voiceovers, stock footage, and captions.. [Free Trial]
 - [D-ID](https://www.d-id.com) - Revolutionize content with AI-crafted digital humans and personalized videos, ensuring privacy and realism.. [Free Trial]
 - [AI Fruit](https://aifruit.app) - Create Viral AI Fruit Videos in Seconds.. [Free Trial]
+- [Seedream AI Studio](https://seedream4.video) - Integrated image generation + video animation platform: generate with Seedream 5.0/4.5/4.0 models, animate with Kling 2.1 in one click. Free tier available. [Freemium]
 
 ### Text To Video
 
