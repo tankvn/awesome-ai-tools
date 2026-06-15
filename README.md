@@ -1420,6 +1420,7 @@ A curated list of awesome AI tools
 - [Bookwiz](https://bookwiz.io) - AI-driven book writing and publishing assistant.. [Freemium]
 - [MidReal](https://midreal.ai) - Transform ideas into captivating stories with AI-driven, user-guided narrative generation.. [Paid]
 - [LandingPro AI](https://landingpro.ai) - AI-driven tool for high-converting, optimized landing pages.. [Free Trial]
+- [VNovels](https://vnovels.com) - Browser-based visual novel maker with a scene editor and AI that drafts scenes and generates art, music and sound.. [Freemium]
 
 
 ### Copywriting
