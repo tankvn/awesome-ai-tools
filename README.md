@@ -135,6 +135,7 @@ A curated list of awesome AI tools
 - [Shop Guru AI](https://www.shopguru.io) - Transform Amazon shopping with AI-driven review analysis for smarter, quicker decisions.. [Free]
 - [Botly](https://getbotly.com) - Automating authentic chat responses, saving time, ensuring consistency, and offering a tailored experience for content creators. [Free Trial]
 - [MyMemo AI](https://www.mymemo.ai) - Transform digital chaos into an organized, AI-enhanced knowledge oasis.. [Freemium]
+- [Remio](https://remio.ai/) - Local-first AI memory and knowledge base for users and agents; parses files, webpages, recordings, emails, messages, images, and notes into local indexes and vectors for faster focused context retrieval. [Freemium]
 - [Travel Plan AI](https://www.travelplan-ai.com) - Streamline travel planning with AI-generated, customizable itineraries.. [Free]
 - [AIApply](https://aiapply.co) - Your AI-powered job search assistant with personalized applications, interview prep, and professional headshots.. [Free Trial]
 - [Tailor](https://tailor.news) - Revolutionizes news consumption with AI-driven, personalized daily summaries.. [Free]
