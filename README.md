@@ -3757,6 +3757,7 @@ Royalty-Free Music: https://mubert.com/render/pricing?via=beatnc
 - [Ad Intel](https://usemadmen.ai) - Unlock competitor ad insights, optimize strategy, boost ROAS.. [Freemium]
 - [Adsby](https://adsby.co) - Maximize ad impact with AI-driven creation, optimization, and keyword suggestions.. [Free Trial]
 - [LeadFox](https://getleadfox.com) - Auto-reply to LinkedIn comments & capture leads while you sleep.. [Paid]
+- [NotFair](https://github.com/nowork-studio/NotFair) - Open-source Claude Code agent skills for SEO, Google Ads, and Meta Ads; connects to live data via Google Ads MCP, Meta Ads MCP, Google Search Console MCP, and Google Analytics (GA4) MCP.. [Free]
 
 ### Finance
 
