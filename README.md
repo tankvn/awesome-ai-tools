@@ -1754,7 +1754,8 @@ A curated list of awesome AI tools
 - [YouTube Transcript AI Summary](https://chromewebstore.google.com) - Transform YouTube videos into concise, AI-powered summaries effortlessly.. [Free Trial]
 
 
-## Image Tools
+## Image
+- [Pixal3D](https://pixal3d.ai) - AI-powered 3D model generator. Tools
 
 ### Design Generators
 
@@ -2014,7 +2015,8 @@ A curated list of awesome AI tools
 - [Architect AI](https://ai-architect.net) - Transform sketches to cinematic renders instantly, enhancing architectural visualization affordably.. [Paid]
 - [ChartGPT](https://www.chartgpt.dev) - Transform text into charts using AI; simple, customizable, efficient.. [Paid]
 
-### Image Generator
+### Image
+- [Pixal3D](https://pixal3d.ai) - AI-powered 3D model generator. Generator
 
 - [Cabina AI](https://cabina.ai) - Streamline content creation and image generation with multi-LLM integration.. [Freemium]
 - [Midjourney](https://www.midjourney.com) - Unlock digital artistry: AI transforms text into stunning visuals.. [Free Trial]
@@ -2235,7 +2237,8 @@ A curated list of awesome AI tools
 - [Image2Prompts](https://image2prompts.com) - Free image-to-prompt generator optimized for Nano Banana.. [Freemium]
 - [Foundation Men](https://foundationmen.com) - AI-Powered Grooming Image Tools for the Modern Man ..[Free Trial]
 
-### Image Editing
+### Image
+- [Pixal3D](https://pixal3d.ai) - AI-powered 3D model generator. Editing
 
 - [Pizi](https://pizi.app) - Transform photos into SEO-optimized product listings in seconds.. [Paid]
 - [Adobe Photoshop](https://www.adobe.com) - Master image editing, AI, 3D design, and more.. [Paid]
