@@ -82,6 +82,7 @@ A curated list of awesome AI tools
 ### Personal Assistant
 - [Undetectable ChatGPT Chrome Extension](https://chromewebstore.google.com) - Invisible ChatGPT integration for seamless, discreet browsing.. [Free]
 - [Monica](https://monica.im) - Personal Al assistant for effortless chatting and copywriting.. [Freemium]
+- [CallURL](https://callurl.com) - Make anything talk: create a free AI phone line for any flyer, room, product, assignment, event, form, or workflow; answers every call and shares by link or QR. [Free]
 - [You](https://you.com) - Transforms searches into personalized, private experiences with AI-driven results.. [Freemium]
 - [Jigso](https://www.jigso.io) - Optimize tasks, automate alerts, and retrieve data seamlessly.. [Freemium]
 - [MYPEAS.ai](https://mypeas.ai) - AI roadmaps tailored to any job description.. [Freemium]
