@@ -1365,6 +1365,7 @@ A curated list of awesome AI tools
 ### Storyteller
 
 - [Talefy](https://talefy.ai) - Interactive, illustrated storytelling across genres with community engagement.. [Paid]
+- [Auferet](https://auferet.com) - AI game master for text adventures and tabletop RPGs that remembers your story and reads your uploaded lore.. [Freemium]
 - [Sudowrite](https://www.sudowrite.com) - Revolutionize writing with AI: creativity, editing, inspiration, quality enhancement.. [Free Trial]
 - [Jasper](https://jasper.ai) - An AI-driven platform for efficient, high-quality content creation and marketing strategy enhancement.. [Free Trial]
 - [NovelAI](https://novelai.net) - AI-assisted writing, customizable storytelling, secure creative exploration.. [Free Trial]
