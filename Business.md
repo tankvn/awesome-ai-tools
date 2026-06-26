@@ -1466,6 +1466,7 @@
 - [Let's Enhance](https://letsenhance.io) - Transform images to 4K quality, enhance, upscale, and correct with AI.. [Freemium]
 - [Supermoon](http://getsupermoon.com) -  Streamline your team's communication and customer support with AI-powered efficiency and collaboration.. [Free Trial]
 - [Penny AI](https://penny.im) - Maximize savings with AI-driven price comparisons and insightful product analyses.. [Free]
+- [BuyWhere](https://buywhere.ai) - Real-time AI-powered product search and price comparison across 11M+ products from Shopee, Lazada, Best Buy, Walmart, Target, and 1000s more. Free API key in 60s. MCP server available.. [Freemium]
 - [DigitalGenius](https://www.digitalgenius.com) - DigitalGenius is an e-commerce platform that automates customer service processes, enhances the customer experience, and reduces costs for eCommerce and retail businesses. [Contact for Pricing]
 - [Yuma](https://yuma.ai) - Elevate e-commerce support with AI; automate, integrate, satisfy, scale.. [Free Trial]
 - [Winchat](https://www.winchat.ai) - AI chatbot for e-commerce growth. [Freemium]
