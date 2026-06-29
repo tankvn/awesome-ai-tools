@@ -297,6 +297,7 @@
 - [Trupeer](https://www.trupeer.ai) - AI-powered tool transforming screen recordings into polished videos.. [Freemium]
 - [Lesson22](https://www.lesson22.ai) - Transforms articles into engaging videos for diverse learners.. [Freemium]
 - [Animate AI](https://animateai.pro) - Create animated video series swiftly with AI-driven tools.. [Freemium]
+- [cv.cm/v](https://cv.cm/v) - Queue-free, full-power Seedance 2.0 text-to-video and image-to-video, plus image generation and a REST API.. [Freemium]
 
 
 -----
