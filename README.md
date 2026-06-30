@@ -6644,6 +6644,7 @@ Royalty-Free Music: https://mubert.com/render/pricing?via=beatnc
 - [AilaFlow](https://ailaflow.com) - Empower AI deployment: no-code, rapid, cost-effective.. [Contact for Pricing]
 - [Gradient Labs](https://gradient-labs.ai) - Automate repetitive tasks with AI-driven precision and scalability.. [Contact for Pricing]
 - [RagaAI Inc.](https://www.raga.ai) - Revolutionize AI testing: robust, reliable, multimodal support.. [Freemium]
+- [Future AGI](https://github.com/future-agi/future-agi) - Open-source platform for agent simulation, evaluating, tracing, guarding, and auto-improving AI agents.. [Freemium]
 - [Modl](https://modl.ai) - Revolutionizes game development with AI-driven testing and player experience enhancement.. [Contact for Pricing]
 - [Hybridity](https://www.hybridity.ai) - Integrates data sources for comprehensive analytics and insights.. [Contact for Pricing]
 - [Rebellions.ai](https://rebellions.ai) - Energy-efficient, high-performance AI chips for generative applications.. [Contact for Pricing]
