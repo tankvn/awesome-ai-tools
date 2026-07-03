@@ -127,6 +127,7 @@
 - [Op](https://opapp.io) - AI-integrated platform for seamless data analysis with spreadsheets and code.. [Free Trial]
 - [Code Converter](https://codeconverter.com) - Code Converter is an online tool that allows users to quickly convert code snippets from one programming language to another. . [Free Trial]
 - [Checksum](https://checksum.ai) - AI-driven E2E test automation with self-healing capabilities.. [Contact for Pricing]
+- [agent-qa](https://github.com/vostride/agent-qa) - Self-improving QA agent for web and mobile apps with natural-language tests, run memory, UI-change adaptation, and regression detection. [Free]
 - [TLDR](https://tldrdev.ai) - TLDR is an AI-powered IDE plugin designed to explain code in plain English, allowing developers to quickly build the mental context of methods that are not instantly understood.. [Freemium]
 - [BoltAI](https://boltai.com) - Instant access to ChatGPT on any Mac app. No more context switching.. [Paid]
 - [Refactory](https://userefactory.com) - AI-Powered Code Quality Improvement Tool. [Free]
