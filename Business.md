@@ -2302,6 +2302,7 @@
 
 ### Sales
 
+- [BidSharp](https://bidsharp.io) - AI-powered proposal intelligence platform with automated critiques, risk scanners, and pricing calculators. [Freemium]
 - [Worgit.ai](https://worgit.ai) - Supercharge productivity with AI-driven business tools.. [Freemium]
 - [Gong](https://www.gong.io) - Transform sales data into actionable insights, optimize revenue growth.. [Contact for Pricing]
 - [Chorus](https://www.chorus.ai) - Transform sales conversations into actionable insights with AI-driven analytics.. [Contact for Pricing]
