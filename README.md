@@ -1103,6 +1103,8 @@ A curated list of awesome AI tools
 
 ### Writing Generators
 
+- [Spireess](https://spireess.com) - AI writing and content creation assistant for articles, copy, and creative content.. [Free]
+
 - [metastory AI](https://metastory.ai) - AI-driven tool for seamless, creative storytelling and content creation.. [Contact for Pricing]
 - [ChatGPT](https://chat.openai.com) - Revolutionize interaction, creativity, and innovation with the leader in AI.. [Freemium]
 - [Jasper](https://jasper.ai) - An AI-driven platform for efficient, high-quality content creation and marketing strategy enhancement.. [Free Trial]
@@ -1340,6 +1342,8 @@ A curated list of awesome AI tools
 
 ### Paraphrasing
 
+- [Quilliam](https://quilliam.online) - AI paraphrasing and rewriting tool to rephrase sentences and improve writing quality.. [Free]
+
 - [Aithor](https://aithor.com) - Revolutionize writing with AI-powered paraphrasing and plagiarism detection.. [Freemium]
 - [Quillbot](https://try.quillbot.com) - Revolutionize writing with AI-powered paraphrasing, summarizing, and grammar checking.. [Freemium]
 - [Jasper](https://jasper.ai) - An AI-driven platform for efficient, high-quality content creation and marketing strategy enhancement.. [Free Trial]
@@ -1423,6 +1427,8 @@ A curated list of awesome AI tools
 
 
 ### Copywriting
+
+- [Bold Text Generators](https://boldtextgenerators.org) - Bold, gothic, and fancy text generator for social media bios, posts, and profiles.. [Free]
 
 - [Brandblast.ai](https://www.brandblast.ai) - Automate, schedule, and optimize brand-specific social content.. [Paid]
 - [Jasper](https://jasper.ai) - An AI-driven platform for efficient, high-quality content creation and marketing strategy enhancement.. [Free Trial]
@@ -1757,6 +1763,16 @@ A curated list of awesome AI tools
 ## Image Tools
 
 ### Design Generators
+
+- [RoomFlip](https://roomflip.pro) - AI-powered virtual staging and room redesign for real estate listings.. [Free]
+- [MyInk AI](https://myink.ai) - AI tattoo design generator that turns text prompts into custom tattoo art.. [Free]
+- [AI Virtual Staging](https://aivirtualstaging.org) - Free AI virtual staging to furnish vacant properties with realistic furniture.. [Free]
+- [AI Interior Lab](https://aiinteriorlab.com) - AI interior design tool to generate and visualize room decor ideas.. [Free]
+- [AI Yard Planner](https://aiyardplanner.com) - AI yard and garden planner for landscape layouts and outdoor visualization.. [Free]
+- [InkPages Pro](https://inkpages.pro) - AI tattoo design platform to browse, create, and customize tattoo art.. [Free]
+- [Before You Ink](https://beforeyouink.org) - AI tattoo preview tool to see designs on your body before getting inked.. [Free]
+- [InkBolt](https://inkbolt.cc) - AI tattoo design marketplace with customizable generated tattoo art.. [Free]
+- [RedoInk](https://redoink.com) - AI tattoo redesign tool to transform or create new tattoo designs.. [Free]
 
 - [QR Code AI](https://qrcode-ai.com) - Elevate engagement with artistic, insightful QR codes.. [Free Trial]
 - [Adobe Firefly](https://www.adobe.com) - Transform text into vibrant images and designs, boosting creativity effortlessly.. [Paid]
@@ -2237,6 +2253,9 @@ A curated list of awesome AI tools
 
 ### Image Editing
 
+- [Old Photo Restoration](https://oldphotorestoration.app) - AI old photo restoration to repair, colorize, and restore vintage photos.. [Free]
+- [AI Image Extender](https://aiimageextender.app) - AI image extender and outpainting tool to expand images beyond their borders.. [Free]
+
 - [Pizi](https://pizi.app) - Transform photos into SEO-optimized product listings in seconds.. [Paid]
 - [Adobe Photoshop](https://www.adobe.com) - Master image editing, AI, 3D design, and more.. [Paid]
 - [Luminar AI](https://skylum.com) - Revolutionize photo editing with AI-driven, user-friendly tools.. [Paid]
@@ -2481,6 +2500,9 @@ A curated list of awesome AI tools
 - [Playbook AI](https://www.playbook.com) - AI-Powered Creative File Management and Design Tool. [Freemium]
 
 ### Portrait Generators
+
+- [HeadshotAI](https://headshotai.app) - AI professional headshot generator that turns selfies into studio-quality headshots.. [Free]
+- [Any Passport Photo](https://anypassportphoto.com) - AI passport photo maker for compliant ID, visa, and passport photos.. [Free]
 
 - [Aragon AI](https://www.aragon.ai) - Generate professional AI headshots rapidly and affordably.. [Paid]
 - [ProPhotos](https://prophotos.ai) - Transform casual snaps into professional AI-generated headshots with customization, speed, and privacy.. [Paid]
@@ -3118,6 +3140,10 @@ A curated list of awesome AI tools
 
 ### Music
 
+- [SongForYou](https://songforyou.cc) - AI music and song generator to create original songs with lyrics, melodies, and vocals.. [Free]
+- [AI Jingle Maker](https://aijinglemaker.cc) - AI jingle maker for businesses to create custom audio jingles and brand sounds.. [Free]
+- [AI Rap Creator](https://airapcreator.com) - AI rap music generator to write and produce original rap songs with lyrics and beats.. [Free]
+
 - [Stable Audio](https://www.stability.ai) - Revolutionize audio creation with AI-powered sound transformation.. [Contact for Pricing]
 - [Soundraw](https://soundraw.io) - Revolutionize content with AI-generated, customizable, royalty-free music.. [Freemium]
 - [Mubert](https://mubert.com) - AI-driven, royalty-free music creation for creators and businesses.. [Freemium]
@@ -3385,6 +3411,8 @@ Royalty-Free Music: https://mubert.com/render/pricing?via=beatnc
 - [Scene](https://www.scene.io) - Revolutionize web design: AI-assisted, collaborative, one-click publishing.. [Freemium]
 
 ### Marketing
+
+- [Amazon Listing AI](https://amazonlistingai.com) - Amazon listing optimization with AI to generate titles, descriptions, and keywords.. [Free]
 
 - [EasyGen](https://www.easygen.io) - The Linkedin Post Generator That Works . [Free Trial]
 - [HubSpot](https://www.hubspot.com) - Unify marketing, sales, CRM; AI-driven insights—boost efficiency.. [Free Trial]
