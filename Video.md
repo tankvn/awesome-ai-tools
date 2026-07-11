@@ -154,6 +154,7 @@
 
 ### Video Generators
 
+- [ImagineClip](https://imagineclip.com) - AI video generator for avatar clips, stylized scenes, and social-ready videos from prompts and images. [Freemium]
 - [Vid.AI](https://vid.ai) - AI-driven tool simplifies video creation and editing.. [Paid]
 - [Synthesia](https://www.synthesia.io) -  Create professional AI-powered videos with customizable avatars and voiceovers in minutes.. [Paid]
 - [Pictory](https://pictory.ai) - Transform text into polished videos effortlessly; edit with ease.. [Free Trial]
