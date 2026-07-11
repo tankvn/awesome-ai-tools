@@ -8111,6 +8111,9 @@ Royalty-Free Music: https://mubert.com/render/pricing?via=beatnc
 - [CharmedAI](https://charmed.ai) - CharmedAI empowers developers to overcome content production challenges and iterate faster.. [Contact for Pricing]
 - [LoreKeeper](https://lorekeeper.com) - Your Digital Ally in Tabletop Role-Playing Games (TTRPGs). [Free Trial]
 
+## Directories
+
+- [HowToUseMyAI](https://howtousemyai.com) - Directory of 165+ AI tools with step-by-step how-to guides, head-to-head comparisons, copy-paste prompt libraries, and a free AI-stack cost calculator. [Free]
 
 -----
 Reference
