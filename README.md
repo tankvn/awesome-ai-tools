@@ -4502,6 +4502,7 @@ Royalty-Free Music: https://mubert.com/render/pricing?via=beatnc
 - [Move AI](https://www.move.ai) - Transforms 2D video to 3D motion data, enabling markerless motion capture.. [Contact for Pricing]
 - [Durable AI](https://durable.ai) - Unlock software creation: no-code, generative AI meets neurosymbolic reasoning.. [Contact for Pricing]
 - [BerriAI-litellm](https://github.com) - Lightweight package that simplifies calling OpenAI, Azure, Cohere, and Anthropic API endpoints. [Free]
+- [DaoXE](https://daoxe.com) - Multi-model multi-protocol AI API gateway for Chat Completions, Responses, and Anthropic Messages.. [Paid]
 - [Dr. Gupta](https://www.drgupta.ai) - Revolutionize healthcare with AI: instant advice, symptom checking, 24/7 access.. [Free Trial]
 - [Google Earth Studio](https://www.google.com) - Animate Earth's imagery for cinematic storytelling with Google Earth Studio.. [Free]
 - [Scite](https://www.scite.ai) - Transform research with AI-driven Smart Citations and deep insights.. [Free Trial]
