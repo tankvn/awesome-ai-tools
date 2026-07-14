@@ -2814,6 +2814,7 @@ A curated list of awesome AI tools
 - [Opus Clip](https://www.opus.pro) - Transform videos into viral shorts effortlessly with AI-driven editing and curation.. [Freemium]
 - [Submagic](https://www.submagic.co) - Effortlessly enhance videos with auto captions, b-rolls, and emojis.. [Paid]
 - [Minvo](https://minvo.pro) - AI-powered tool for effortless video editing and social media management.. [Freemium]
+- [iLoveVideoEditor](https://ilovevideoeditor.com) - AI-powered video creation and editing platform with a Model Context Protocol (MCP) server, APIs, and SDKs for automating video generation, rendering, and editing workflows. [Freemium]
 
 ### Video Generators
 
