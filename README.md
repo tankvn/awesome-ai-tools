@@ -7147,6 +7147,7 @@ Royalty-Free Music: https://mubert.com/render/pricing?via=beatnc
 - [Odyssey App](https://www.odysseyapp.io) - Explore AI workflows effortlessly.. [Free]
 - [ZenMulti](https://www.zenmulti.cc) - Unlock global markets effortlessly with a lightning-fast, no-code localization tool compatible with JSON and Properties files.. [Paid]
 - [Imagica](https://www.imagica.ai) - Create AI apps easily without coding, rapidly deploying across industries.. [Freemium]
+- [VibeKit.bot](https://vibekit.bot) - Describe an app in chat and a persistent AI agent builds it, hosts it at its own domain, and keeps improving it with every message. Works from the iOS app or web; bring-your-own-key or free tier.
 
 ### SQL
 
