@@ -19,6 +19,7 @@
 - [NightCafe Studio](https://creator.nightcafe.studio) - Unleash AI-driven art creation, no skills required, endless styles.. [Freemium]
 - [MidJourney Prompt Helper](https://prompt.noonshot.com) - Unleash AI artistry with intuitive prompt crafting and optimization.. [Free]
 - [Stable Diffusion](https://stability.ai) - Deep learning text-to-image model.. [Freemium]
+- [STIL.AI](https://stil.gracestack.se) - AI-powered fashion design from text descriptions. [Freemium]
 - [Autodraw](https://autodraw.com) - AI-powered drawing tool to help you draw faster.. [Free]
 - [Fy! Studio](https://www.iamfy.co) - Unlock AI-driven visual creation: simple, versatile, and highly customizable.. [Free]
 - [Pollinations](https://pollinations.ai) - Unleash creativity with AI: generate, collaborate, evolve—open source platform.. [Free]
