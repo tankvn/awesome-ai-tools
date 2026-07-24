@@ -2460,6 +2460,8 @@ A curated list of awesome AI tools
 - [SoulGen AI](https://soulgen-ai.com) - Free AI Image Generator to Create Art from Text. [Paid]
 - [Imagine with Meta AI](https://imagine.meta.com) - AI-powered tool for creating stunning, high-quality visual content.. [Free]
 - [GenType](https://labs.google) - Effortlessly generate high-quality, contextually relevant text with AI.. [Free]
+- [STIL.AI Outfit Generator](https://stil.gracestack.se/outfit) - Free AI tool to generate custom clothing designs in seconds from text descriptions.. [Free]
+- [STIL.AI](https://stil.gracestack.se) - AI-driven fashion design platform — generate unique clothing designs from text.. [Free]
 - [Flux2Klein](https://flux2klein.io/) - Turn prompts into Yves Klein-inspired visuals with a focused AI image generator.. [Free Trial]
 
 
