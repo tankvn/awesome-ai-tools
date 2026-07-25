@@ -9,6 +9,7 @@
 ### Design Generators
 
 - [QR Code AI](https://qrcode-ai.com) - Elevate engagement with artistic, insightful QR codes.. [Free Trial]
+- [STIL.AI](https://stil.gracestack.se/outfit) - AI fashion design generator — describe any garment in text, get unique product-ready images. No signup required. [Free + Paid]
 - [Adobe Firefly](https://www.adobe.com) - Transform text into vibrant images and designs, boosting creativity effortlessly.. [Paid]
 - [Jasper Art](https://www.jasper.ai) - Transform text into stunning, royalty-free images instantly.. [Paid]
 - [Midjourney](https://www.midjourney.com) - Unlock digital artistry: AI transforms text into stunning visuals.. [Free Trial]
