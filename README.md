@@ -2966,6 +2966,7 @@ A curated list of awesome AI tools
 
 ### Audio Editing
 
+- [CharaVox](https://charavox.com) - AI voice generation platform with character voices, voice cloning, and studio-quality TTS in 6 languages (en/zh/ja/ko/es/pt). Powered by VoxCPM.
 - [Descript](https://www.descript.com) - Revolutionize content creation with intuitive editing, AI-driven tools, and seamless collaboration.. [Freemium]
 - [iZotope RX](https://www.izotope.com) - Revolutionize audio with machine learning repair and real-time cleanup.. [Paid]
 - [Krisp](https://krisp.ai) - AI-driven noise cancellation and meeting transcription for clear online communication.. [Freemium]
