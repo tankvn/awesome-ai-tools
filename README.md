@@ -2237,6 +2237,7 @@ A curated list of awesome AI tools
 
 ### Image Editing
 
+- [ImageChanger](https://aiimagechanger.app/) - Browser-based AI photo editor with 38 focused workflows for backgrounds, portraits, objects, restoration, and creative transformations. [Freemium]
 - [Pizi](https://pizi.app) - Transform photos into SEO-optimized product listings in seconds.. [Paid]
 - [Adobe Photoshop](https://www.adobe.com) - Master image editing, AI, 3D design, and more.. [Paid]
 - [Luminar AI](https://skylum.com) - Revolutionize photo editing with AI-driven, user-friendly tools.. [Paid]
