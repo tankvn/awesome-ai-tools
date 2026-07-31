@@ -80,6 +80,8 @@ A curated list of awesome AI tools
 ## Productivity Tools
 
 ### Personal Assistant
+
+- [Jobloo](https://jobloo.co) - AI-powered job application platform that tailors your resume for each job description and auto-applies to Workday, Greenhouse, Lever, and LinkedIn Easy Apply.. [Freemium]
 - [Undetectable ChatGPT Chrome Extension](https://chromewebstore.google.com) - Invisible ChatGPT integration for seamless, discreet browsing.. [Free]
 - [Monica](https://monica.im) - Personal Al assistant for effortless chatting and copywriting.. [Freemium]
 - [You](https://you.com) - Transforms searches into personalized, private experiences with AI-driven results.. [Freemium]
