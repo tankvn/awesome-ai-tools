@@ -624,6 +624,7 @@
 - [Siml.ai](https://www.siml.ai) - Revolutionize physics simulations: AI-driven, web-based, real-time visualization, cost-efficient.. [Freemium]
 - [GeoSpy](https://geospy.ai) - AI-powered geospatial intelligence tool for advanced geographic data analysis.. [Freemium]
 - [GummySearch](https://gummysearch.com) - Unlock Reddit's potential for market insights with AI-driven research.. [Freemium]
+- [PhraseAlert](https://phrasealert.com) - Natural language alerts — describe what you want to watch for and get alerted.. [Freemium]
 
 ### Spreadsheets
 
