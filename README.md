@@ -2572,6 +2572,7 @@ A curated list of awesome AI tools
 - [Paradot](https://paradot.ai) - AI-driven productivity companion for scheduling, automating, and insightful analytics.. [Paid]
 - [Staf](https://www.staf.ai) - Streamline AI agent creation, management, and scalability effortlessly.. [Contact for Pricing]
 - [Avtrs](https://avtrs.ai) - Create lifelike custom AI avatars effortlessly with advanced technology.. [Paid]
+- [Pixel Pet](https://letmethink.cc/app/pixel-pet/) - Turn a personality description into a deterministic ASCII pixel companion in the browser.
 
 ### Logo Generator
 
