@@ -79,6 +79,7 @@ A curated list of awesome AI tools
 
 ## Productivity Tools
 
+- [NameAudit](https://nameaudit.ai/) - AI-powered brand name auditor and trademark availability checker.
 ### Personal Assistant
 - [Undetectable ChatGPT Chrome Extension](https://chromewebstore.google.com) - Invisible ChatGPT integration for seamless, discreet browsing.. [Free]
 - [Monica](https://monica.im) - Personal Al assistant for effortless chatting and copywriting.. [Freemium]
