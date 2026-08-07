@@ -4371,6 +4371,7 @@ Royalty-Free Music: https://mubert.com/render/pricing?via=beatnc
 - [Aspect Social](https://www.aspectapp.xyz) - AI-enhanced social media management: automate, optimize, and engage efficiently.. [Freemium]
 - [Agora](https://www.agora.io) - Real-time voice and video integration for apps.. [Contact for Pricing]
 - [Synthlife](https://synthlife.co) - Revolutionize virtual influencer creation, growth, and monetization effortlessly.. [Paid]
+- [Autoposting](https://autoposting.ai) - AI social media manager: generates posts in your own voice, clips long video, builds carousels, and schedules to X, LinkedIn, Instagram, Threads and YouTube
 
 ### Education
 
