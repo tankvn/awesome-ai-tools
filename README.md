@@ -1025,6 +1025,10 @@ A curated list of awesome AI tools
 - [Findr](https://www.usefindr.com) - Internal search platform that lets you find any document, link, and information lightning fast using a unified search bar.. [Freemium]
 - [Helloii](https://chromewebstore.google.com) - Elevate your online searches with AI-powered conversational queries.. [Free]
 
+### Document Sharing
+
+- [dochost](https://dochost.io) - Turn the HTML or Markdown an AI writes into a public shareable link, with Chrome and Edge extensions that publish straight from ChatGPT and Claude. [Freemium]
+
 
 ## Text Generators
 
