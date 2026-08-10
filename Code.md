@@ -1,5 +1,7 @@
 ## Code
 
+- [ISMS Copilot](https://www.ismscopilot.com) - Specialized AI assistant for ISO 27001, SOC 2, NIS 2, GDPR, DORA and related frameworks. Free tools: https://www.ismscopilot.com/resources
+
 - [Code](#code)
   - [Code Assistant](#code-assistant)
   - [Low-code/no-code](#low-codeno-code)
