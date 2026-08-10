@@ -764,6 +764,7 @@
 - [SlidesPilot](https://www.slidespilot.com) - AI-driven tool for rapid, polished presentation creation.. [Free Trial]
 - [Slidespeak](https://slidespeak.co) - AI tool quickly summarizes, generates, and interacts with documents.. [Paid]
 - [PresentationGPT](https://www.presentationgpt.com) - Transform presentation creation: AI-driven, high-quality, time-saving, PowerPoint/Google compatible.. [Freemium]
+- [flow-chart.io](https://flow-chart.io) - AI diagram generator that produces fully editable diagrams (C4, BPMN, network, cloud architecture, UML) from plain English. Free: 8 AI credits/month, no credit card required. [Freemium]
 
 ### Email Assistants
 
