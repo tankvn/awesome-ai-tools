@@ -80,6 +80,8 @@ A curated list of awesome AI tools
 ## Productivity Tools
 
 ### Personal Assistant
+
+- [Clickyy](https://github.com/jayamitkatariya/clickyyy) - Shake your cursor to summon an AI agent that sees your screen and clicks, types, drags, and acts for you on macOS. Open-source, MIT.
 - [Undetectable ChatGPT Chrome Extension](https://chromewebstore.google.com) - Invisible ChatGPT integration for seamless, discreet browsing.. [Free]
 - [Monica](https://monica.im) - Personal Al assistant for effortless chatting and copywriting.. [Freemium]
 - [You](https://you.com) - Transforms searches into personalized, private experiences with AI-driven results.. [Freemium]
