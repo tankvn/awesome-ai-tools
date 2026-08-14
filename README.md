@@ -4371,6 +4371,7 @@ Royalty-Free Music: https://mubert.com/render/pricing?via=beatnc
 - [Aspect Social](https://www.aspectapp.xyz) - AI-enhanced social media management: automate, optimize, and engage efficiently.. [Freemium]
 - [Agora](https://www.agora.io) - Real-time voice and video integration for apps.. [Contact for Pricing]
 - [Synthlife](https://synthlife.co) - Revolutionize virtual influencer creation, growth, and monetization effortlessly.. [Paid]
+- [Xquik](https://github.com/Xquik-dev/x-twitter-scraper) - Independent X (Twitter) data API with search, follower export, MCP, and confirmation-gated posting. [Paid]
 
 ### Education
 
