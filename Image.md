@@ -699,7 +699,7 @@
 - [Imagine with Meta AI](https://imagine.meta.com) - AI-powered tool for creating stunning, high-quality visual content.. [Free]
 - [GenType](https://labs.google) - Effortlessly generate high-quality, contextually relevant text with AI.. [Free]
 - [Flux2Klein](https://flux2klein.io/) - Turn prompts into Yves Klein-inspired visuals with a focused AI image generator.. [Free Trial]
-- [Emu](https://image.tinchak0207.xyz) - Online GPT Image 2 & Nano Banana Pro image generator, no API key or relay setup required.. [Freemium]
+- [Eimu](https://eimu.art) - Online GPT Image 2 & Nano Banana Pro image generator, no API key or relay setup required.. [Freemium]
 
 
 -----
