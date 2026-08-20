@@ -90,6 +90,7 @@
 - [Writesonic](https://writesonic.com) - Boost productivity with AI: content, visuals, insights, and real-time data.. [Freemium]
 - [Copy.ai](https://www.copy.ai) - AI-driven tool for effortless, high-quality content generation.. [Freemium]
 - [Adcreative.ai](https://free-trial.adcreative.ai) - Create conversion-focused ads & posts quickly & easily for better results.. [Free Trial]
+- [AdMapix](https://www.admapix.com) - AI-powered advertising intelligence for researching ad creatives, campaigns, brands, and market signals. [Freemium]
 - [MarketingBlocks](https://questionreality--snapilabs.thrivecart.com) - Unleash AI-powered content, design, and marketing efficiency in one platform.. [Freemium]
 - [PowerMode AI](https://powermodeai.com) - Optimize business operations with AI-driven insights and automation.. [Free]
 - [Munch](https://www.getmunch.com) - Maximize video impact with AI-driven, trend-optimized social media clips.. [Active deal]
