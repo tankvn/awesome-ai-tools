@@ -149,6 +149,7 @@
 ### Health
 
 - [S10.AI](https://s10.ai) - Automate medical scribing, enhance patient care, integrate EHRs effortlessly.. [Contact for Pricing]
+- [Medical Scribe](https://medicalscribe.app) - AI scribe for clinicians that listens, transcribes, and generates clinic-ready notes across web, iPhone, Apple Watch, and Android.. [Freemium]
 - [Docus](https://docus.ai) - AI-driven health insights and global expert consultations at your fingertips.. [Freemium]
 - [Woebot Health](https://woebothealth.com) - AI-driven mental health support, 24/7 accessibility, personalized CBT conversations.. [Free]
 - [Endel](https://endel.io) - Personalized soundscapes for focus, relaxation, and sleep, scientifically crafted.. [Free Trial]
