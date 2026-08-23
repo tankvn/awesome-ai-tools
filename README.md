@@ -94,6 +94,7 @@ A curated list of awesome AI tools
 - [Suggest Gift](https://suggest.gift) - AI-driven personalized gifting made easy, tailored to interests and budget.. [Free]
 - [Find Your Next Book](https://www.findyournextbook.ai) - Discover personalized reads with an AI-powered, genre-spanning recommendation engine.. [Free]
 - [AgentGPT](https://agentgpt.reworkd.ai) - Deploy Autonomous AI Agents with AgentGPT's Innovative Tool. [Free]
+- [Persona](https://github.com/jayamitkatariya/personacli) - Local-first personal workspace: Markdown notes and tasks on your machine, AI chat grounded in your files.. [#opensource](https://github.com/jayamitkatariya/personacli) [Free]
 - [Yoodli AI](https://app.yoodli.ai) - Refine speech with AI: real-time feedback, personalized analytics, private improvement.. [Freemium]
 - [Rewind](https://www.rewind.ai) - Capture, transcribe, summarize digital interactions; enhance memory, privacy-focused.. [Free Trial]
 - [Resume Worded](https://resumeworded.com) - Boost your resume and LinkedIn with AI-driven, recruiter-approved feedback for 5x more interviews.. [Freemium]
