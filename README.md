@@ -3238,6 +3238,7 @@ Royalty-Free Music: https://mubert.com/render/pricing?via=beatnc
 - [HappySRT](https://www.happysrt.com) - AI-driven subtitle creation and editing for videos and audio files.. [Freemium]
 - [EchoFox](https://echofox.pro) - Transform WhatsApp voice messages to text instantly, ensuring privacy across 90+ languages.. [Paid]
 - [Sonix](https://sonix.ai) - Transform audio/video to text, analyze, subtitle, 49+ languages.. [Paid]
+- [Longscribe](https://longscribe.com) - Free transcription for long audio, video and podcasts; paste a YouTube, Vimeo or TikTok link and export text, SRT or DOCX, no length cap on the free tier.. [Freemium]
 - [SummarAIze](https://www.summaraize.com) - Content repurposing tool that turns your audio and video content into engaging social posts, email content, summaries, quotes, and more in just 10 minutes.. [Paid]
 - [Summify](https://summify.io) - Harness AI to swiftly summarize, transcribe, and repurpose video content.. [Freemium]
 - [Knowbase.ai](https://www.knowbase.ai) - Transform knowledge storage with ChatGPT-powered retrieval and multimedia support.. [Freemium]
