@@ -2235,6 +2235,7 @@ A curated list of awesome AI tools
 - [Image2Prompts](https://image2prompts.com) - Free image-to-prompt generator optimized for Nano Banana.. [Freemium]
 - [Foundation Men](https://foundationmen.com) - AI-Powered Grooming Image Tools for the Modern Man ..[Free Trial]
 - - [FreeArt Studio](https://freeai-site.vercel.app/) - Free AI image generator with no signup, no limits, multiple aspect ratios.. [Free]
+- [lora.pro](https://lora.pro) - Ready style presets on top of existing image models: upload a photo, pick a preset, the face is preserved.. [Freemium]
 
 ### Image Editing
 
