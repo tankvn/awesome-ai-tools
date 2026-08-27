@@ -2613,6 +2613,7 @@ A curated list of awesome AI tools
 - [Avaturn](https://avaturn.me) - Create lifelike 3D avatars from selfies with extensive customization.. [Freemium]
 - [DeepMotion](https://www.deepmotion.com) - Revolutionize animation with AI-driven motion capture and body tracking for all creators.. [Freemium]
 - [Meshy](https://www.meshy.ai) - Revolutionize 3D creation: AI-powered, text/image to model, rapid texturing, diverse export options.. [Freemium]
+- [Luphra](https://www.luphra.com) - Turn prompts and sketches into editable 3D and manufactured physical products, starting with 3D printables. [Freemium]
 - [Leonardo.Ai](https://app.leonardo.ai) - Revolutionize AI interaction: intuitive, secure, cross-platform access, enhancing productivity.. [Freemium]
 - [Ponzu](https://www.ponzu.gg) - Revolutionize 3D texturing with AI for photorealistic effects and efficiency.. [Free]
 - [Scenario](https://www.scenario.gg) - AI-driven game asset creation with unmatched style consistency and efficiency.. [Freemium]
