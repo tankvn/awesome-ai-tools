@@ -3206,6 +3206,7 @@ Best AI Music: https://mubert.com/render/pricing?via=beatnc
 Royalty-Free Music: https://mubert.com/render/pricing?via=beatnc  
 
 ### Transcriber
+- [Freeflow](https://github.com/jayamitkatariya/Freeflow) - Voice dictation with screen context you point at. Hold ⌥ to record, circle to capture screenshots, local Parakeet transcription.
 
 - [S10.AI](https://s10.ai) - Automate medical scribing, enhance patient care, integrate EHRs effortlessly.. [Contact for Pricing]
 - [Otter.ai](https://otter.ai) - Revolutionize meetings with AI notes, transcription, and integrations for enhanced productivity.. [Freemium]
