@@ -26,6 +26,7 @@
 - [AgentGPT](https://agentgpt.reworkd.ai) - Deploy Autonomous AI Agents with AgentGPT's Innovative Tool. [Free]
 - [Yoodli AI](https://app.yoodli.ai) - Refine speech with AI: real-time feedback, personalized analytics, private improvement.. [Freemium]
 - [Rewind](https://www.rewind.ai) - Capture, transcribe, summarize digital interactions; enhance memory, privacy-focused.. [Free Trial]
+- [Screenpipe](https://screenpi.pe) - Turns local screen and audio history into searchable context and agent workflows. [Freemium]
 - [Resume Worded](https://resumeworded.com) - Boost your resume and LinkedIn with AI-driven, recruiter-approved feedback for 5x more interviews.. [Freemium]
 - [Fireflies.ai](https://fireflies.ai) - AI-driven transcription, summarization, and meeting management tool.. [Freemium]
 - [Replika](https://replika.com) - AI companion for personalized chat, emotional support, and self-growth.. [Freemium]
