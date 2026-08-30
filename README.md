@@ -2917,6 +2917,7 @@ A curated list of awesome AI tools
 - [FacelessVideos](https://facelessvideos.app/) - Generate faceless short videos with scripts, voiceovers, stock footage, and captions.. [Free Trial]
 - [D-ID](https://www.d-id.com) - Revolutionize content with AI-crafted digital humans and personalized videos, ensuring privacy and realism.. [Free Trial]
 - [AI Fruit](https://aifruit.app) - Create Viral AI Fruit Videos in Seconds.. [Free Trial]
+- [HelloGen](https://hellogen.ai) - Generate images and video from a sentence or a photo, choosing from Seedream, Nano Banana, Veo, Kling and Seedance.. [Freemium]
 
 ### Text To Video
 
