@@ -2420,6 +2420,7 @@ A curated list of awesome AI tools
 - [FastHeadshot](https://fastheadshot.com) - Transform casual photos into professional headshots in seconds.. [Freemium]
 - [ECFotos](https://ecfotos.com) - Complete AI photo suite for e-commerce. Edit 1 or batch 100+. Background removal, shadow, translator, eraser & more. Amazon/Shopify ready. Try 10 free, no card.. [Freemium]
 - [ImagesArt.ai](https://imagesart.ai/) - Generate and edit AI images with multiple models, prompt tools, and style presets.. [Free Trial]
+- [voxelyo](https://voxelyo.com) - AI photo enhancer for Airbnb, Vrbo, and real estate listing photos: lighting fix, blur fix, sky replacement, twilight conversion.. [Paid]
 
 ### Text To Image
 
