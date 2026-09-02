@@ -4127,6 +4127,7 @@ Royalty-Free Music: https://mubert.com/render/pricing?via=beatnc
 - [Sprout Social](https://sproutsocial.com) - Enhance engagement, manage content, and gather insights with advanced analytics.. [Paid]
 - [Brandwatch](https://www.brandwatch.com) - Harness AI for market insights and strategic social media management.. [Contact for Pricing]
 - [Buffer](https://buffer.com) - Streamline social media management, analyze engagement, automate scheduling.. [Freemium]
+- [BulkPublish](https://app.bulkpublish.com/docs) - AI-agent social media content creation, adaptation, batch scheduling, cross-channel publishing, and analytics through API and MCP access.. [Paid]
 - [Aidelly](https://aidelly.ai) - AI-driven tool streamlining marketing with automation and analytics.. [Freemium]
 - [Piggy](https://piggy.to) - Transforming mobile content creation with AI-driven customization, real-time editing, and seamless sharing for creators on the go.. [Free]
 - [Adcreative.ai](https://free-trial.adcreative.ai) - Create conversion-focused ads & posts quickly & easily for better results.. [Free Trial]
