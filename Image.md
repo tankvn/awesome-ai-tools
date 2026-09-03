@@ -30,6 +30,7 @@
 - [PlayArti](https://www.playarti.com) - Unleash AI-powered creativity for stunning, professional digital art.. [Free]
 - [Canva Text to Image](https://www.canva.com) - Transform text into stunning visuals effortlessly with AI-powered creativity.. [Freemium]
 - [Flair AI](https://flair.ai) - Revolutionize product photography with intuitive AI-powered digital staging.. [Free Trial]
+- [Lunalisa](https://luna-lisa.art) - AI creative workspace for product photos, marketing posters, and white-background listing images across 13 image and 22 video models.. [Freemium]
 - [Gen-2 by Runway](https://research.runwayml.com) - An AI tool that creates videos from text, images, or clips, blending creativity with technology.. [Free Trial]
 - [StudioGPT by Latent Labs](https://www.latentlabs.art) - Unleash creativity with intuitive AI-driven art generation.. [Paid]
 - [Microsoft Designer](https://designer.microsoft.com) - Unleash creativity with AI-driven design simplicity and Microsoft integration.. [Contact for Pricing]
