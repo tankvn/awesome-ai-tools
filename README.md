@@ -4121,6 +4121,10 @@ Royalty-Free Music: https://mubert.com/render/pricing?via=beatnc
 - [Cloudgov](https://cloudgov.ai) - AI-powered platform for optimizing and reducing cloud expenses.. [Free Trial]
 - [bananaz.ai](https://www.bananaz.ai) - AI-copilot for mechanical engineers that understands CAD data, detects geometric changes and automates DFM, GD&T, tolerance analysis, and design inspections.. [Contact for Pricing]
 
+
+### AI Tools Directories
+
+- [awesome-ai-tools-china](https://github.com/qngsvip/awesome-ai-tools-china) — 569 Chinese AI tools curated directory
 ### Social Media
 
 - [EasyGen](https://www.easygen.io) - The Linkedin Post Generator That Works . [Free Trial]
