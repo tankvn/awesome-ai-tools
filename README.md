@@ -7496,6 +7496,7 @@ Royalty-Free Music: https://mubert.com/render/pricing?via=beatnc
 - [Chatsimple](https://www.chatsimple.ai) - AI chatbot for 24/7 lead generation and conversion. [Active deal]
 - [echowin](https://echo.win) - Revolutionize call management with AI-powered answering and workflow automation.. [Active deal]
 - [Character AI](https://beta.character.ai) -  An AI platform for engaging in natural, open-ended conversations and creative tasks.. [Freemium]
+- [WSUP AI: Free AI Character Chat](https://wsupai.app/) - Free AI character chat in the browser — talk to AI characters with no sign up. [Free]
 - [Sibyl AI](https://sibyls.ai) - Unlock spiritual insights and guidance through AI's enlightened neural network.. [Free Trial]
 - [Replika](https://replika.com) - AI companion for personalized chat, emotional support, and self-growth.. [Freemium]
 - [One AI](https://www.oneai.com) - Boost website engagement and sales with adaptive AI-driven interactions.. [Freemium]
