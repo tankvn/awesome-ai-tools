@@ -3117,6 +3117,8 @@ A curated list of awesome AI tools
 - [Gotalk.ai](https://gotalk.ai) - Transforms text into lifelike voiceovers with advanced AI technology.. [Paid]
 - [Jellypod](https://jellypod.ai) - Transform newsletters into personalized, AI-summarized daily podcasts.. [Paid]
 
+- [CitePod](https://citepod.com) - Turn study notes into a free 60-second AI podcast preview with transcript, topic coverage and source-linked recall questions.. [Free]
+
 ### Music
 
 - [Stable Audio](https://www.stability.ai) - Revolutionize audio creation with AI-powered sound transformation.. [Contact for Pricing]
