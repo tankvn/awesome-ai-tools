@@ -650,6 +650,7 @@
 - [FaceVary](https://remaker.ai) - Effortlessly swap faces in photos for fun and creativity.. [Free Trial]
 - [Wand](https://www.wand.app) - Revolutionizes digital art with AI-rendering and real-time editing.. [Freemium]
 - [Ilus](https://ilus.ai) - Unlock creativity with AI-driven design, high-quality images, and intuitive templates.. [Paid]
+- [Illustro](https://illustro.app) - AI illustration generator with flat, line art, children's book, and 3D styles, plus vector editing and animation.. [Freemium]
 - [Pixel Dojo](https://pixeldojo.ai) - Unleash AI-driven art creation, image enhancement, and style innovation effortlessly.. [Paid]
 - [Openjourney Bot](https://openjourneybot.com) - Transform text prompts into stunning 4K AI images, edit, and enhance creativity.. [Paid]
 - [HappyAccidents](https://www.happyaccidents.ai) - Transform art creation: cloud-based AI, instant models, rapid iterations, free access.. [Free Trial]
