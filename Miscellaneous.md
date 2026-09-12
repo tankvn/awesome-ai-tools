@@ -618,6 +618,7 @@
 ### Travel
 
 - [Ask Layla](https://justasklayla.com) - Revolutionize travel with AI-driven planning and seamless bookings.. [Free]
+- [MonkeyEatingMango](https://monkeyeatingmango.com) - Creates day-by-day itineraries with food guides and budget breakdowns from 8 tap questions. [Free]
 - [Tripplanner](https://tripplanner.ai) - Optimizes travel with AI-driven, personalized itinerary planning.. [Free]
 - [iPlan.ai](https://iplan.ai) - AI-driven, personalized travel itineraries at your fingertips.. [Free Trial]
 - [Where To](https://www.wheretoai.com) - Unleash data-driven location insights with AI-powered geospatial analytics.. [Free]
