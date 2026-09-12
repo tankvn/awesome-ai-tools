@@ -97,6 +97,7 @@ A curated list of awesome AI tools
 - [Yoodli AI](https://app.yoodli.ai) - Refine speech with AI: real-time feedback, personalized analytics, private improvement.. [Freemium]
 - [Rewind](https://www.rewind.ai) - Capture, transcribe, summarize digital interactions; enhance memory, privacy-focused.. [Free Trial]
 - [Resume Worded](https://resumeworded.com) - Boost your resume and LinkedIn with AI-driven, recruiter-approved feedback for 5x more interviews.. [Freemium]
+- [ResumeAI](https://withresumeai.com) - Free ATS checker and AI resume builder; open State of ATS 2026 dataset.. [Free]
 - [Fireflies.ai](https://fireflies.ai) - AI-driven transcription, summarization, and meeting management tool.. [Freemium]
 - [Replika](https://replika.com) - AI companion for personalized chat, emotional support, and self-growth.. [Freemium]
 - [Heyday](https://heyday.xyz) - Revolutionize data management: AI-driven summarization, recall, and content creation.. [PaidFree Trial]
