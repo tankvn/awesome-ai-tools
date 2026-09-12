@@ -2235,7 +2235,6 @@ A curated list of awesome AI tools
 - [MakeBanner.ai](https://makebanner.ai) - The #1 AI Banner Generator. Professional Visuals, Zero Design Skills ..[Free Trial]
 - [Image2Prompts](https://image2prompts.com) - Free image-to-prompt generator optimized for Nano Banana.. [Freemium]
 - [Foundation Men](https://foundationmen.com) - AI-Powered Grooming Image Tools for the Modern Man ..[Free Trial]
-- - [FreeArt Studio](https://freeai-site.vercel.app/) - Free AI image generator with no signup, no limits, multiple aspect ratios.. [Free]
 
 ### Image Editing
 
