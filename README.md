@@ -1753,6 +1753,7 @@ A curated list of awesome AI tools
 - [PicNotes](https://picnotes.framer.ai) - Transform images to editable text and summaries swiftly, with handwriting recognition.. [Paid]
 - [Video Notes TLDR](https://www.videonotestldr.com) - AI-powered tool summarizing YouTube videos with timestamps efficiently.. [Freemium]
 - [YouTube Transcript AI Summary](https://chromewebstore.google.com) - Transform YouTube videos into concise, AI-powered summaries effortlessly.. [Free Trial]
+- [Summarizer.tube](https://summarizer.tube) - Turns any YouTube video into a short summary plus key points with clickable timestamps, and extracts the raw transcript; works with auto-generated captions in 50+ languages.. [Freemium]
 
 
 ## Image Tools
