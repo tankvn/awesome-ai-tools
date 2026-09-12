@@ -2817,6 +2817,7 @@ A curated list of awesome AI tools
 - [Opus Clip](https://www.opus.pro) - Transform videos into viral shorts effortlessly with AI-driven editing and curation.. [Freemium]
 - [Submagic](https://www.submagic.co) - Effortlessly enhance videos with auto captions, b-rolls, and emojis.. [Paid]
 - [Minvo](https://minvo.pro) - AI-powered tool for effortless video editing and social media management.. [Freemium]
+- [OpenShorts](https://www.openshorts.app) - Open source AI clip generator that turns long videos into viral 9:16 shorts with subtitles and dubbing. [Freemium]
 
 ### Video Generators
 
