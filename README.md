@@ -3939,6 +3939,7 @@ Royalty-Free Music: https://mubert.com/render/pricing?via=beatnc
 - [SparkReceipt](https://sparkreceipt.com) - Streamline receipts, automate accounting, boost efficiency.. [Freemium]
 - [Invxst](https://www.invxstai.com) - AI-driven insights turn complex financial data into actionable summaries.. [Freemium]
 - [Finpilot](https://www.finpilot.ai) - Automate data collection, analysis, and reporting with AI-driven precision.. [Contact for Pricing]
+- [FN2](https://fn2.ai) - AI market analyst for investors with daily briefings, stock research, and scheduled monitoring agents. [Free tier]
 
 ### Project Management
 
