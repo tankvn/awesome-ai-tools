@@ -7151,6 +7151,7 @@ Royalty-Free Music: https://mubert.com/render/pricing?via=beatnc
 - [Odyssey App](https://www.odysseyapp.io) - Explore AI workflows effortlessly.. [Free]
 - [ZenMulti](https://www.zenmulti.cc) - Unlock global markets effortlessly with a lightning-fast, no-code localization tool compatible with JSON and Properties files.. [Paid]
 - [Imagica](https://www.imagica.ai) - Create AI apps easily without coding, rapidly deploying across industries.. [Freemium]
+- [Xenition](https://xenition.com) - Turn a chat prompt into full-stack apps, documents, slides and spreadsheets across 23 connected surfaces, no coding needed. [Freemium]
 
 ### SQL
 
