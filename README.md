@@ -6514,6 +6514,7 @@ Royalty-Free Music: https://mubert.com/render/pricing?via=beatnc
 - [MailMaestro](https://www.maestrolabs.com) - Boost email drafting speed and security with AI-driven personalization.. [Free Trial]
 - [Setter AI](https://www.trysetter.com) - Revolutionizes lead engagement with AI, boosting conversions and personalizing calls at scale.. [Contact for Pricing]
 - [SuperAGI Cloud](https://superagi.com) - Open-source infrastructure designed for creating autonomous agents, offering developers the capability to efficiently build and deploy these agents for diverse applications.. [Free]
+- [Solgrok](https://lmajster.github.io/sgrok/) - Autonomous Solana creator-ops AI agent that promotes and manages $SGROK 24/7. [Free]
 - [Convai](https://www.convai.com) - Elevate virtual worlds with AI-driven, interactive, and knowledgeable characters.. [Freemium]
 - [AvanazAI](https://avanz.ai) - Streamlines investment operations with AI, real-time insights, automation.. [Contact for Pricing]
 - [iPlan.ai](https://iplan.ai) - AI-driven, personalized travel itineraries at your fingertips.. [Free Trial]
