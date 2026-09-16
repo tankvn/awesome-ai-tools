@@ -951,6 +951,7 @@ A curated list of awesome AI tools
 ### Search Engine
 
 - [Komo Search](https://komo.ai) - Revolutionize search with AI: intuitive, efficient, customizable, secure.. [Freemium]
+- [AI Tools Radar](https://aitoolsradar.com) - Discover, compare, and track practical AI tools across productivity, research, creative, and developer workflows. [Free]
 - [Microsoft Bing](https://www.bing.com) - AI-enhanced precision searches with personalized, multimedia-rich results.. [Free]
 - [You](https://you.com) - Transforms searches into personalized, private experiences with AI-driven results.. [Freemium]
 - [GPTGO](https://googpt.ai) - Unleash AI's power: intuitive, customizable, content-to-code generation.. [Free]
