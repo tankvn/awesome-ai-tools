@@ -408,6 +408,7 @@ A curated list of awesome AI tools
 - [QuantPlus](https://www.quantplus.io) - QuantPlus is an advanced AI engine that transforms performance data into actionable insights for creating effective ads. . [Free]
 - [Komo Search](https://komo.ai) - Revolutionize search with AI: intuitive, efficient, customizable, secure.. [Freemium]
 - [FaceCheck ID](https://facecheck.id) - Protect Yourself and Others with Our Robust Photo Checking System. [Free]
+- [PlantScanner](https://plantscanner.ai) - Identify any plant from a photo with AI, plus care tips and problem diagnosis. [Free]
 - [RhetorAI](https://www.rhetorai.com) - Harness AI-driven insights with multilingual, 24/7 customer feedback analysis.. [Freemium]
 - [SiteExplainer](https://siteexplainer.com) - Unveil website essence swiftly with AI-powered, jargon-free summaries.. [Free]
 - [iAsk.AI](https://iask.ai) - Revolutionizes information access with instant, accurate AI-driven answers and writing assistance.. [Free]
