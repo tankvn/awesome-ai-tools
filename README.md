@@ -359,6 +359,7 @@ A curated list of awesome AI tools
 - [Screentime](https://screentime.monitup.com) - Optimize screen time, boost productivity with AI insights.. [Free Trial]
 - [Alice](https://www.heyalice.app) - Boost productivity with AI-powered privacy, customization, and app integration.. [Paid]
 - [Sistava](https://sistava.com) - Hire AI agents that run your entire business across sales, marketing, finance, and support. Reach them on Slack, WhatsApp, email, voice, Telegram, API, MCP, A2A, and webhooks. [Paid]
+- [Mnemoverse](https://mnemoverse.com) - Hosted memory server for AI agents over MCP; tell it a recalled memory helped or misled, and it re-ranks what comes back next. [Freemium]
 
 ### Research Assistant
 
