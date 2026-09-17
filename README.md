@@ -6234,6 +6234,7 @@ Royalty-Free Music: https://mubert.com/render/pricing?via=beatnc
 - [Zoyo](https://www.zoyo.ai) - AI Powered Real Estate Tools. [Freemium]
 - [Styly.io](https://www.styly.io/) – Revolutionize real estate and interior design with cutting-edge AI home design, AI room design, and AI room generator tools for virtual staging and renovations. [Free Trial]
 - [Dream House](https://dream-house.clarkdinnison.com) - Transform your home with innovative design and craftsmanship.. [Free]
+- [Altyst](https://altyst.ai) - Turns an offering memorandum, rent roll, or T-12 into a live commercial real estate underwriting model with DCF, IRR, debt sizing, and an equity waterfall, exported to Excel, PDF, and PowerPoint. [Paid]
 
 
 ## Automation Tools

@@ -2917,6 +2917,7 @@
 - [EasyListing](https://easylisting.info) - Generate high-converting and SEO-optimized real estate listing descriptions quickly and effortlessly.. [Paid]
 - [Zoyo](https://www.zoyo.ai) - AI Powered Real Estate Tools. [Freemium]
 - [Dream House](https://dream-house.clarkdinnison.com) - Transform your home with innovative design and craftsmanship.. [Free]
+- [Altyst](https://altyst.ai) - Turns an offering memorandum, rent roll, or T-12 into a live commercial real estate underwriting model with DCF, IRR, debt sizing, and an equity waterfall, exported to Excel, PDF, and PowerPoint. [Paid]
 
 
 -----
