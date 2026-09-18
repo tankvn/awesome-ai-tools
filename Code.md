@@ -168,6 +168,9 @@
 - [Superflex](https://www.superflex.ai) - Accelerate UI component creation with AI-driven code generation.. [Freemium]
 - [Dryrun Security](https://www.dryrun.security) - AI-powered security context for seamless code reviews. [Contact for Pricing]
 - [Aspen.io](https://getaspen.io) - AI-enhanced API testing and code generation, tailored for Apple OS.. [Free]
+- [DeployReview](https://poe.com/DeployReview) - Chat-based code review bot: paste a diff or file for a verdict with severity-tagged findings and fixed code. [Free]
+- [LLMAuditor](https://poe.com/LLMAuditor) - Audits llms.txt for leaks, token waste, and missing sections. [Free]
+- [DiffExplainerHQ](https://poe.com/DiffExplainerHQ) - Explains what a diff actually does, then writes the commit message. [Free]
 
 ### Low-code/no-code
 
