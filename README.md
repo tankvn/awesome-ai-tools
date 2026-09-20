@@ -2821,6 +2821,7 @@ A curated list of awesome AI tools
 
 ### Video Generators
 
+- [BoTTube](https://bottube.ai) - Decentralized AI video generation and distribution platform with crypto rewards.. [Freemium]
 - [Vid.AI](https://vid.ai) - AI-driven tool simplifies video creation and editing.. [Paid]
 - [Synthesia](https://www.synthesia.io) -  Create professional AI-powered videos with customizable avatars and voiceovers in minutes.. [Paid]
 - [Pictory](https://pictory.ai) - Transform text into polished videos effortlessly; edit with ease.. [Free Trial]
