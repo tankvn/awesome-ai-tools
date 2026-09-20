@@ -1048,6 +1048,7 @@ A curated list of awesome AI tools
 - [Freeflo](https://freeflo.ai) - Essential AI image style prompts for Midjourney. [Free]
 - [YT Copycat](https://ytcopycat.com) - Transform YouTube Content into Unique Creations. [Free Trial]
 - [MakerBox](https://www.makerbox.club) - Unleash marketing prowess with AI-crafted prompts for solopreneurs.. [Paid]
+- [AI Solopreneur OS](https://huyhoang2k5.github.io/solopreneur-kit/) - Production-ready AI prompt vault and zero-cost monetization toolkit for solopreneurs and creators.. [Freemium]
 - [Entry Point](https://www.entrypointai.com) - Enhance prompt quality, reduce latency, and ensure predictable outputs in a collaborative, user-friendly environment. [Freemium]
 - [PromptInterface.ai](https://www.promptinterface.ai) - Unlock AI-driven productivity with customized, form-based prompt engineering.. [Free Trial]
 - [PromptsIdeas](https://promptsideas.com) - Unlock AI creativity: market, monetize, and master generative prompts.. [Freemium]
