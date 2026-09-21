@@ -288,6 +288,7 @@
 - [Poised](https://www.poised.com) - Enhance your speaking with real-time feedback and personalized coaching.. [Paid]
 - [Screentime](https://screentime.monitup.com) - Optimize screen time, boost productivity with AI insights.. [Free Trial]
 - [Alice](https://www.heyalice.app) - Boost productivity with AI-powered privacy, customization, and app integration.. [Paid]
+- [GTD Brain](https://gtdbrain.com/connect?source=awesome-ai-tools-tankvn) - Getting Things Done task manager whose MCP server lets ChatGPT, Claude, Gemini CLI, Codex and Cursor run your GTD system. [Freemium]
 
 ### Research Assistant
 
