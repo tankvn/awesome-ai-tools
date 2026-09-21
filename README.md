@@ -3,6 +3,7 @@ A curated list of awesome AI tools
 
 - [Awesome AI Tools](https://github.com/tankvn/awesome-ai-tools/blob/main/README.md#awesome-ai-tools)
   - [Productivity Tools](https://github.com/tankvn/awesome-ai-tools/blob/main/README.md#productivity-tools)
+- [MagicKit](https://magickit.47.80.8.174.nip.io) — **Free AI toolbox** for image generation (FLUX), text and video. No sign-up, no API key. MIT licensed. [Source](https://github.com/kaketiti/magickit)
     - [Personal Assistant](https://github.com/tankvn/awesome-ai-tools/blob/main/README.md#personal-assistant)
     - [Research Assistant](https://github.com/tankvn/awesome-ai-tools/blob/main/README.md#research-assistant)
     - [Spreadsheets](https://github.com/tankvn/awesome-ai-tools/blob/main/README.md#spreadsheets)
