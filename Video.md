@@ -149,6 +149,7 @@
 - [Shorts Goat](https://www.shortsgoat.com) - AI-driven tool for effortless, high-quality short video creation.. [Paid]
 - [Vertical Video Converter](https://verticalvideoconverter.com) - Effortlessly convert landscape videos to vertical formats with AI.. [Freemium]
 - [Opus Clip](https://www.opus.pro) - Transform videos into viral shorts effortlessly with AI-driven editing and curation.. [Freemium]
+- [shortshort](https://www.shortshort.io) - Turn one long talk, podcast or course into vertical 9:16 shorts with word-by-word captions. [Freemium]
 - [Submagic](https://www.submagic.co) - Effortlessly enhance videos with auto captions, b-rolls, and emojis.. [Paid]
 - [Minvo](https://minvo.pro) - AI-powered tool for effortless video editing and social media management.. [Freemium]
 
