@@ -72,6 +72,8 @@
 - [Vimeo AI](https://vimeo.com) - Revolutionize video creation with AI scripting, editing, and teleprompting.. [Paid]
 - [Loudly](https://www.loudly.com) - Revolutionize content creation with AI-generated, customizable, royalty-free music.. [Freemium]
 - [HappySRT](https://www.happysrt.com) - AI-driven subtitle creation and editing for videos and audio files.. [Freemium]
+- [Video to Transcript](https://videotext.io/video-to-transcript) - Free AI video transcription with 98.5% word accuracy using Whisper large-v3; upload MP4/MOV/WebM/MKV and get a transcript, SRT/VTT, AI summary, and chapters in one pass.. [Free]
+- [Video to Subtitles](https://videotext.io/video-to-subtitles) - Full caption generation hub: upload a video for timed SRT/VTT output, then fix, translate, or burn captions in the same workflow.. [Free]
 - [VMEG - Video Translator](https://www.vmeg.pro) - Transform videos into multiple languages with AI-driven precision and lip-sync.. [Freemium]
 - [Sonix](https://sonix.ai) - Transform audio/video to text, analyze, subtitle, 49+ languages.. [Paid]
 - [EditApp AI](https://editapp.ai) - Revolutionize your editing workflow with advanced AI-powered tools. Streamline photo editing, video editing, and graphic design tasks. [Freemium]
