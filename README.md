@@ -2699,6 +2699,7 @@ A curated list of awesome AI tools
 - [Veed](https://apps.apple.com) - Auto-generate and style video captions effortlessly.. [Free Trial]
 - [Webcam Wonders](https://museclip.ai) - Transform your webcam with real-time enhancements and interactive features.. [Free Trial]
 - [Fotor Video Enhancer](https://www.fotor.com) - Effortlessly enhance video quality with AI-driven sharpness, color correction, and brightness adjustment.. [Free Trial]
+- [UpRes](https://upres.ai) - AI image and video upscaling up to 8K across 14 neural models with API, CLI, and MCP support.. [Freemium]
 
 ### Video Editing
 
