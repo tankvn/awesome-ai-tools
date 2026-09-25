@@ -1767,6 +1767,7 @@ A curated list of awesome AI tools
 - [Looka](https://looka.grsm.io) - AI-driven branding: logos, websites, and full identity kits.. [Active deal]
 - [REimagine Home](https://www.reimaginehome.ai) - Generative AI to redesign any room in seconds. [Free]
 - [Playground AI](https://playgroundai.com) - Unleash creativity with AI-driven image creation and intuitive editing.. [Freemium]
+- [Raphael](https://raphael.app) - Free AI image generator for text-to-image, editing, and creative workflows in the browser.. [Free]
 - [NightCafe Studio](https://creator.nightcafe.studio) - Unleash AI-driven art creation, no skills required, endless styles.. [Freemium]
 - [MidJourney Prompt Helper](https://prompt.noonshot.com) - Unleash AI artistry with intuitive prompt crafting and optimization.. [Free]
 - [Stable Diffusion](https://stability.ai) - Deep learning text-to-image model.. [Freemium]
