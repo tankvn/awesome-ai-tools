@@ -365,6 +365,7 @@ A curated list of awesome AI tools
 - [Price Per Token](https://pricepertoken.com) - Compare LLM API pricing across 300+ models from OpenAI, Anthropic, Google, and 30+ providers. [Free]
 - [Gnomi App](https://www.gnomi.com) - Unlock global perspectives, customize content, and engage with a diverse community in real-time.. [Free]
 - [Consensus](https://consensus.app) - Unlock expert knowledge: AI-powered, ad-free research from 200M+ scientific papers.. [Freemium]
+- [Clarity](https://agent-tools.cloud/services/desktop-o99r0sf-tail935fba-ts-net-sub899) - Base mainnet x402 AI research API with free discovery, $2 USDC reports, and $0.001 chat. [Paid]
 - [BGPT MCP](https://bgpt.pro) - Search scientific papers built from full-text experimental data via hosted MCP server. 50 free searches, no API key needed. [Free]
 - [Julius AI](https://julius.ai) - Unleash AI-driven data analysis with real-time insights and automated processing.. [Paid]
 - [Scite](https://www.scite.ai) - Transform research with AI-driven Smart Citations and deep insights.. [Free Trial]
