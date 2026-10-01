@@ -2014,6 +2014,7 @@ A curated list of awesome AI tools
 - [Chat2Design](https://chat2.design) - Transform text into stunning designs instantly, enhancing creativity and workflow efficiency.. [Freemium]
 - [Architect AI](https://ai-architect.net) - Transform sketches to cinematic renders instantly, enhancing architectural visualization affordably.. [Paid]
 - [ChartGPT](https://www.chartgpt.dev) - Transform text into charts using AI; simple, customizable, efficient.. [Paid]
+- [RoomMaker AI](https://roommakerai.org) - Redesign a room from a photo with renovation previews, virtual staging and floor plan concepts. [Freemium]
 
 ### Image Generator
 
