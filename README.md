@@ -4373,6 +4373,7 @@ Royalty-Free Music: https://mubert.com/render/pricing?via=beatnc
 - [Aspect Social](https://www.aspectapp.xyz) - AI-enhanced social media management: automate, optimize, and engage efficiently.. [Freemium]
 - [Agora](https://www.agora.io) - Real-time voice and video integration for apps.. [Contact for Pricing]
 - [Synthlife](https://synthlife.co) - Revolutionize virtual influencer creation, growth, and monetization effortlessly.. [Paid]
+- [InTager](https://apps.apple.com/app/id1499532712) - iPhone app that writes captions and up to 30 hashtags from the photo itself, in 17 languages. [Freemium]
 
 ### Education
 
