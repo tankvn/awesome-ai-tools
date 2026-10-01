@@ -2236,6 +2236,7 @@ A curated list of awesome AI tools
 - [Image2Prompts](https://image2prompts.com) - Free image-to-prompt generator optimized for Nano Banana.. [Freemium]
 - [Foundation Men](https://foundationmen.com) - AI-Powered Grooming Image Tools for the Modern Man ..[Free Trial]
 - [URL to Design.md](https://urltodesign.md) - Generate an AI-ready DESIGN.md from any public website URL. ..[Free Trial]
+- [Tesla Wrap Generator](https://teslawrapgenerator.com/) - Turn a prompt or photo into a Tesla Paint Shop custom wrap for your exact model, preview it in 3D and download the PNG. ..[Freemium]
 
 ### Image Editing
 
