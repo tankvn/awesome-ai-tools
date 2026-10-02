@@ -251,6 +251,7 @@
 - [Skyglass](https://www.skyglass.com) - AI-driven VFX tool for immersive video production on iPhone.. [Paid]
 - [Faceless Video](https://faceless.video) - Convert text to high-quality, faceless videos with voiceovers and stock footage.. [Paid]
 - [FacelessVideos](https://facelessvideos.app/) - Generate faceless short videos with scripts, voiceovers, stock footage, and captions.. [Free Trial]
+- [Faceless.so](https://faceless.so) - Turn a niche into a channel that posts itself: AI writes, voices and edits a faceless video every day and auto-posts it to YouTube, TikTok, Instagram and more. [Paid]
 - [D-ID](https://www.d-id.com) - Revolutionize content with AI-crafted digital humans and personalized videos, ensuring privacy and realism.. [Free Trial]
 - [MaxVideoAI](https://maxvideoai.com/models) - Multi-engine AI video platform to compare model specs, pricing, workflows, and examples across Sora, Veo, Kling, Seedance, Wan, Pika, and LTX. [Freemium]
 
