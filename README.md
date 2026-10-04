@@ -1338,6 +1338,7 @@ A curated list of awesome AI tools
 - [Squibler](https://www.squibler.io) - Transform writing with AI, from blank page to printed book, effortlessly.. [Freemium]
 - [Feather AI](https://en.feather-ai.io) - Create SEO-optimized text and stunning visuals with AI efficiency.. [Freemium]
 - [Waldium](https://waldium.com) - AI-powered blogs to help ChatGPT/Claude/Perplexity cite your product.. [Freemium]
+- [AI eBook Pro](https://aiebookpro.com) - Turn one sentence into a complete eBook with chapters, a cover and PDF, EPUB and DOCX files.. [Freemium]
 
 ### Paraphrasing
 
