@@ -333,6 +333,7 @@
 - [SmartStudi Sidebar](https://chromewebstore.google.com) - Streamline content creation with AI detection, paraphrasing, and generation.. [Freemium]
 - [TextBuddy](https://appsumo.8odi.net) - Enhance writing clarity with AI-powered editing and multilingual support.. [Active deal]
 - [PDF Editor](https://pdfcandy.com) - AI-enhanced PDF editing with comprehensive, secure online tools.. [Paid]
+- [Practical Web Tools](https://practicalwebtools.com/) - 1,400+ browser tools incl. AI text/PDF editing, AI chat with local models, humanizer, OCR - all client-side. [Free]
 - [Paraphraser.io](https://www.paraphraser.io) - Revolutionize text rewriting with AI-powered, plagiarism-free paraphrasing.. [Free Trial]
 - [Wordtune](https://www.wordtune.com) - AI-powered tool enhancing writing with paraphrasing, grammar checking, and content creation.. [Freemium]
 - [Rewriteit AI](https://rewriteit.ai) - Rewrite with Confidence: Enhance Your Writing with AI Technology. [Free]
