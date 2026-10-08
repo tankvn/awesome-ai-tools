@@ -401,6 +401,7 @@
 - [Bookwiz](https://bookwiz.io) - AI-driven book writing and publishing assistant.. [Freemium]
 - [MidReal](https://midreal.ai) - Transform ideas into captivating stories with AI-driven, user-guided narrative generation.. [Paid]
 - [LandingPro AI](https://landingpro.ai) - AI-driven tool for high-converting, optimized landing pages.. [Free Trial]
+- [Goodnight Little Hero](https://goodnightlittlehero.com) - Nightly AI bedtime stories built around a child's name and favorite things, emailed to a parent to read aloud. [Free Trial]
 
 
 ### Copywriting
