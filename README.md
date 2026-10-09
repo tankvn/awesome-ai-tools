@@ -2236,6 +2236,8 @@ A curated list of awesome AI tools
 - [Image2Prompts](https://image2prompts.com) - Free image-to-prompt generator optimized for Nano Banana.. [Freemium]
 - [Foundation Men](https://foundationmen.com) - AI-Powered Grooming Image Tools for the Modern Man ..[Free Trial]
 - [URL to Design.md](https://urltodesign.md) - Generate an AI-ready DESIGN.md from any public website URL. ..[Free Trial]
+- [LivePair AI](https://livepairai.com) - AI image and video generation across 80+ models with agent APIs (MCP, OpenAPI, x402).. [Paid]
+
 
 ### Image Editing
 
