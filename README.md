@@ -4391,6 +4391,7 @@ Royalty-Free Music: https://mubert.com/render/pricing?via=beatnc
 - [Civitai](https://civitai.com) - Harness AI to create, share, and innovate in multimedia content generation.. [Free]
 - [Shuffll](https://shuffll.com) - Revolutionize video production with AI: script to screen, fast, affordable, user-friendly.. [Paid]
 - [WolframAlpha](https://www.wolframalpha.com) - Unlock expert answers and dynamic insights across disciplines effortlessly.. [Freemium]
+- [TI 84 Calculator Online](https://ti84.io/) - Use a browser-based TI-84-style graphing calculator for algebra, equations, statistics, and function plotting. [Free]
 - [Teachable Machine](https://teachablemachine.withgoogle.com) - Train AI models easily: no code, instant feedback, multiple data types.. [Free]
 - [Palette.fm](https://palette.fm) - Revive monochrome photos with AI-driven, authentic colorization and high-resolution outputs.. [Freemium]
 - [Podcast](https://podcast.ai) - AI-driven podcasting: fresh, interactive, and diverse audio experiences.. [Free]
