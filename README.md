@@ -3199,6 +3199,7 @@ A curated list of awesome AI tools
 - [Musick.ai](https://musick.ai) - AI-powered tool for creating royalty-free music effortlessly.. [Paid]
 - [LoudMe](https://loudme.ai) - Transform text prompts into full, customizable, royalty-free songs.. [Free]
 - [Moises](https://moises.ai) - Isolate vocals and instruments, adjust pitch and tempo effortlessly.. [Freemium]
+- [BPM Finder](https://findbpm.net/) - Analyze audio locally in the browser to estimate BPM, musical key, Camelot code, energy, and danceability. [Free]
 - [Jukebox](https://openai.com) - Revolutionizes music creation with AI, generating diverse genres and styles with singing.. [Contact for Pricing]
 - [Soundverse.ai](https://www.soundverse.ai) - AI-powered music creation and editing for all skill levels.. [Contact for Pricing]
 - [Emvoice](https://emvoiceapp.com) - Generate realistic vocal tracks with advanced AI for music production.. [Paid]
