@@ -3939,6 +3939,7 @@ Royalty-Free Music: https://mubert.com/render/pricing?via=beatnc
 - [SparkReceipt](https://sparkreceipt.com) - Streamline receipts, automate accounting, boost efficiency.. [Freemium]
 - [Invxst](https://www.invxstai.com) - AI-driven insights turn complex financial data into actionable summaries.. [Freemium]
 - [Finpilot](https://www.finpilot.ai) - Automate data collection, analysis, and reporting with AI-driven precision.. [Contact for Pricing]
+- [Tapetide](https://tapetide.com/mcp) - MCP server that lets AI assistants research, screen and track about 8,200 NSE and BSE listed Indian stocks. [Freemium]
 
 ### Project Management
 
