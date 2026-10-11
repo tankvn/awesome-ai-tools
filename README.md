@@ -5100,6 +5100,7 @@ Royalty-Free Music: https://mubert.com/render/pricing?via=beatnc
 - [Tag Parrot](https://tagparrot.com) - Effortlessly automate and accelerate Google indexing for better SEO.. [Paid]
 - [TypeflowAI](https://typeflowai.com) - Create AI tools quickly for SEO and lead generation.. [Paid]
 - [RankingRider](https://www.rankingrider.com) - AI-powered bulk SEO optimization for Shopify products via CSV. [Freemium]  
+- [Blawgy](https://blawgy.com) - AI SEO blog writer that researches keywords, writes and publishes posts to WordPress, Shopify, Webflow and more, with an MCP server for AI agents. [Free Trial]
 
 ### Customer Support
 
