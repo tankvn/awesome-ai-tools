@@ -549,3 +549,4 @@
 -----
 Reference
 [https://www.futurepedia.io/ai-tools](https://www.futurepedia.io/ai-tools)
+- [Markus](https://github.com/markus-global/markus) - Open-source AI workforce platform for building and running teams of AI agents with roles, delegation, and persistent memory. [Open Source]
