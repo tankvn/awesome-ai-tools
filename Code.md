@@ -168,6 +168,7 @@
 - [Superflex](https://www.superflex.ai) - Accelerate UI component creation with AI-driven code generation.. [Freemium]
 - [Dryrun Security](https://www.dryrun.security) - AI-powered security context for seamless code reviews. [Contact for Pricing]
 - [Aspen.io](https://getaspen.io) - AI-enhanced API testing and code generation, tailored for Apple OS.. [Free]
+- [Latchkey](https://latchkey.dev) - Self-healing GitHub Actions runners with a CLI and MCP server so coding agents can run, read and fix CI. [Free Trial]
 
 ### Low-code/no-code
 
