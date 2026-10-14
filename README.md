@@ -4373,6 +4373,7 @@ Royalty-Free Music: https://mubert.com/render/pricing?via=beatnc
 - [Aspect Social](https://www.aspectapp.xyz) - AI-enhanced social media management: automate, optimize, and engage efficiently.. [Freemium]
 - [Agora](https://www.agora.io) - Real-time voice and video integration for apps.. [Contact for Pricing]
 - [Synthlife](https://synthlife.co) - Revolutionize virtual influencer creation, growth, and monetization effortlessly.. [Paid]
+- [Multi Upload Tool](https://multi-upload-tool.com) - Schedule videos to TikTok, YouTube Shorts, Instagram, Facebook, LinkedIn, Pinterest, Bluesky, Threads and X from one dashboard, REST API, or MCP server. [Freemium]
 
 ### Education
 
