@@ -1841,6 +1841,7 @@ A curated list of awesome AI tools
 - [Swapp](https://www.swapp.ai) - Revolutionize architectural documentation with AI-powered automation and bespoke integration.. [Contact for Pricing]
 - [Storykube](https://www.storykube.com) - Research, ideate and supercharge your writing with the power of Artificial Intelligence. [Paid]
 - [Virtual Staging AI](https://www.virtualstaging.art) - Stage Real Estate Images in Seconds with AI. [Freemium]
+- [EmptyRoom AI](https://emptyroomai.com) - Furnish vacant listing photos in minutes: portal import, per-room pricing, free restyles.. [Paid]
 - [Cactus Interior](https://cactusinterior.com) - Revolutionize interior design with AI: instant inspirations, easy visualization, diverse styles.. [Paid]
 - [Remove-BG.AI](https://remove-bg.ai) - Effortlessly strip image backgrounds with AI precision; download in HD.. [Freemium]
 - [LogoFast](https://logofa.st) - Turbocharge Your Startup Launch with NextJS Boilerplate. [Free]
