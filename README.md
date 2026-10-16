@@ -7474,6 +7474,7 @@ Royalty-Free Music: https://mubert.com/render/pricing?via=beatnc
 - [Thyself](https://www.thyself.me) - Master mental health with mood tracking and stress-reduction tools.. [Freemium]
 - [Dr. Snooze](https://sleepspace.com) - Transform your nights and energize your days with this AI-powered sleep coach, your key to unlocking deeper, more restful sleep.. [Free Trial]
 - [Humanity](https://www.humanity.health) - Track and enhance your health with personalized aging insights using advanced biomarkers.. [Paid]
+- [Healify](https://www.healify.ai) - AI health coach and lifestyle tracker offering personalized wellness plans, habit coaching, and insights.. [Freemium]
 
 ### AI Chatbots
 
