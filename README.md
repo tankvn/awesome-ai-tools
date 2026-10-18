@@ -1766,6 +1766,7 @@ A curated list of awesome AI tools
 - [Book AI Writer](https://www.bookaiwriter.com) - Revolutionizes storytelling with AI writing and automatic cover design.. [Paid]
 - [Looka](https://looka.grsm.io) - AI-driven branding: logos, websites, and full identity kits.. [Active deal]
 - [REimagine Home](https://www.reimaginehome.ai) - Generative AI to redesign any room in seconds. [Free]
+- [RoomRedecor](https://roomredecor.com) - Upload a photo of a room, paint the furniture you want to change and get an AI redesign in a chosen style. [Free]
 - [Playground AI](https://playgroundai.com) - Unleash creativity with AI-driven image creation and intuitive editing.. [Freemium]
 - [NightCafe Studio](https://creator.nightcafe.studio) - Unleash AI-driven art creation, no skills required, endless styles.. [Freemium]
 - [MidJourney Prompt Helper](https://prompt.noonshot.com) - Unleash AI artistry with intuitive prompt crafting and optimization.. [Free]
