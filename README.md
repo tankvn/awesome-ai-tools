@@ -2963,6 +2963,7 @@ A curated list of awesome AI tools
 - [Trupeer](https://www.trupeer.ai) - AI-powered tool transforming screen recordings into polished videos.. [Freemium]
 - [Lesson22](https://www.lesson22.ai) - Transforms articles into engaging videos for diverse learners.. [Freemium]
 - [Animate AI](https://animateai.pro) - Create animated video series swiftly with AI-driven tools.. [Freemium]
+- [ShortSmash](https://github.com/abicevoice1-sudo/shortsmash) - Open-source prompt-to-viral-short pipeline: 50-language neural dubbing, CLIP+Gemini vision gate, Veo 3.1/Kling video, 1-click publish to 10 platforms. MIT licensed. [Free]
 
 
 ## Audio
