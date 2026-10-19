@@ -2835,6 +2835,7 @@ A curated list of awesome AI tools
 - [Genmo AI](https://www.genmo.ai) - Transform text or images into professional videos effortlessly with AI.. [Free]
 - [AI Studios](https://www.deepbrain.io) - Create AI-generated videos using basic text instantly. [Paid]
 - [Runway](https://runwayml.com) - AI-driven platform for high-fidelity, controllable video creation.. [Freemium]
+- [Seedance 2.0](https://seedance2ai.im/) - AI video generator with native audio for controllable multi-shot videos from text, images, video, and audio.. [Freemium]
 - [Gen-2 by Runway](https://research.runwayml.com) - An AI tool that creates videos from text, images, or clips, blending creativity with technology.. [Free Trial]
 - [EbSynth](https://ebsynth.com) - Animate videos with a single frame, revolutionizing creativity and efficiency.. [Free]
 - [Synthesys Studio](https://synthesys.io) - Synthesys develops algorithms for text-to-voiceover and videos for commercial use.. [Paid]
