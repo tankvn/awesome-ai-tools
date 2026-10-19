@@ -3760,6 +3760,7 @@ Royalty-Free Music: https://mubert.com/render/pricing?via=beatnc
 - [Ad Intel](https://usemadmen.ai) - Unlock competitor ad insights, optimize strategy, boost ROAS.. [Freemium]
 - [Adsby](https://adsby.co) - Maximize ad impact with AI-driven creation, optimization, and keyword suggestions.. [Free Trial]
 - [LeadFox](https://getleadfox.com) - Auto-reply to LinkedIn comments & capture leads while you sleep.. [Paid]
+- [AI Search Analyzer](https://aisearchanalyzer.com) - AI visibility checker: see what ChatGPT, Gemini, Claude and Perplexity say about a business, plus an SEO and AI search audit with fixes. [Freemium]
 
 ### Finance
 
