@@ -2711,6 +2711,7 @@ A curated list of awesome AI tools
 - [Descript](https://www.descript.com) - Revolutionize content creation with intuitive editing, AI-driven tools, and seamless collaboration.. [Freemium]
 - [Papercup](https://www.papercup.com) - Revolutionize video localization with AI-powered, human-refined dubbing solutions.. [Contact for Pricing]
 - [Runway](https://runwayml.com) - AI-driven platform for high-fidelity, controllable video creation.. [Freemium]
+- [Seedance 2.0](https://seedance2ai.im/) - AI video generator with native audio for controllable multi-shot videos from text, images, video, and audio.. [Freemium]
 - [InVideo](https://invideo.io) - Transform Your Ideas into Stunning Videos Effortlessly. [Freemium]
 - [FineShare FineCam](https://www.fineshare.com) - Transform your video calls and recordings with FineShare FineCam's advanced capabilities. [Paid]
 - [DeepMotion](https://www.deepmotion.com) - Revolutionize animation with AI-driven motion capture and body tracking for all creators.. [Freemium]
