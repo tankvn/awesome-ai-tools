@@ -2422,6 +2422,7 @@ A curated list of awesome AI tools
 - [FastHeadshot](https://fastheadshot.com) - Transform casual photos into professional headshots in seconds.. [Freemium]
 - [ECFotos](https://ecfotos.com) - Complete AI photo suite for e-commerce. Edit 1 or batch 100+. Background removal, shadow, translator, eraser & more. Amazon/Shopify ready. Try 10 free, no card.. [Freemium]
 - [ImagesArt.ai](https://imagesart.ai/) - Generate and edit AI images with multiple models, prompt tools, and style presets.. [Free Trial]
+- [Klaruvo](https://www.powersoftware.app/en-US/product/detail/klaruvo) - Desktop AI image editor (LaMa, IOPaint lineage) for object & watermark removal, cutout, upscaling and batch editing; runs 100% locally, no uploads, one-time purchase.. [Freemium]
 
 ### Text To Image
 
