@@ -658,6 +658,7 @@
 - [AI Expand Image](https://aiexpandimage.org) - Advanced AI-driven tool for seamless, natural image expansion.. [Contact for Pricing]
 - [PixelBin](https://www.pixelbin.io) - Revolutionize digital assets with AI-driven optimization, seamless integration, and global delivery.. [Free Trial]
 - [Bonkers](https://www.getmerlin.in) - All-in-one AI tool for writing, summarizing, coding, and more.. [Freemium]
+- [Klaruvo](https://www.powersoftware.app/en-US/product/detail/klaruvo) - Desktop AI image editor (LaMa, IOPaint lineage) for object & watermark removal, cutout, upscaling and batch editing; runs 100% locally, no uploads, one-time purchase.. [Freemium]
 
 ### Text To Image
 
