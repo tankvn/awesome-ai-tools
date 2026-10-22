@@ -2820,6 +2820,7 @@ A curated list of awesome AI tools
 
 ### Video Generators
 
+- [Ideoy](https://ideoy.ai/) - AI meme video generator — remake this week's memes with one selfie.
 - [Vid.AI](https://vid.ai) - AI-driven tool simplifies video creation and editing.. [Paid]
 - [Synthesia](https://www.synthesia.io) -  Create professional AI-powered videos with customizable avatars and voiceovers in minutes.. [Paid]
 - [Pictory](https://pictory.ai) - Transform text into polished videos effortlessly; edit with ease.. [Free Trial]
