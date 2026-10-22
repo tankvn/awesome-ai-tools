@@ -168,6 +168,7 @@
 - [Superflex](https://www.superflex.ai) - Accelerate UI component creation with AI-driven code generation.. [Freemium]
 - [Dryrun Security](https://www.dryrun.security) - AI-powered security context for seamless code reviews. [Contact for Pricing]
 - [Aspen.io](https://getaspen.io) - AI-enhanced API testing and code generation, tailored for Apple OS.. [Free]
+- [Orbi](https://orbi.build/?ref=dir-tankvn) - Open-source GitHub coding agent: label an Issue ai-ready, get an independently reviewed PR merged after CI. [Freemium]
 
 ### Low-code/no-code
 
