@@ -4943,6 +4943,7 @@ Royalty-Free Music: https://mubert.com/render/pricing?via=beatnc
 
 ### SEO
 
+- [KiloPlume](https://kiloplume.com/) - Content ideas generator providing weekly topics and structured briefs drawn from your business and news. [Free Trial]
 - [AuditZap](https://auditzap.io) - AI-powered website audit tool that runs 24 checks and generates code-level fix instructions ranked by revenue impact.. [Freemium]
 - [Seo Juice](https://seojuice.io) - Automate SEO internal linking and enhance rankings effortlessly.. [Free Trial]
 - [MarketMuse](https://www.marketmuse.com) - Revolutionize content strategy with AI-driven research, planning, and optimization.. [Freemium]
