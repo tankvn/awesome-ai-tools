@@ -8,6 +8,7 @@
 
 - [Alfred AI](https://treblle.com) - Streamlines API management, boosts developer productivity, enhances security.. [Freemium]
 - [Zapier](https://zapier.com) - Streamline tasks with intuitive, code-free, scalable app integrations.. [Free Trial]
+- [Scalekit](https://scalekit.com) - AI agent integration platform: 600+ connectors and 35,000+ tools that agents call as each user, with per-user OAuth handled by the platform. [Freemium]
 - [Make](https://www.make.com) - Streamline workflows with intuitive visual automation across numerous apps and processes.. [Freemium]
 - [Parabola](https://parabola.io) - Streamline workflows, automate tasks, enhance productivity effortlessly.. [Freemium]
 - [GPTGO](https://googpt.ai) - Unleash AI's power: intuitive, customizable, content-to-code generation.. [Free]
