@@ -1028,7 +1028,7 @@ A curated list of awesome AI tools
 
 
 ## Text Generators
-
+- [Cadence](https://music.rynn.me) — Free browser AI song generator (4 free/day, Keep $1.99).
 ### Prompt Generators
 
 - [PromptHero](https://prompthero.com) - Streamline AI prompt management, enhance productivity, and creativity.. [Free]
