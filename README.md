@@ -79,6 +79,7 @@ A curated list of awesome AI tools
 
 ## Productivity Tools
 
+- [TokenTracker](https://github.com/xiufengsun/TokenTracker) - Local-first AI token usage & cost tracker for coding tools (Claude Code, Codex, Cursor, and more). Privacy-first: token counts only, never prompts.
 ### Personal Assistant
 - [Undetectable ChatGPT Chrome Extension](https://chromewebstore.google.com) - Invisible ChatGPT integration for seamless, discreet browsing.. [Free]
 - [Monica](https://monica.im) - Personal Al assistant for effortless chatting and copywriting.. [Freemium]
