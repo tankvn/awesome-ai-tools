@@ -504,6 +504,7 @@
 - [Vectorizer.ai](https://vectorizer.ai) - Transform raster images to high-quality vectors effortlessly with AI precision.. [Paid]
 - [Photo Editor AI](https://photoeditor.ai) - Remove unwanted objects, people, blemishes, or text from their images in seconds.. [Free]
 - [HairWow](https://www.gohairwow.com) - AI hairstyle, hair color, and beard try-on from a personal photo before changing your look. [Freemium]
+- [AI Clothes Swapper](https://aiclothesswapper.com) - Change the outfit in your own photo with a preset look, a text description or a clothing photo while keeping your face, pose and background. [Freemium]
 - [Pilio Watermark Remover](https://pilio.ai/zh/remove-watermark) - Remove watermarks from images and PDFs with AI; includes [Image Watermark Remover](https://pilio.ai/zh/image-watermark-remover), [Gemini Watermark Remover](https://pilio.ai/zh/gemini-watermark-remover), and an open-source [GitHub](https://github.com/GargantuaX/gemini-watermark-remover) implementation.. [Freemium]
 - [Image Candy](https://imgcandy.com) - Versatile online image editing, conversion, and compression tool.. [Free]
 - [Paintit](https://paintit.ai) - Revolutionize your space with AI-driven interior design visualization.. [Free]
