@@ -7940,6 +7940,7 @@ Royalty-Free Music: https://mubert.com/render/pricing?via=beatnc
 - [Frigate NVR](https://frigate.video) - Transform home security with local AI, privacy-first, real-time monitoring, no subscription.. [Freemium]
 - [Contentdetector.org](https://contentdetector.org) - Detects AI-generated text with advanced NLP and machine learning.. [Free]
 - [Serendipity](https://chromewebstore.google.com) - Safeguards AI interactions by removing sensitive data in Chrome.. [Free]
+- [Coda One](https://www.codaone.ai/ai-detector/) - Free AI detector with no daily limit and no signup that highlights the sentences that read as machine-written. [Freemium]
 
 ### Fun Tools
 
