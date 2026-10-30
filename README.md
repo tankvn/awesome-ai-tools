@@ -1025,6 +1025,7 @@ A curated list of awesome AI tools
 - [PimEyes](https://pimeyes.com) - Explore digital footprints with AI-driven facial recognition search.. [Paid]
 - [Findr](https://www.usefindr.com) - Internal search platform that lets you find any document, link, and information lightning fast using a unified search bar.. [Freemium]
 - [Helloii](https://chromewebstore.google.com) - Elevate your online searches with AI-powered conversational queries.. [Free]
+- [Enhanciar](https://enhanciar.in) - A company brain that answers from your Slack, Gmail, Notion and Drive with the source, then drafts the reply or ticket for you to approve. [Paid]
 
 
 ## Text Generators
