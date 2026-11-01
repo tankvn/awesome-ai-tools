@@ -2705,6 +2705,7 @@ A curated list of awesome AI tools
 - [Video Background Remover](https://videobackgroundremover.org) - Remove video backgrounds without a green screen, using a dedicated upload to queue to export flow.. [Freemium]
 - [Vid.AI](https://vid.ai) - AI-driven tool simplifies video creation and editing.. [Paid]
 - [Adobe Premiere Pro](https://www.adobe.com) - Transform videos with AI, edit, mix audio, and color grade.. [Paid]
+- [Barz Studio](https://barzvideo.com/?utm_source=tankvn-awesome-ai-tools&utm_medium=directory&utm_campaign=backlinks) - Free browser editor for beat-reactive rap lyric videos (bring your track; 9:16 WebM).. [Freemium]
 - [CapCut](https://apps.apple.com) - All-in-one video editor offering easy-to-use functions.. [Freemium]
 - [Wondershare Filmora](https://filmora.wondershare.com) - Easy-to-use video editing software for creators of all levels.. [Free Trial]
 - [Munch](https://www.getmunch.com) - Maximize video impact with AI-driven, trend-optimized social media clips.. [Active deal]
@@ -2922,6 +2923,7 @@ A curated list of awesome AI tools
 
 ### Text To Video
 
+- [Cyanvid](https://cyanvid.com/?utm_source=tankvn-awesome-ai-tools&utm_medium=directory&utm_campaign=backlinks) - Multi-model AI video generator: text-to-video and image-to-video with upfront credit quotes.. [Freemium]
 - [Voice.Gen](https://www.voice-gen.ai) - Generate top-tier voices, images, and videos effortlessly.. [Free Trial]
 - [Synthesia](https://www.synthesia.io) -  Create professional AI-powered videos with customizable avatars and voiceovers in minutes.. [Paid]
 - [Pictory](https://pictory.ai) - Transform text into polished videos effortlessly; edit with ease.. [Free Trial]
