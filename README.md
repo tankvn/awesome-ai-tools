@@ -2919,6 +2919,7 @@ A curated list of awesome AI tools
 - [FacelessVideos](https://facelessvideos.app/) - Generate faceless short videos with scripts, voiceovers, stock footage, and captions.. [Free Trial]
 - [D-ID](https://www.d-id.com) - Revolutionize content with AI-crafted digital humans and personalized videos, ensuring privacy and realism.. [Free Trial]
 - [AI Fruit](https://aifruit.app) - Create Viral AI Fruit Videos in Seconds.. [Free Trial]
+- [Wizmade](https://wizmade.si/) - All-in-one AI video and image creation platform featuring Kling, Veo 3.1, Seedance, and viral video effects.. [Freemium: 60 free credits, paid plans from 12 USD/month]
 
 ### Text To Video
 
