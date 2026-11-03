@@ -476,6 +476,7 @@
 - [FluxAI Pro](https://fluxai.pro) - AI-powered tool for stunning, high-resolution image generation.. [Free Trial]
 - [Image2Prompts](https://image2prompts.com) - Free image-to-prompt generator optimized for Nano Banana.. [Freemium]
 - [ImagesArt.ai](https://imagesart.ai/) - Generate and edit AI images with multiple models, prompt tools, and style presets.. [Free Trial]
+- [MakeImg](https://makeimg.ai) - AI photo generator for text prompts and photos with 11 models in one workspace. [Freemium]
 
 ### Image Editing
 
