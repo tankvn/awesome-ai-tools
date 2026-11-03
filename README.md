@@ -4374,6 +4374,7 @@ Royalty-Free Music: https://mubert.com/render/pricing?via=beatnc
 - [Agora](https://www.agora.io) - Real-time voice and video integration for apps.. [Contact for Pricing]
 - [Synthlife](https://synthlife.co) - Revolutionize virtual influencer creation, growth, and monetization effortlessly.. [Paid]
 
+- [EasySociable](https://easysociable.com/?utm_source=tankvn-awesome-ai-tools&utm_medium=directory&utm_campaign=backlinks) - AI carousel maker that runs inside your coding agent; prompt to branded multi-page carousels for TikTok, Instagram & LinkedIn.. [Freemium]
 ### Education
 
 - [eSkilled AI Course Creator](https://aicoursecreator.eskilled.io) - Effortlessly create engaging online courses with AI-driven tools.. [Free Trial]
