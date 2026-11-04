@@ -4044,6 +4044,7 @@ Royalty-Free Music: https://mubert.com/render/pricing?via=beatnc
 - [Quip](https://www.quip.com) - Seamlessly integrate, collaborate, and manage workflows within Salesforce.. [Paid]
 - [Leminda](https://leminda.com) - Enhance workflows with AI-driven automation and analytics.. [Contact for Pricing]
 - [Document Crunch](https://www.documentcrunch.com) - AI-driven contract review tool for construction professionals.. [Contact for Pricing]
+- [DocAsker](https://docasker.com) - AI-verified client document collection and onboarding portal with instant PDF/ID validation.. [Free Trial]
 - [Hypothetic](https://www.hypothetic.art) - Revolutionize 3D/2D asset management and collaboration with AI-powered cloud tools.. [Contact for Pricing]
 - [Zylon](https://www.zylon.ai) - AI-driven tool that autonomously enhances business productivity and collaboration.. [Contact for Pricing]
 - [Real-Time Design By Collov](https://collov.ai) - Revolutionizing interior design with AI-powered real-time visualization, customization, and collaboration.. [Freemium]
