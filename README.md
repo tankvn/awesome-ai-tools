@@ -1035,6 +1035,9 @@ A curated list of awesome AI tools
 - [PromptPerfect](https://promptperfect.jina.ai) - Revolutionize AI prompt creation with real-time optimization and templates.. [Freemium]
 - [GravityWrite](https://gravitywrite.com) - Streamline content creation with advanced AI across multiple languages.. [Freemium]
 - [MidJourney Prompt Helper](https://prompt.noonshot.com) - Unleash AI artistry with intuitive prompt crafting and optimization.. [Free]
+- [PromptImage](https://promptimage.cloud) - Free AI image & video studio with a prompt library (signup credits, multi-model). Freemium
+- [TeslaWraps](https://teslawraps.design) - Browser Tesla Paint Shop wrap designer — core editing + PNG export free without account; optional AI credit…
+- [GrokVideo Studio](https://grokvideogenerator.dev) - Independent web app for text/image-to-video via Grok Imagine API (Free Trial, 20 credits). Not an official …
 - [Public Prompts](https://publicprompts.art) - Unleash AI creativity with diverse, free, community-powered content prompts.. [Free]
 - [Ordinary People Prompts](https://www.ordinarypeopleprompts.com) - Elevate AI interactions with curated, high-impact conversation prompts.. [Free]
 - [PromptBase](https://promptbase.com) - Marketplace for buying, selling, and discovering AI prompts.. [Freemium]
