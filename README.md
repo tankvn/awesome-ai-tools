@@ -4940,6 +4940,7 @@ Royalty-Free Music: https://mubert.com/render/pricing?via=beatnc
 - [PriceGPT](https://www.price-gpt.com) - Optimize pricing with AI-driven, real-time market insights.. [Free]
 - [CartBuddyGPT](https://cartbuddygpt.com) - AI-powered shopping assistant with visualization tools.. [Contact for Pricing]
 - [SellMate](https://www.sellmate.ai) - Enhance e-commerce with AI: cross-list, optimize, analyze, succeed.. [Contact for Pricing]
+- [Photta](https://www.photta.app) - AI product photography studio and embedded e-commerce virtual try-on widget that turns single garment, jewelry, or eyewear photos into on-model lookbooks, 3D ghost mannequins, and live customer try-on experiences.. [Freemium]
 
 ### SEO
 
