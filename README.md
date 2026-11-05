@@ -1446,6 +1446,7 @@ A curated list of awesome AI tools
 - [CreativAI](https://appsumo.8odi.net) - Unleash AI-driven content creation, optimization, and strategy, tailored for digital marketing efficiency.. [Active deal]
 - [Pencil](https://www.trypencil.com) - Unleash AI-driven ad creation with predictive performance and seamless integrations.. [Free Trial]
 - [CopyMonkey](https://copymonkey.ai) - Optimize Amazon listings with AI-driven, keyword-rich content generation.. [Free Trial]
+- [Descriptra](https://descriptra.com) - AI product description generator and GEO/SEO catalog optimizer for e-commerce in 22 languages.. [Freemium]
 - [eCommerce Prompt Generator](https://www.ecommerceprompts.com) - Revolutionize eCommerce content creation with tailored, engaging copy instantly.. [Free]
 - [BrandScript Generator](https://www.brandscriptgenerator.com) - AI-powered tool transforming brand storytelling for businesses. [Free]
 - [Taggy](https://www.taggy.com.mx) - Revolutionize social media posts with AI-generated, engaging captions.. [Free]
