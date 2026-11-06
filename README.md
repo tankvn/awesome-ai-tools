@@ -362,6 +362,7 @@ A curated list of awesome AI tools
 
 ### Research Assistant
 
+- [DisconfirmAI](https://disconfirmai.com/en) - AI investment research and reading platform that looks for disconfirming evidence before you form conviction. [Freemium]
 - [Price Per Token](https://pricepertoken.com) - Compare LLM API pricing across 300+ models from OpenAI, Anthropic, Google, and 30+ providers. [Free]
 - [Gnomi App](https://www.gnomi.com) - Unlock global perspectives, customize content, and engage with a diverse community in real-time.. [Free]
 - [Consensus](https://consensus.app) - Unlock expert knowledge: AI-powered, ad-free research from 200M+ scientific papers.. [Freemium]
