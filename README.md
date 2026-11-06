@@ -8126,3 +8126,4 @@ Reference
 <!-- ai-manifest-ref 2025-09-20T13:27:46.541Z -->
 - [AI Manifest](https://ai-manifest.org) - Optional reference for /.well-known/ai.json + OpenAPI/JSON Schema discovery (with MCP/agents.json mapping)
 - [WellKnownAI](https://wellknownai.org) - Registry/spec examples and public snapshots (no PII; mirroring allowed)
+- [TranscribeLab](https://transcribelab.pro/) - Bot-free browser meeting recorder and AI transcription workspace that converts calls, 5-hour audio files, and YouTube channels into searchable transcripts and cited e-books.
