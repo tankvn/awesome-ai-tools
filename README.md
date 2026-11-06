@@ -2537,6 +2537,7 @@ A curated list of awesome AI tools
 - [Avatar AI](https://avatarai.me) - Generate unique digital identities. [Paid]
 - [Character AI](https://beta.character.ai) -  An AI platform for engaging in natural, open-ended conversations and creative tasks.. [Freemium]
 - [Avaturn](https://avaturn.me) - Create lifelike 3D avatars from selfies with extensive customization.. [Freemium]
+- [Animated Emote Maker](https://animatedemotemaker.com) - Turn one picture or character into a matching set of animated Twitch and Discord emotes, sub badges and PNGTuber states. [Freemium]
 - [MindOS](https://mindos.com) - MindOS is an AI-powered marketplace where users can interact with AI Beings that are designed to provide information and guidance on various topics such as travel, industry trends, and stock analysis.. [Free]
 - [PixAI](https://pixai.art) - Unleash AI to create stunning anime art, effortlessly and without artistic skills.. [Free]
 - [LookBook AI](https://lookbookai.io) - Personalize sustainable fashion with an AI stylist and virtual try-on.. [Paid]
