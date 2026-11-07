@@ -2533,6 +2533,7 @@ A curated list of awesome AI tools
 - [Never](https://www.never.tech) - Unlock Your Imagination with Never's Hyper-Realistic AI Images.. [Freemium]
 - [Rosebud](https://www.rosebud.ai) - Unleash AI to convert text into playable games, animate characters, and craft assets with ease.. [Free]
 - [Glambase](https://glambase.app) - An AI Influencer Creation Platform, empowering users to create ultra-realistic AI models and earn autonomously as their virtual personas engage with and generate exclusive content for audiences.. [Active deal]
+- [MakeAICreator](https://makeaicreator.com) - Design a consistent AI influencer from a plain-language persona and generate face-anchored photos, voiceover videos, and product-placement clips.. [Paid]
 - [Synthesys Studio](https://synthesys.io) - Synthesys develops algorithms for text-to-voiceover and videos for commercial use.. [Paid]
 - [Avatar AI](https://avatarai.me) - Generate unique digital identities. [Paid]
 - [Character AI](https://beta.character.ai) -  An AI platform for engaging in natural, open-ended conversations and creative tasks.. [Freemium]
