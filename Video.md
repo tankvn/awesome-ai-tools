@@ -84,6 +84,7 @@
 - [Conch Video](https://hailuoai.com) - AI-powered tool simplifies video creation with customizable templates.. [Freemium]
 - [Loom](https://www.loom.com) - Enhance communication with video messaging, editing, and AI integration.. [Free Trial]
 - [Camb.ai](https://www.camb.ai) - Transforms video dubbing with nuanced voice preservation and 100+ languages.. [Contact for Pricing]
+- [AITrans.Video](https://aitrans.video/) - AI video translation and dubbing workspace for creators, with sentence-by-sentence review and long-video support (up to 180 minutes on Pro). [Freemium]
 - [Casablanca](https://www.casablanca.ai) - Revolutionize video calls with authentic eye contact; boosts trust, privacy ensured.. [Freemium]
 - [FaceMod](https://www.facengine.ai) - Revolutionize digital creativity with AI-driven face swaps, anime, and portraits.. [Paid]
 - [Vidext](https://www.vidext.io) - Revolutionize video editing with AI-driven automation and collaboration.. [Contact for Pricing]
