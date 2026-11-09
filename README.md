@@ -2629,6 +2629,7 @@ A curated list of awesome AI tools
 - [Sloyd](https://www.sloyd.ai) - Revolutionize 3D model creation with AI, no experience needed.. [Contact for Pricing]
 - [ThreeDee AI 3D Generator](https://www.threedee.design/products/ai-3d-generator/) - Generate 3D models from text prompts or a single image for creative and production workflows.. [Paid]
 - [ThreeDee AI 3D Bust Maker](https://www.threedee.design/products/3d-bust-maker/) - Generate printable 3D bust models from one portrait photo.. [Paid]
+- [iGen3D](https://igen3d.com/) - Convert 2D images and text prompts into production-ready 3D models and watertight STL files for 3D printing in under 60 seconds.. [Freemium]
 - [CSM](https://csm.ai) - Transform photos, text, sketches into immersive 3D worlds with AI.. [Freemium]
 - [Finch 3D](https://www.finch3d.com) - Optimize building design with AI and graph technology. Get immediate feedback on performance, detect errors and find optimal solutions in the early stages of design.. [Contact for Pricing]
 - [Move AI](https://www.move.ai) - Transforms 2D video to 3D motion data, enabling markerless motion capture.. [Contact for Pricing]
