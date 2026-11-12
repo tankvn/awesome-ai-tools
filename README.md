@@ -2964,6 +2964,7 @@ A curated list of awesome AI tools
 - [Lesson22](https://www.lesson22.ai) - Transforms articles into engaging videos for diverse learners.. [Freemium]
 - [Animate AI](https://animateai.pro) - Create animated video series swiftly with AI-driven tools.. [Freemium]
 
+- [AI Rap Video](https://rapaivideo.net) - Turns two selfies into a lip-synced rap music video with original AI lyrics and beat, ready in about three minutes. [Freemium]
 
 ## Audio
 
