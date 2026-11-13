@@ -59,6 +59,7 @@
 - [Yearbook Photos](https://www.yearbookphotos.io) - Instantly Generate Timeless Yearbook Photos with AI. [Free Trial]
 - [PicStudio](https://www.picstudio.ai) - Generate hyper-realistic AI portraits from selfies in minutes.. [Paid]
 - [Media AI Headshot ](https://www.media.io) - Get high-quality business headshots. [Paid]
+- [Beautyface](https://beautyface.app) - Turn 1–5 selfies into studio-lit LinkedIn headshots and photoshoots in 1K/2K/4K, 20 free credits, no training photos needed.. [Freemium]
 
 ### Avatars
 
