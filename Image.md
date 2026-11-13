@@ -658,6 +658,7 @@
 - [AI Expand Image](https://aiexpandimage.org) - Advanced AI-driven tool for seamless, natural image expansion.. [Contact for Pricing]
 - [PixelBin](https://www.pixelbin.io) - Revolutionize digital assets with AI-driven optimization, seamless integration, and global delivery.. [Free Trial]
 - [Bonkers](https://www.getmerlin.in) - All-in-one AI tool for writing, summarizing, coding, and more.. [Freemium]
+- [PalaPili](https://palapili.com) - Free AI photo enhancer and image editor: enhance clarity, unblur faces, upscale images up to 4K, edit by text prompts.. [Freemium]
 
 ### Text To Image
 
