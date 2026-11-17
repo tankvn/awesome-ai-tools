@@ -7798,6 +7798,7 @@ Royalty-Free Music: https://mubert.com/render/pricing?via=beatnc
 - [ChatHelp](https://chathelp.ai) - Elevate Efficiency with AI-Powered Assistance. [Free Trial]
 - [CamoCopy](https://www.camocopy.com) - Privacy-focused AI assistant and search engine.. [Freemium]
 - [Instill](https://www.instill.tech) - Accelerate AI development with a no-code/low-code platform, effortlessly integrating diverse data and AI models.. [Free]
+- [Off Grid AI](https://getoffgridai.co) - Private AI that runs on your own computer: chat, image generation and voice with open models, no account or cloud.. [Free]
 
 ### Travel
 
