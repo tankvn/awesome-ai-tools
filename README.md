@@ -2297,6 +2297,7 @@ A curated list of awesome AI tools
 - [Lazyeyefix AI Photo Editor](https://app.lazyeyefix.com) - Automatically detect and correct misaligned eyes, providing users with an easy and cost-free solution.. [Free]
 - [Virtual Staging AI](https://www.virtualstaging.art) - Stage Real Estate Images in Seconds with AI. [Freemium]
 - [Remove-BG.AI](https://remove-bg.ai) - Effortlessly strip image backgrounds with AI precision; download in HD.. [Freemium]
+- [BackGone](https://backgone.com) - Browser-based AI background remover with transparent PNG, bulk batches, passport-photo backgrounds and GIF support.. [Freemium]
 - [Resleeve](https://resleeve.ai) - Revolutionize fashion design: AI sketches, virtual shoots, instant edits.. [Free Trial]
 - [Wordlab](https://wordlab.io) - Escape the hefty costs and long waits of professional studio shoots and create eye-catching eCommerce product photos, anytime, anywhere.. [Freemium]
 - [PhotoTag.ai](https://www.phototag.ai) - Transform digital chaos into searchable libraries with AI-powered tagging.. [Freemium]
