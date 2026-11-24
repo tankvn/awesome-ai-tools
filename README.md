@@ -75,6 +75,7 @@ A curated list of awesome AI tools
     - [AI Detection](https://github.com/tankvn/awesome-ai-tools/blob/main/README.md#ai-detection)
     - [Fun Tools](https://github.com/tankvn/awesome-ai-tools/blob/main/README.md#fun-tools)
     - [Gaming](https://github.com/tankvn/awesome-ai-tools/blob/main/README.md#gaming)
+    - [Public Records MCP](https://github.com/GeminiGeorge22/publicrecords-mcp) - 18 Apify-hosted MCP servers for public data: SAM.gov, Grants.gov, USAspending, EU TED and UK tenders, city council meetings, Ashby/Greenhouse/Lever/SmartRecruiters jobs, company social links, Google Ads Transparency, Etsy sales, sports odds, Spotify play counts.
 
 
 ## Productivity Tools
