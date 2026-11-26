@@ -2963,6 +2963,7 @@ A curated list of awesome AI tools
 - [Trupeer](https://www.trupeer.ai) - AI-powered tool transforming screen recordings into polished videos.. [Freemium]
 - [Lesson22](https://www.lesson22.ai) - Transforms articles into engaging videos for diverse learners.. [Freemium]
 - [Animate AI](https://animateai.pro) - Create animated video series swiftly with AI-driven tools.. [Freemium]
+- [explainroo](https://github.com/vincentsch/explainroo) - Open-source tool that lets a coding agent like Claude Code or Codex turn a topic into a narrated explainer video or product demo, rendered on your own computer. [Free]
 
 
 ## Audio
