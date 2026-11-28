@@ -4750,6 +4750,9 @@ Royalty-Free Music: https://mubert.com/render/pricing?via=beatnc
 - [Reiki](https://reiki.web3go.xyz) - AI-driven tool for real-time energy healing and personalized plans.. [Contact for Pricing]
 - [Aniko](https://aniko.ai) – Gamified SAT prep with AI tutoring, practice tests, 20000+ quesiton bank, personalized study plans, and built-in Desmos calculator. [Free Trial]
 
+
+- [Whiteboard AI Tutor](https://github.com/molly554/whiteboard-ai-tutor) - Open-source whiteboard lesson playback and a structured drawing protocol with model-comparison benchmarks; new lessons require user-provided API keys.
+
 ### E-commerce
 
 - [FusionAds.ai](https://l.fusionos.ai) - Revolutionize ad creation and testing with AI-powered efficiency.. [Free Trial]
