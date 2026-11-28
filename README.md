@@ -1100,7 +1100,7 @@ A curated list of awesome AI tools
 - [Dreamspace](https://www.dreamspace.art) - Harness AI creativity: infinite canvas, interactive prompts, output comparison.. [Free Trial]
 - [Stable Diffusion Prompt Generator](https://www.thomas.io) - Elevate AI creativity with intuitive prompt customization and real-time previews.. [Free]
 - [Ape](https://weavel.ai) - Revolutionize LLM prompts with advanced tracing and automated evaluations.. [Freemium]
-- [Chain of Prompts Builder](https://mindpal.space) - Seamlessly automate complex tasks with AI-driven multi-agent workflows.. [Paid]
+- [MindPal](https://mindpal.space) - Turn your expertise into AI agents and multi-agent workflows that your clients and team use, no code. [Freemium]
 
 ### Writing Generators
 
@@ -4718,7 +4718,7 @@ Royalty-Free Music: https://mubert.com/render/pricing?via=beatnc
 - [Skill AI](https://skillai.io) - Customized Learning Paths with AI. [Freemium]
 - [Huxli.ai](https://huxli.ai) - AI-enhanced academic companion: solve math, humanize content, create notes.. [Freemium]
 - [SocratiQ](https://socratiq.ai) - The Future of Education, Integrated. [Paid]
-- [MindPal](https://www.mindpal.space) - Enhanced online learning with interactive support.. [Freemium]
+- [MindPal](https://mindpal.space) - Lets educators, coaches and consultants turn their expertise into AI tools and chatbots for their students and clients. [Freemium]
 - [SRead](https://sread.ai) - AI-Powered Smart Reading Assistant. [Free Trial]
 - [Questgen](https://www.questgen.ai) - Questgen is a quiz generator that provides an authoring tool to create assessments like multiple choice questions (MCQs), true/false questions, and higher-order questions with just one click. . [Free Trial]
 - [Pronounce](https://www.getpronounce.com) - Offers instant feedback on recorded speech, facilitating progress tracking and targeted improvement.. [Freemium]
