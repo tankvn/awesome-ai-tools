@@ -2818,6 +2818,9 @@ A curated list of awesome AI tools
 - [Submagic](https://www.submagic.co) - Effortlessly enhance videos with auto captions, b-rolls, and emojis.. [Paid]
 - [Minvo](https://minvo.pro) - AI-powered tool for effortless video editing and social media management.. [Freemium]
 
+
+- [ViralForge](https://github.com/fendouai/ViralForge) - Open-source CLI and MCP tools for local short-video structure analysis, editable VFML projects, and costed variant scripts.
+
 ### Video Generators
 
 - [Vid.AI](https://vid.ai) - AI-driven tool simplifies video creation and editing.. [Paid]
