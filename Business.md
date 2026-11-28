@@ -1406,7 +1406,7 @@
 - [Skill AI](https://skillai.io) - Customized Learning Paths with AI. [Freemium]
 - [Huxli.ai](https://huxli.ai) - AI-enhanced academic companion: solve math, humanize content, create notes.. [Freemium]
 - [SocratiQ](https://socratiq.ai) - The Future of Education, Integrated. [Paid]
-- [MindPal](https://www.mindpal.space) - Enhanced online learning with interactive support.. [Freemium]
+- [MindPal](https://mindpal.space) - Lets educators, coaches and consultants turn their expertise into AI tools and chatbots for their students and clients. [Freemium]
 - [SRead](https://sread.ai) - AI-Powered Smart Reading Assistant. [Free Trial]
 - [Questgen](https://www.questgen.ai) - Questgen is a quiz generator that provides an authoring tool to create assessments like multiple choice questions (MCQs), true/false questions, and higher-order questions with just one click. . [Free Trial]
 - [Pronounce](https://www.getpronounce.com) - Offers instant feedback on recorded speech, facilitating progress tracking and targeted improvement.. [Freemium]

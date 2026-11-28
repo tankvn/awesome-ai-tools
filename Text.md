@@ -79,7 +79,7 @@
 - [Dreamspace](https://www.dreamspace.art) - Harness AI creativity: infinite canvas, interactive prompts, output comparison.. [Free Trial]
 - [Stable Diffusion Prompt Generator](https://www.thomas.io) - Elevate AI creativity with intuitive prompt customization and real-time previews.. [Free]
 - [Ape](https://weavel.ai) - Revolutionize LLM prompts with advanced tracing and automated evaluations.. [Freemium]
-- [Chain of Prompts Builder](https://mindpal.space) - Seamlessly automate complex tasks with AI-driven multi-agent workflows.. [Paid]
+- [MindPal](https://mindpal.space) - Turn your expertise into AI agents and multi-agent workflows that your clients and team use, no code. [Freemium]
 - * [Scribely AI Prompt Generator](https://scribelydesigns.top/ai-prompt-generator) - Generate viral art prompts for Midjourney, Stable Diffusion & Nano Banana.. [Free]
 
 
